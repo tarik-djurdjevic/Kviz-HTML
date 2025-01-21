@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kviz - Europske integracije</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        line-height: 1.6;
+        background-color: #f4f4f9;
+        color: #333;
+      }
+      .container {
+        max-width: 800px;
+        margin: 20px auto;
+        padding: 20px;
+        background: #fff;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      h1 {
+        text-align: center;
+      }
+      .question {
+        margin-bottom: 20px;
+      }
+      .options label {
+        display: block;
+        margin: 5px 0;
+      }
+      .btn {
+        display: inline-block;
+        margin: 10px 0;
+        padding: 10px 20px;
+        background: #007bff;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+        border: none;
+        cursor: pointer;
+      }
+      .btn:hover {
+        background: #0056b3;
+      }
+      .results {
+        margin-top: 20px;
+        padding: 10px;
+        background: #e9ecef;
+        border-radius: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Kviz - Europske integracije</h1>
+      <form id="quiz-form">
+        <!-- Questions will be dynamically inserted here -->
+      </form>
+      <button class="btn" onclick="submitQuiz()">Završi kviz</button>
+      <div id="results" class="results" style="display: none"></div>
+    </div>
+
+    <script>
+      async function loadQuizData() {
+        try {
+          const response = await fetch("quizData.json");
+          if (!response.ok) {
+            throw new Error("Network response was not ok");
+          }
+          window.quizData = await response.json();
+          loadQuiz(window.quizData);
+        } catch (error) {
+          console.error("There was a problem loading the quiz data:", error);
+        }
+      }
+
+      function loadQuiz(quizData) {
+        const quizForm = document.getElementById("quiz-form");
+        quizData.forEach((item, index) => {
+          const questionDiv = document.createElement("div");
+          questionDiv.classList.add("question");
+
+          const questionTitle = document.createElement("h3");
+          questionTitle.textContent = `${index + 1}. ${item.question}`;
+          questionDiv.appendChild(questionTitle);
+
+          const optionsDiv = document.createElement("div");
+          optionsDiv.classList.add("options");
+
+          item.options.forEach((option, i) => {
+            const label = document.createElement("label");
+            const input = document.createElement("input");
+            input.type = "radio";
+            input.name = `question-${index}`;
+            input.value = i;
+            label.appendChild(input);
+            label.appendChild(document.createTextNode(option));
+            optionsDiv.appendChild(label);
+          });
+
+          questionDiv.appendChild(optionsDiv);
+          quizForm.appendChild(questionDiv);
+        });
+      }
+
+      function submitQuiz() {
+        const resultsDiv = document.getElementById("results");
+        resultsDiv.innerHTML = "";
+        let score = 0;
+
+        const quizForm = document.getElementById("quiz-form");
+
+        // Load quiz data from a global variable or state
+        const quizData = window.quizData || []; // Use the global quizData if it's already available
+
+        quizData.forEach((item, index) => {
+          const selected = document.querySelector(
+            `input[name="question-${index}"]:checked`
+          );
+          if (selected) {
+            const answer = parseInt(selected.value);
+            if (answer === item.correct) {
+              score++;
+            } else {
+              resultsDiv.innerHTML += `<p>Pitanje ${
+                index + 1
+              }: Netacno! Tačan odgovor: ${item.options[item.correct]}</p>`;
+            }
+          } else {
+            resultsDiv.innerHTML += `<p>Pitanje ${
+              index + 1
+            }: Niste odgovorili. Tačan odgovor: ${
+              item.options[item.correct]
+            }</p>`;
+          }
+        });
+
+        resultsDiv.innerHTML += `<h3>Vaš rezultat: ${score}/${quizData.length}</h3>`;
+        resultsDiv.style.display = "block";
+      }
+
+      loadQuizData();
+    </script>
+  </body>
+</html>

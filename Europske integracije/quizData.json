@@ -1,0 +1,730 @@
+[
+    {
+        "question": "Vijeće Europe je?",
+        "options": [
+            "Je međunarodna organizacija kojoj je osnovna funkcija zaštita ljudskih prava",
+            "Je nadnacionalna organizacija kojoj je osnovna funkcija zaštita ljudskih prava",
+            "Sastanak šefova država Europske unije",
+            "'sui generis' kvazidržavna struktura unutar Europske unije koja se bavi zaštitom ljudskih prava"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Trenutna struktura Europske unije se sastoji od?",
+        "options": ["Tri stuba", "Dva stuba", "Četiri stuba", "Ni jedno od navedenog"],
+        "correct": 0
+    },
+    {
+        "question": "Sjedište Vijeća Europe je u?",
+        "options": ["Briselu", "Luksemburgu", "Strazburu", "Berlinu"],
+        "correct": 2
+    },
+    {
+        "question": "Koliko zvjezdica ima na zastavi Europske unije?",
+        "options": ["12", "15", "25", "31"],
+        "correct": 0
+    },
+    {
+        "question": "Evropska unija je?",
+        "options": [
+            "'sui generis' struktura - ni država ni međunarodna organizacija",
+            "Federacija europskih država",
+            "Konfederacija europskih država",
+            "Skup međunarodnih europskih organizacija"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Trenutna struktura Europske unije je nastala?",
+        "options": ["1958", "1993", "1952", "1949"],
+        "correct": 1
+    },
+    {
+        "question": "Europski parlament?",
+        "options": [
+            "Je institucija Europske unije i njegovi članovi se biraju direktnim izborima",
+            "Je savjetodavno tijelo u Europskoj uniji i njegovi članovi se biraju iz nacionalnih parlamenata",
+            "Ima dva doma",
+            "Ima zadatak da čuva interese država članica Europske unije"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "U institucije Evropske unije spada?",
+        "options": [
+            "Evropska komisija",
+            "Evropski parlament",
+            "Evropski sud za zaštitu ljudskih prava",
+            "Evropski sud pravde"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Evropsko vijeće?",
+        "options": [
+            "Je institucija Vijeća Evrope",
+            "Nije institucija Evropske unije",
+            "Neformalni sastanak svih evropskih šefova država",
+            "Sastanak 15 šefova država ili vlada Evropske unije i predsjednika Evropske komisije"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Evropski parlament:",
+        "options": [
+            "Za razliku od Vijeća ministara EU ima zadatak da štiti interese država članica",
+            "Za razliku od Evropske komisije ima zadatak da štiti interese evropskih regija",
+            "Ima značajnu ulogu u zakonodavnom procesu u Evropskoj uniji",
+            "Nema nikakvu ulogu u zakonodavnom procesu"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Gdje se održavaju sastanci Evropskog vijeća:",
+        "options": ["U Briselu", "U Strazburu", "U zemlji koja trenutno predsjedava Evropskom unijom", "U Luksemburgu"],
+        "correct": 2
+    },
+    {
+        "question": "Prvi 'Evropski ugovor':",
+        "options": [
+            "Je sklopljen u Parizu i osnovao je Evropsku zajednicu ugljena i čelika",
+            "Je sklopljen u Mastrihtu i osnovao je Evropsku zajednicu ugljena i nafte",
+            "Je sklopljen u Strazburu i osnovao je EU",
+            "Je sklopljen u Rimu i osnovao je EU"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Kriteriji za članstvo u Evropskoj uniji podrazumijevaju:",
+        "options": [
+            "Političke kriterije",
+            "Političke, ekonomske i pravne kriterije",
+            "Ekonomske kriterije",
+            "Zaštitu ljudskih prava"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Kriteriji za članstvo su:",
+        "options": [
+            "Dopunjeni u Madridu 1995. u pogledu institucionalnih kapaciteta države",
+            "Nisu nikada dopunjavani",
+            "Dopunjeni u Kopenhagenu 2002. u pogledu zaštite ljudskih prava",
+            "Dopunjen je u Solunu 2003. za zemlje Procesa stabilizacije i pridruživanja"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Politički kriteriji za članstvo u Evropsku uniju podrazumijevaju:",
+        "options": [
+            "Postojanje demokracije, vladavine prava te poštivanje ljudskih prava i prava manjina",
+            "Da je zemlja članica Vijeća Evrope",
+            "Da postoji politička stabilnost u zemlji",
+            "Postojanje višepartijskog sistema"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Primarni izvori Evropskog prava:",
+        "options": [
+            "Ugovori na kojima se temelji današnja konstrukcija Evropske unije",
+            "Presude Suda prava",
+            "Nacionalni ustavi država članica Evropske unije",
+            "Zajedničke akcije Unije oko kojih se usaglase šefovi država članica Evropske unije"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Bijela knjiga je:",
+        "options": [
+            "Dokument kojeg izrađuje Evropska komisija nastao kao rezultat diskusije o određenoj problematici i daje preporuke za tu oblast",
+            "Je dokument koji inicira diskusije",
+            "Je dokument koji izrađuje Evropski parlament i daje preporuke za Evropsku komisiju",
+            "Dokument sačinjen isključivo za BiH, kako bi joj se olakšalo strateško planiranje ekonomske regeneracije"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Bijela knjiga od posebnog interesa za BiH nosi naziv:",
+        "options": [
+            "Bosna i Hercegovina - put do unutarnjeg tržišta",
+            "Pripreme pridruženih zemalja CEI Evrope za integraciju u unutarnje tržište EU",
+            "Proces stabilizacije i pridruživanja - od potencijalnog kandidata do kandidata",
+            "Unutarnje tržište - put ka održivom razvoju"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Jedinstveno tržište Evropske unije je formalno profunkcioniralo:",
+        "options": ["1958.", "1985.", "1992.", "2002."],
+        "correct": 2
+    },
+    {
+        "question": "Evropska komisija je lansirala Proces stabilizacije i pridruživanja:",
+        "options": ["1999.", "2003.", "2002.", "1995."],
+        "correct": 0
+    },
+    {
+        "question": "Pregovori o sporazumu o stabilizaciji i pridruživanju će započeti:",
+        "options": [
+            "Sredinom 2005.",
+            "Već su započeli",
+            "Krajem 2005.",
+            "Čim BiH demonstrira značajan progres u 16 prioritetnih područja naznačenih u Studiji o izvodljivosti"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Zemlje članice procesa Stabilizacije i pridruživanja iz regiona jugoistočne Evrope su:",
+        "options": [
+            "Bosna i Hercegovina, Hrvatska, Srbija i Crna Gora, Albanija, Makedonija",
+            "Bosna i Hercegovina, Hrvatska, Srbija i Crna Gora, Albanija, Makedonija, Rumunija, Bugarska",
+            "Bosna i Hercegovina, Hrvatska, Srbija i Crna Gora",
+            "Bosna i Hercegovina, Hrvatska, Srbija i Crna Gora, Makedonija, Slovenija"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Evropski ustav:",
+        "options": [
+            "Pariz, 1951.",
+            "Mastriht, 1992.",
+            "Solun, 2003.",
+            "U pripremi je"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Zemlje članice Pakta stabilnosti iz regiona jugoistočne Evrope su:",
+        "options": [
+            "Bosna i Hercegovina, Hrvatska, Srbija i Crna Gora, Albanija, Makedonija",
+            "Bosna i Hercegovina, Hrvatska, Srbija i Crna Gora, Albanija, Makedonija, Rumunija, Bugarska",
+            "Bosna i Hercegovina, Hrvatska, Srbija i Crna Gora, Albanija, Makedonija, Bugarska, Rumunija, Slovenija, Grčka",
+            "Bosna i Hercegovina, Hrvatska, Srbija i Crna Gora"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Jedna od pobrojanih nije institucija Vijeća Evrope iz Strazbura:",
+        "options": [
+            "Evropski sud pravde",
+            "Parlamentarna skupština",
+            "Komitet ministara",
+            "Kongres lokalnih i regionalnih vlasti"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Proces stabilizacije i pridruživanja vezuje se za:",
+        "options": [
+            "Sve zemlje kandidate za članstvo u Evropskoj uniji",
+            "Deset kandidatskih zemalja čiji se prijem u Evropsku uniju očekuje u 2004.",
+            "Zemlje Zapadnog Balkana",
+            "Zemlje koje su do sastanka u Beču 2000. predale zahtjev za prijem u članstvo u Evropsku uniju"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Studiju izvodivosti (feasibility study) izrađuje:",
+        "options": [
+            "Vlada zemlje kandidata",
+            "Vlada zemlje kandidata prema uputstvima Evropske komisije",
+            "Evropska komisija",
+            "Predstavnici Evropskog parlamenta u saradnji sa Komitetom regija"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Predsjedavanje Evropskom unijom rotira se:",
+        "options": [
+            "Svaki 6 mjeseci",
+            "Svaki 12 mjeseci",
+            "Svaki 18 mjeseci",
+            "Svaka 24 mjeseca"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Bosna i Hercegovina postala je članica Vijeća Evrope:",
+        "options": [
+            "1992.",
+            "1996.",
+            "1999.",
+            "1963."
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Predstavnici u Evropski parlament:",
+        "options": [
+            "Iz Parlamenta članica Evropske unije",
+            "Na direktnim izborima za Evropsku uniju Parlament",
+            "Iz vladajućih parlamentarnih stranaka zemalja članica",
+            "Iz opozicionih stranaka zemalja članica EU"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Acquis communautaire, skraćeno aquis, naziva se još i nasljeđem zajednice i znači:",
+        "options": [
+            "Skup prava i obaveza koja sve zemlje članice obavezuje i povezuje unutar Evropske unije",
+            "Skup pravila koja se odnose na zemlje izvan Evropske unije",
+            "Skup pravila koja zemlja kandidat može a ne mora prihvatiti i ugraditi u svoje zakonodavstvo",
+            "Skup pravila koja zemlja (država) kandidat mora prihvatiti i uskladiti svoje zakonodavstvo sa acquis communautairem"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Bijela knjiga je:",
+        "options": [
+            "Registar propisa i pravila Evropske komisije koje izdaje svake kalendarske godine",
+            "Dokument koji sadrži pravila rada Evropske komisije",
+            "Knjiga izvještaja o zasjedanju Evropskog parlamenta",
+            "Dokument kojeg je sačinila Evropska komisija kao dio strategije za pripremu zemalja kandidata srednje i istočne Evrope za integraciju na unutarnje tržište"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Bijela knjiga sadrži:",
+        "options": [
+            "43 poglavlja propisa sadržanih u aquis communatarem",
+            "72 poglavlja propisa sadržanih u aquis communatarem",
+            "13 poglavlja propisa sadržanih u aquis communatarem",
+            "22 od 31 poglavlja sadržanih u aquis communatarem"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "CARDS je:",
+        "options": [
+            "Program tehničke pomoći namijenjen od strane Evropske unije za obnovu i razvoj i stabilizaciju, namijenjen Albaniji, BiH, SR Jugoslaviji, Hrvatskoj i Makedoniji",
+            "Program tehničke pomoći namijenjen od strane Evropske unije za obnovu putne infrastrukture u BiH",
+            "Program tehničke pomoći namijenjen od strane Evropske unije za obnovu poljoprivredne proizvodnje - Albaniji i BiH",
+            "Program tehničke pomoći namijenjen od strane Evropske unije za izgradnju mosta u SR Jugoslaviji"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Za koordinaciju CARDS programa u BiH zadužena je:",
+        "options": [
+            "Parlamentarna skupština BiH",
+            "Ministarstvo pravde BiH",
+            "Predsjedništvo BiH",
+            "Direkcija za evropske integracije"
+        ],
+        "correct": 3
+    },
+    {
+        "question": "Provedba CARDS programa vrši se u skladu sa:",
+        "options": [
+            "Programom rada Vijeća ministara BiH",
+            "Standardima i procedurama Evropske komisije",
+            "Programom koji usvoji Parlamentarna skupština BiH",
+            "Odlukama Vijeća ministara i entitetskih vlada"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Šta je Ekonomska i monetarna unija?",
+        "options": [
+            "To je proces u kojem zemlje članice Evropske unije usklađuju svoje ekonomske i monetarne politike, s krajnjim ciljem usvajanja jedinstvene valute - EURA",
+            "To je skup zemalja kandidata za prihvatanje jedinstvene valute: EURA",
+            "To je skup evropskih zemalja koje su prve prihvatile jedinstvenu valutu EURO",
+            "To je skup zemalja koje su zadužene da u Evropskoj uniji lobiraju za usvajanje Evropskog ustava u nacionalnim parlamentima"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Šta je to EURO?",
+        "options": [
+            "Euro je jedinstvena valuta koji je 15. maja 2000. godine prihvatilo 11 zemalja članica Evropske unije, s krajnjim ciljem potpunog ukidanja nacionalnih valuta",
+            "Euro je jedinstvena valuta koju je 1. januara 1999. godine prihvatilo 11 zemalja članica EU (Austrija, Belgija, Finska, Francuska, Irska, Italija, Luksemburg, Nizoz., Njemačka, Portugal i Španj.) s krajnjim ciljem potpunog ukidanja nac. valuta",
+            "Euro je jedinstvena valuta koju je 1. maja 2001. godine prihvatilo 11 zemalja Evropske unije kao nacionalne valute",
+            "Euro je jedinstvena valuta koju je prihvatilo više od polovine zemalja Evrope kao nacionalne valute"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Evropska unija je proces saradnje i integracije koji je započelo šest evropskih zemalja:",
+        "options": [
+            "Evropska unija je proces saradnje i integracija koji je 1961. godine započelo pet evropskih zemalja: Njemačka, Italija, Nizozemska, Luksemburg i Francuska",
+            "Evropska unija je proces saradnje i integracija koji je 1951. godine započelo šest zemalja: Belgija, Njemačka, Francuska, Italija, Luksemburg i Nizozemska",
+            "Evropska unija je proces saradnje i integracija na vojnom planu koje su 1951. godine započele tri zemlje: Njemačka, Francuska i Engleska",
+            "Evropska unija je proces saradnje i integracija na ekonomskom planu koje su 1961. godine započele Italija, Njemačka i Grčka"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Pojam Evropske unije uveden je ugovorom koji je potpisan:",
+        "options": [
+            "U Londonu, 10. marta 1991. godine",
+            "U Parizu, 15. maja 1993.",
+            "U Bonnu, 15. juna 1991. godine",
+            "U Maastrichtu, 7. februara 1992. godine"
+        ],
+        "correct": 3
+    },
+
+
+    {
+        "question": "Ciljevi Evropske unije su:",
+        "options": [
+            "Poštivanje normi zaštite okoline; Poštivanje ekonomskog rasta i društvenog napretka",
+            "Povećanje zaposlenosti i socijalne sigurnosti; Povećanje životnog standarda i kvaliteta života",
+            "Postizanje ekonomskog rasta i društvenog napretka; Stvaranje prostora bez unutrašnjih granica; Povećanje zaposlenosti i socijalne sigurnosti; Povećanje životnog standarda i kvaliteta života",
+            "Stvaranje prostora bez unutrašnjih granica; Povećanje zaposlenosti i socijalne sigurnosti"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Evropske institucije su:",
+        "options": [
+            "Evropsko vijeće; Evropski parlament; Evropski sud pravde",
+            "Evropsko vijeće; Vijeće evropske unije; Evropska komisija; Evropski parlament; Evropski sud pravde; Ekonomski i socijalni komitet; Komitet regija; Revizorski sud; Evropska centralna banka; Evropska investicijska banka",
+            "Vijeće evropske unije; Evropski parlament; Evropski sud pravde; Evropska centralna banka",
+            "Evropsko vijeće; Vijeće evropske unije; Komitet regija; Evropski sud pravde"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Kada je BiH prezentovala svoj zahtjev za otpočinjanje izrade studije izvodljivosti o zaključenju ugovora o stabilizaciji i pridruživanju?",
+        "options": [
+            "U januaru 1999. godine",
+            "U martu 2001. godine",
+            "U februaru 2000. godine",
+            "Nije prezentirala zahtjev nego će to učiniti 2005. godine"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Kada je Predsjedništvo BiH prihvatilo uslove Evropske unije sadržane u mapi puta?",
+        "options": [
+            "16. februara 1999. godine",
+            "28. marta 2000. godine",
+            "6. aprila 2000. godine",
+            "6. maja 2003. godine"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Šta sadrži mapa puta?",
+        "options": [
+            "Mapa puta je podijeljena u pet podgrupa i to: politički, ekonomski uslovi i uslovi iz oblasti socijalnog prava",
+            "Mapa puta je podijeljena u tri podgrupe uslova i to: politički, ekonomski uslovi i uslovi iz oblasti demokratije, ljudskih prava i vladavine zakona",
+            "Mapa puta je cjelovit dokument koji sadrži trideset pojedinačnih uslova koje treba ispuniti BiH",
+            "Mapa puta je podijeljena u sedam podgrupa uslova iz oblasti ekonomije i socijalnih prava građana BiH"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Šta je Evropski sporazum?",
+        "options": [
+            "To je Sporazum o pridruživanju koji se zaključuje između EU i zemalja centralne i istočne Evrope",
+            "To je Sporazum o pridruživanju koji se zaključuje između EU i zemalja kandidata za prijem u EU",
+            "To je Sporazum o prihvatanju Evropskog ustava",
+            "To je Sporazum o priznavanju presuda Evropskog suda pravde"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Šta predstavljaju kriteriji konvergencije?",
+        "options": [
+            "Kriteriji konvergencije predstavljaju izjave o prihvatanju odluka Evropskog suda pravde",
+            "Kriteriji konvergencije predstavljaju izjave o prihvatanju odluka Evropskog parlamenta",
+            "Kriteriji konvergencije predstavljaju ekonomske uvjete utvrđene Ugovorom iz Maastrichta, kojim se procjenjuje spremnost zemalja EU za sudjelovanje u Ekonomskoj i monetarnoj uniji",
+            "Kriteriji konvergencije predstavljaju spremnost zemalja kandidata za EU za prihvatanje smanjenja javnog duga do 3 % BDP i budžetskog deficita do 60% BDP"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Šta je Pakt stabilnosti?",
+        "options": [
+            "To je zajednica evropskih država u oblasti regionalne ekonomske saradnje",
+            "To je politička inicijativa za podršku zemalja jugoistočne Evrope u njihovim naporima da ojačaju mir, razviju demokratiju, poštuju ljudska prava i obezbijede ekonomski prosperitet, sve u cilju postizanja stabilnosti u cijelom regionu",
+            "To je politička inicijativa za demilitarizaciju regiona",
+            "To je politička inicijativa za provođenje optuženih za ratne zločine i njihovu odgovornost pred Haškim tribunalom"
+        ],
+        "correct": 1
+    },
+    {
+        "question": "Kada je osnovan Pakt stabilnosti?",
+        "options": [
+            "Pakt stabilnosti je inicirala Evropska unija u mapi 2001. godini, a zvanično je osnovan u Budimpešti 2003. godine",
+            "Pakt stabilnosti je inicirala BiH 2000. godine, a zvanično je osnovan u Bukureštu 2001. godine",
+            "Pakt stabilnosti je inicirala Evropska unija u junu 1999. godine, a zvanično je osnovan na samitu šefova zemalja i vlada Evrope, Kanade, Japana i SAD održanog 30. jula 1999. godine u Sarajevu",
+            "Pakt stabilnosti je inicirala Evropska unija u junu 1999. godine, a zvanično je osnovan na samitu šefova zemalja i Vlada Evropa, Kanade, Japana i SAD, održanog 30. jula 1999. godine u Atini"
+        ],
+        "correct": 2
+    },
+    {
+        "question": "Kada je osnovano Vijeće Evrope?",
+        "options": [
+            "Vijeće Evrope je međuvladina, međunarodna organizacija osnovana 5. maja 1949. godine",
+            "Vijeće Evrope je međuvladina, međunarodna organizacija osnovana 25. juna 1953. godine",
+            "Vijeće Evrope je međuvladina međunarodna organizacija osnovana 15. aprila 1962. godine",
+            "Vijeće Evrope je međuvladina međunarodna organizacija osnovana 13. septembra 1982. godine"
+        ],
+        "correct": 0
+    },
+    {
+        "question": "Šta su glavni ciljevi Vijeća Evrope?",
+        "options": [
+            "Zaštita ljudskih prava, parlamentarne demokratije i ljudskih prava",
+            "Iznalaženje rješenja za probleme sa kojima se suočava evropsko društvo",
+            "Zaštita ljudskih prava, parlamentarne demokratije i ljudskih prava; Razvoj širokog spektra evropskih ugovora kako bi zemlje članice standardizovale socijalnu i pravnu praksu; Iznalaženje rješenja za probleme sa kojima se suočava evropsko društvo; Jačanje demokratske stabilnosti Evrope",
+            "Jačanje demokratske stabilnosti Evrope; Iznalaženje rješenja za probleme sa kojima se suočava evropsko društvo"
+        ],
+        "correct": 2
+    },
+
+    {
+        "question": "Od kada BiH uživa status specijalnog gosta u Vijeću Evrope?",
+        "options": [
+          "Od 15. marta 1999. godine",
+          "Od 28. jula 2001. godine",
+          "Od 28. januara 1994. godine",
+          "BiH nije imala specijalni status u Vijeću Evrope"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Od kada se počinju razvijati odnosi između BiH i Evropske unije?",
+        "options": [
+          "Od aprila 1992. godine, priznavanjem RBiH kao nezavisne i suverene države",
+          "Od novembra 1995. godine i potpisivanja Dejtonskog sporazuma",
+          "Od marta 2000. godine i objavljivanja 'Mape puta'",
+          "Od decembra 2002. godine kada je Evropska komisija saopštila da su smjernice Mape puta o približavanju Evropskoj uniji uglavnom ispunjenje"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Šta čini strukturu Vijeća Evrope?",
+        "options": [
+          "Komitet ministara koji donosi i provodi odluke VE; Parlament. skupština, koja je savjetodavni organ VE; Kongres lok. i region. vlasti Evrope, koja se sastoji od predstavnika svojih zemalja članica",
+          "Struktura Vijeća Evrope sastoji se od: Komiteta ministara koje provodi odluke Parlamentarne skupštine Vijeća Evrope; Kongresa lokalnih i regionalnih vlasti Evrope",
+          "Struktura Vijeća Evrope sastoji se od: Parlamentarne skupštine kao organa koji donosi odluke; Evropske vlade koja provodi odluke Parlamentarne skupštine Vijeća Evrope",
+          "Struktura Vijeća Evrope sastoji se od povremenih i od ad hock savjetodavnih tijela sačinjenih od predstavnika vlada zemalja članica Vijeća Evrope"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Kada je Evropska komisija objavila studiju izvodljivosti koja razmatra spremnost BiH da započne razgovore o sporazumu i stabilizaciji i pridruživanju sa Evropskom unijom?",
+        "options": [
+          "12. decembra 2002. godine u Budimpešti",
+          "18. novembra 2003. godine u Briselu",
+          "17. januara 2004. godine u Sarajevu",
+          "10. januara 2005. godine u Briselu"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Koliko prioritetnih reformi je identificirano u studiji izvodljivosti i na što se odnosi?",
+        "options": [
+          "Studija izvodljivosti sadrži 29 prioritetnih reformi koje se odnose na ekonomsko-socijalni sektor",
+          "Studija izvodljivosti sadrži 18 prioritetnih reformi koje se odnose na političku situaciju, legislativne i ekonomske reforme",
+          "Studija izvodljivosti sadrži 16 prioritetnih reformi koje se odnose na tekuću političku situaciju u BiH, njene ekonomske perspektive i njen napredak i u ispunjavanju zahtjeva u programe stabilizacije i pridruživanja",
+          "Studija izvodljivosti sadrži više desetina prioritetnih reformi koje se odnose na ukupno stanje u BiH"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Koje tijelo vlasti BiH je direktno zaduženo za organizaciju i praćenje ispunjenja uslova za uključenje BiH u evropske integracije?",
+        "options": [
+          "Ministarstvo pravde BiH",
+          "Ministarstvo vanjske trgovine i ekonomskih odnosa BiH",
+          "Direkcija za evropske integracije u sastavu Vijeća ministara BiH",
+          "Vijeće ministara BiH i entitetske vlade"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Kada je Vijeće ministara BiH podnijelo izvještaj o ostvarenom napretku u 16 prior. oblasti iz izvještaja EC Vijeću minist. EU o izvodljiv. pregov. između BiH i EU o Sporazumu o stabiliz. i pridruživanju?",
+        "options": [
+          "10. marta 2003. godine",
+          "18. januara 2004. godine",
+          "22. juna 2004. godine",
+          "22. jula 2004. godine"
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Na koji način se ispituje sposobnost zemlje za ugovorne odnose sa Evropskom unijom?",
+        "options": [
+          "Posjetama posebnih delegacija Evropske unije zemlji kandidatu za prijem",
+          "Dostavljanjem izvještaja zemlje kandidata o napretku Evropskoj uniji",
+          "Izradom izvještaja Evropske komisije o izvodljivosti pregovaranja o Sporazumu o stabilizaciji i pridruživanju sa datom zemljom",
+          "Godišnjim izvještajem date zemlje o stanju u oblasti ljudskih prava i ekonomsko-socijalnom sektoru"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Koje tijelo u Vladi BiH vrši raspodjelu pitanja po institucijama s obzirom na njihove nadležnosti u vezi sa pripremama i provođenjem aktivnosti u BiH?",
+        "options": [
+          "Ministarstvo pravde BiH",
+          "Ministarstvo vanjskih poslova BiH",
+          "Direkcija za evropske integracije",
+          "Vijeće ministara u cjelini"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Koliko je sastanaka institucija BiH održano sa predstavnicima Evropske komisije o Studiji izvodljivosti u toku 2003. godine?",
+        "options": [
+          "U toku 2003. godine održano je četiri sastanka i razgovora sa predstavnicima Evropske komisije",
+          "U toku 2003. godine održano je sedam sastanka i razgovora sa predstavnicima Evropske komisije",
+          "U toku 2003. godine održano je devet sastanka i razgovora sa predstavnicima Evropske komisije",
+          "U toku 2003. godine održano je dva sastanka i razgovora sa predstavnicima Evropske komisije"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Koliko je BiH dobila finansijske pomoći od Evropske komisije između 2000. i 2003. godine?",
+        "options": [
+          "BiH je dobila između 2000. i 2003. godine oko 390 miliona eura pomoći od Evropske unije",
+          "BiH je dobila između 2000. i 2003. godine oko 500 miliona eura pomoći od Evropske unije",
+          "BiH je dobila između 2000. i 2003. godine oko 150 miliona eura pomoći od Evropske unije",
+          "BiH je dobila između 2000. i 2003. godine oko 28 miliona eura pomoći od Evropske unije"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Ko, kada i u kojem gradu je donio odluku o potrebi donošenja Ustava Evropske unije?",
+        "options": [
+          "Evropski parlament je na svom zasjedanju krajem 2003. godine donio odluku o pristupanju izrade Ustava Evropske unije",
+          "Evropska komisija je u junu 2004. godine donijela odluku da se pristupi izradi Ustava Evropske unije",
+          "Predstavnici Evropske unije su u belgijskom gradu Lekenu (Lacken) dogovorili o potrebi donošenja Evropskog ustava",
+          "Vijeće Evrope je na svom redovnom zasjedanju u decembru 2004. godine donijelo odluku o potrebi izrade Evropskog ustava"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Koliko zemalja je u sastavu Evropske unije?",
+        "options": [
+          "U sastavu Evropske unije je 43 zemlje članice",
+          "U sastavu Evropske unije je 18 zemalja članica",
+          "U sastavu Evropske unije je 25 zemalja članica",
+          "U sastavu Evropske unije je 11 zemalja članica"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Koliko miliona stanovnika živi u zemljama članicama Evropske unije?",
+        "options": [
+          "U Evropskoj uniji - zemljama članicama živi oko 630 miliona ljudi - stanovnika",
+          "U Evropskoj uniji - zemljama članicama živi oko 450 miliona ljudi - stanovnika",
+          "U Evropskoj uniji - zemljama članicama živi oko 380 miliona ljudi - stanovnika",
+          "U Evropskoj uniji - zemljama članicama živi oko 280 miliona ljudi - stanovnika"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Šta je Evropski parlament i koliko broji članica?",
+        "options": [
+          "Evropski parlament je institucija u kojoj su zastupljeni građani iz država članica. Broji najviše 736 članova. Mandat mu je pet godine. Vrši političku kontrolu nad Evropskom komisijom. Ima kolegislatorske moći i ulogu.",
+          "Evropski parlament je zakonodavno tijelo EU u kojem su zastupljene vlade zemalja članica. Broji 289 članova. Mandat je tri godine.",
+          "Evropski parlament je institucija konsultativnog karaktera u kojoj su zastupljeni parlamenti zemalja članica. Broji 310 članova. Mandat je šest godina.",
+          "Evropski parlament je institucija savjetodavnog karaktera u kojoj su zastupljene evropske regije. Broji 412 članova"
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Šta je Evropski savjet?",
+        "options": [
+          "Evropski savjet je povremeno tijelo Evropske unije. Sastaje se pet puta godišnje. Odluke donosi većinom glasova. Članovi Evropskog savjeta su predsjednici vlada zemalja članica EU. Mandat Evropskog savjeta je šest godina",
+          "ES je tijelo EU. Sast. je od preds. država ili vlada zem. član., predsj. i potpr. komis.Nema legis. funkc. Min. vanj. posl. EU učes. u radu ES. Predsj. ES bira se na dvije god. i on je Vis. predst. EU za resor vanj. polit. i sigur. pol.",
+          "Evropski savjet je institucija EU koja ima savjetodavnu ulogu EU. Sastavljen je od po sedam predstavnika zemalja članica EU. Odluku donosi konsenzusom. Ima legislativne funkcije. Ima predsjednika i osam potpredsjednika",
+          "Evropski savjet je tijelo EU koje se sastaje povremeno. Sastavljen je od po pet delegata parlamenta zemalja članica EU. Ima legislativne ovlasti. Odluke donosi većinom glasova. Ima predsjednika i šest zamjenika predsjednika"
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Šta je Savjet ministara EU?",
+        "options": [
+          "Savjet ministara EU je jedno od najvažnijih tijela EU. Sastavljen je od po tri ministra iz svake zemlje članice. Donosi propise obavezujućeg karaktera za članice EU.",
+          "Savjet ministara EU je izvorno tijelo vlasti EU. Zamjenjuje vlade zemalja članica EU. Sastavljen je od po pet ministara iz svake zemlje članice EU. Zasijeda jednom mjesečno. Savjet ministara ima predsjednika i sedam potpredsjednika",
+          "U Sav. minist. zastuplj. su sve vlade zem. članica, sa po jednim minist. iz svake zemlje. Savjet, zajedno sa Evr. parl. izvršava legis. i budž. poslove. Najvažnija je instit. EU kada se radi o donoš. odluka o zajed. vanj. i sigurn. polit.",
+          "Savjet ministara je Vlada EU i sastoji se od 31 člana iz zemalja članica. Priprema nacrte i prijedloge legislative za Evropski parlament. Odluke Savjeta ministara nadređene su odlukama vlada zemalja članica"
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Šta je Evropska komisija (EC)?",
+        "options": [
+          "EC je tijelo koje zastupa zajednički interes svih zemalja članica EU, planira i implementira zajedničke politike, odlučuje o budžetu i usklađuje programe. Predstavlja EU i vodi međunardne pregovore. Kontroliše korektno provođenje odluka institucija EU. Sastoji se od po jednog predstavnika iz svake zemlje članice.",
+          "EC je tijelo koje zastupa pojedinačne interese zemalja članica. U Evropskoj komisiji se usklađuju interesi zemalja članica. Sastoji se od po dva predstavnika iz zemalja članica.",
+          "EC je tijelo EU koje zastupa zajednički interes većine zemalja članica. Sastoji se od po tri predstavnika iz zemalja članica. Odluke donosi konsenzusom.",
+          "EC je tijelo EU koje se sastaje po potrebi. Sastav Evropske komisije određuje se za svako zasjedanje u zavisnosti od pitanja koje razmatra. Odluke donosi konsenzusom."
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Šta je Ministar vanjskih poslova EU?",
+        "options": [
+          "To je institucija EU koja egzistira od osnivanja EU. Imenuje ga Evropski parlament. Zamjenjuje ministre vanjskih poslova zemalja članica.",
+          "To je institucija koja se uvodi Evropskim ustavom. Imenuje ga Evropski savjet uz saglasnost predsjednika Evropske komisije. Ministar vanjskih poslova EU osigurava konzistentnost u vanjskom djelovanju EU na političkom i ekonomskom planu.",
+          "To je institucija koja će biti uvedena u strukturi EU 2006. godine. Biraće ga Evropski parlament. Nadomjestit će institucije ministara vanjskih poslova zemalja članica.",
+          "To je institucija koja se uvodi Evropskim ustavom 2007. godine. Nadležnosti će mu biti određene od strane Evropskog parlamenta."
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Kakva je struktura Suda pravde?",
+        "options": [
+          "Sud pravde EU sastoji se od: Evropskog suda pravde, Vrhovnog suda i posebnih sudova. Sud pravde je odgovoran za provođenje evropskog zakona.",
+          "Sud pravde EU sastoji se od: Vrhovnog suda i posebnih sudova. Sud pravde zamjenjuje nacionalne sudove zemalja članica.",
+          "Sud pravde EU je najviši apelacioni sud EU nadležan za preispitivanje konačnih odluka najviših sudova zemalja članica.",
+          "Sud pravde EU je odgovoran za provođenje evropskog zakona i zakona zemalja članica EU."
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Koja je jurisdikcija Suda pravde?",
+        "options": [
+          "Sud pravde je nadležan u sporovima između zemalja članica.",
+          "Sud pravde je nadležan u sporovima između unije i zemalja članica.",
+          "Sud pravde je nadležan u sporovima između institucija privatnih lica i unije.",
+          "Sud pravde je nadležan u sporovima između zemalja članica, u sporovima između unije i zemalja članica i u sporovima između institucija privatnih lica i unije. Nadležan je i za odgovaranje na pitanja interpretiranja zakona od strane nacionalnih sudova."
+        ],
+        "correct": 3
+      },
+      {
+        "question": "Šta je Evropska centralna banka (ECB)?",
+        "options": [
+          "Evropska centralna banka je nadležna za uspostavljanje monetarne unije i jedinstvene valute - eura. Vodi evropsku monetarnu politiku od 1. 01. 1999. godine. Evropska centralna banka treba da održava stabilnost cijena.",
+          "Evropska centralna banka je nadležna za monetarnu politiku zemalja članica.",
+          "Evropska centralna banka je nadležna za ekonomsku politiku zemalja članica od 1. 01. 1999. godine.",
+          "Evropska centralna banka je nadležna za čuvanje zlatnih rezervi zemalja članica EU."
+        ],
+        "correct": 0
+      },
+      {
+        "question": "Šta je to Odbor regija?",
+        "options": [
+          "Odbor regija je tijelo EU u kojem su zastupljene zemlje članice. Odbor regija je savjetodavno tijelo Evropske komisije.",
+          "Odbor regija je tijelo EU u kojem su zastupljene lokalne vlasti iz zemalja članica. Konsultativno je tijelo.",
+          "Odbor regija je tijelo EU u kojem su zastupljene regionalne i lokalne vlasti. Evropski parlament, Evropska komisija i Ekonomski savjet konsultuju se sa Odborom regija o pitanjima vezanim za lokalne i regionalne interese, uključujući obrazovanje, zdravstvo, ekonomiju i socijalnu politiku. Maksimalni broj članova Odbora regija je 350, a bira ih Evropski savjet na pet godina.",
+          "Odbor regija je tijelo EU koje se sastaje po potrebi."
+        ],
+        "correct": 2
+      },
+      {
+        "question": "Koje su isključive nadležnosti EU?",
+        "options": [
+          "Zajednička privredna politika, monetarna politika, pravila natjecanja i konkurencije.",
+          "Pravila natjecanja i konkurencije, carinska pravila, zajednička privredna politika, monetarna politika koja se odnosi na euro, očuvanje bioloških i prirodnih izvora.",
+          "Očuvanje bioloških i prirodnih izvora, monetarna politika koja se odnosi na euro, carinska politika.",
+          "Monetarna politika, carinska politika, zajednička privredna politika."
+        ],
+        "correct": 1
+      },
+      {
+        "question": "Šta znači princip proporcionalnosti?",
+        "options": [
+          "Princip proporcionalnosti znači da sadržaj i oblik akcija Unije neće prelaziti ono što je potrebno za postizanje ciljeva Ustava.",
+          "Princip proporcionalnosti znači da Unija neće nametati nikakva rješenja o bilo kojem pitanju o kojem se ne postigne konsenzus zemalja članica.",
+          "Princip proporcionalnosti znači da nijedno pitanje neće biti raspravljano ako se sa time ne slože jedna trećina zemalja članica EU.",
+          "Princip proporcionalnosti znači da će se raspravljati samo o onim pitanjima koja su od koristi za sve zemlje članice EU."
+        ],
+        "correct": 0
+      }
+]

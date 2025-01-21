@@ -1,0 +1,992 @@
+[
+    {
+      "question": "Nespojivo je sa dužnošću državnog službenika :",
+      "options": [
+        "Da bude član političkih stranaka;",
+        "Da obavlja dodatnu aktivnost za koju se plaća naknada iako mu je to odobrio ministar ili rukovodilac institucije",
+        "Da se zaposli kod poslodavca kome je bio redovni pretpostavljeni prije isteka roka od dvije godine od razrješenja s dužnosti državnog službenika",
+        "Da bude na odsustvu iz državne službe od trenutka kada je imenovan na bilo kojem zakonodavnom ili izvršnom organu na bilo kojem nivou vlasti u Bosni i Hercegovini, do isteka mandata"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Interni premještaj sa radnog mjesta državnog službenika na slično radno mjesto u istoj instituciji može biti:",
+      "options": [
+        "Nametnut državnom službeniku prema potrebama državne službe",
+        "Obavljen samo uz suglasnost državnog službenika",
+        "Dobrovoljan ili nametnut državnom službeniku u skladu sa objektivno utvrđenim potrebama državne službe",
+        "Obavljen po sporazumu državnog službenika i rukovodioca institucije"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Koji od slijedećih uslova nije opšti uslov za postavljenje državnog službenika:",
+      "options": [
+        "Da je državljanin Bosne i Hercegovine",
+        "Da ima univerzitetsku diplomu ili druge obrazovne kvalifikacije najmanje VII stepena stručne spreme",
+        "Da je zdravstveno sposoban za vršenje poslova državnog službenika",
+        "Da je regulisao vojnu obavezu u skladu sa zakonom"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Državni službenik razriješen dužnosti zbog prekobrojnosti ima pravo na otpremninu u iznosu od:",
+      "options": [
+        "Najmanje šest mjesečnih plaća",
+        "Devetomjesečne plate",
+        "Šestomjesečne plate ako ima manje od 15 godina radnog staža, a u iznosu devetomjesečne plate ako ima najmanje 15 godina radnog staža",
+        "Šestomjesečne plate ako ima najmanje 15 godina radnog staža"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Državni službenik koji je razriješen dužnosti zbog prekobrojnosti ima prednost prilikom ponovnog zaposlenja u državnoj službi ako se oglasi upražnjeno slično radno mjesto, u roku od:",
+      "options": [
+        "Godinu dana od dana razrješenja dužnosti",
+        "Godinu dana od dana proglašenja prekobrojnim",
+        "Dvije godine od dana proglašenja prekobrojnim",
+        "Godinu dana od dana isplate otpremnine"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Državnog službenika prekobrojnim proglašava:",
+      "options": [
+        "Institucija u kojoj je zaposlen na prijedlog Agencije za državnu službu FBIH",
+        "Agencija za državnu službu FBiH na prijedlog institucije u kojoj je zaposlen",
+        "Agencija za državnu službu FBiH na prijedlogog institucije u kojoj je zaposlen za sve državne službenike osim rukovodećih koje prekobrojnim proglašava Vlada Federacije Bosne i Hercegovine",
+        "Agencija za državnu službu FBiH bez ičijeg prijedloga"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "U kome roku po objavljivanju internog oglasa za popunjavanje radnog mjesta državnog službenika u \"Službenim novinama Federacije BiH\" kandidati mogu podnositi prijave:",
+      "options": [
+        "Osam dana",
+        "15 dana",
+        "20 dana",
+        "30 dana"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "U kome roku po objavljivanju javnog oglasa za popunjavanje radnog mjesta državnog službenika u \"Službenim novinama Federacije BiH\", kandidati mogu podnositi prijave:",
+      "options": [
+        "15 dana",
+        "30 dana",
+        "60 dana",
+        "tri mjeseca"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ukoliko je državni službenik razriješen dužnosti zbog nezadovoljavajuće ocjene rada u probnom periodu, upražnjeno radno mjesto popunjava se:",
+      "options": [
+        "Raspisivanjem javnog konkursa",
+        "Internim ili eksternim premještajem drugog državnog službenika",
+        "Postavljenjem prekobrojnog državnog službenika",
+        "Postavljenjem slijedećeg uspješnog kandidata sa rezervne liste"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Rad državnog službenika ocjenjuje direktno nadređeni, i to:",
+      "options": [
+        "Najmanje svake dvije godine",
+        "Najmanje svakih 12 mjeseci",
+        "Najmanje svakih šest mjeseci",
+        "Najmanje svaka tri mjeseca"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Rukovodeći državni službenik može napredovati na više radno mjesto:",
+      "options": [
+        "Samo putem javnog konkursa",
+        "Putem internog oglasa ili javnog konkursa",
+        "Internim ili eksternim premještajem, kao i putem javnog konkursa",
+        "Po odluci direktno nadređenog državnog službenika ili rukovodioca institucije"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Polaznu osnovu za obračun plate za sve državne službenike u FBiH utvrđuje:",
+      "options": [
+        "Vlada Federacije BiH",
+        "Dom naroda Parlamenta Federacije BiH",
+        "Predstavnički dom Parlamenta Federacije BiH",
+        "Oba doma Parlamenta Federacije BIH"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Po pitanju platnih razreda državni službenici su razvrstani u :",
+      "options": [
+        "Četiri platna razreda",
+        "Pet platnih razreda",
+        "Šest platnih razreda",
+        "Deset platnih razreda"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Koliko iznosi postupak uvećanja plate državnog službenika za jednu godinu radnog staža:",
+      "options": [
+        "0,3%",
+        "0,5%",
+        "1,0%",
+        "1,5%"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Do kog procenta se može povećati plata:",
+      "options": [
+        "5%",
+        "10%",
+        "20%",
+        "15%"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Zahtjev  za pokretanje disciplinskog postupka protiv državnih službenika mogu podnijeti:",
+      "options": [
+        "Samo državni službenici",
+        "Rukovodilac organa državne službe ili lica koje on odredi",
+        "Državni službenici, ministar",
+        "Samo direktno nadređeni"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Postupak za utvrđivanje disciplinske odgovornosti državnog službenika za povrede radnih dužnosti sprovodi se u skladu sa načelima:",
+      "options": [
+        "Prekršajnog postupka",
+        "Krivičnog postupka",
+        "Upravnog postupka",
+        "Prekršajnog i upravnog postupka"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Može li se protiv državnog službenika preduzeti disciplinski postupak na osnovu istih činjenica po kojima je protiv njega odbijena optužba za krivično dijelo?",
+      "options": [
+        "Može",
+        "Ne može",
+        "Može samo izuzetno",
+        "Može, ako se utvrdi postojanje nekih novih činjenica koje ukazuju na postojanje povrede radnih dužnosti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ko izriče disciplinske mjere državnom službeniku?",
+      "options": [
+        "Rukovodilac organa državne službe",
+        "Medijator državne službe",
+        "Agencija za državnu službu",
+        "Disciplinska komisija"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Kada se preventivno suspendirani državni službenik koji je okrivljen da je izvršio krivično djelo oslobodi optužbe pravosnažnom presudom nadležnog suda, onda se:",
+      "options": [
+        "Državni službenik vraća na svoje radno mjesto",
+        "Državni službenik vraća na radno mjesto za jednu kategoriju niže od one koju je imao prije suspenzije",
+        "Državni službenik se ne može vratiti na svoje radno mjesto dok se ne završi i disciplinski postupaka",
+        "Državni službenik raspoređuje na drugo radno mjesto skladu sa svojom stručno spremom i radnim iskustvom"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Državni službenik koji je preventivno suspendovan za vrijeme trajanja suspenzije prima platu u iznosu:",
+      "options": [
+        "Dvije trećine (2/3) svoje plate",
+        "80 % plate koju je ostvario u prethodnom mjesecu",
+        "80% od prosječne plate koju je ostvario u prethodna tri mjeseca",
+        "Punog iznosa plate"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Tko utvrđuje postojanje i visinu štete, okolnosti pod kojim je učinjena i krivica državnog službenika za učinjenu štetu:",
+      "options": [
+        "Agencija za državnu službu",
+        "Rukovodilac organa državne službe",
+        "Komisija koju obrazuje rukovodilac organa državne službe",
+        "Odbor za žalbe"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "U kojem od nabrojanih slučajeva organ nadležan za postavljanje odmah suspendira državnog službenika (preventivna suspenzija)?",
+      "options": [
+        "Kada postoje ozbiljni razlozi koji ukazuju na izvršenje krivičnog djela",
+        "Kada je državni službenik zatečen u izvršavanju krivičnog djela za koje se izriče kazna zatvora u trajanju od najmanje 5 godina",
+        "Kada je protiv državnog službenika pokrenut krivični postupak za krivično djelo za koje se izriče kazna zatvora u trajanju od najmanje 5 godina",
+        "Kada se državni službenik nalazi u pritvoru"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Agenciju za državnu službu FBiH osnovao  (osnovala, osnovalo) je:",
+      "options": [
+        "Visoki predstavnik UM za BiH",
+        "Parlament Federacije BiH",
+        "Vlada Federacije BiH",
+        "Dom naroda Parlament Federacije BiH"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Odbor državne službe za žalbe sastoji se od:",
+      "options": [
+        "Tri člana",
+        "Četiri člana",
+        "Četiri člana i predsjednika",
+        "Pet članova"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Odluke Odbora državne službe za žalbe:",
+      "options": [
+        "su konačne i ne mogu biti preispitivane od strane suda",
+        "su konačne i mogu biti preispitivane od strane nadležnog suda",
+        "nisu konačne pošto mogu biti preispitivane od strane nadležnog suda",
+        "su konačne i mogu biti preispitivane od strane Vlade Federacije BiH"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Rješ. o prest. rad. odnosa službenicima koji su u instit. FBiH zaposleni protivno odredbama Zakona ili ne ispunj. uslove iz člana 25. Zakona o drž. služ. FBiH koje donosi Agencija za drž. službu, nakon revizije, stupa na snagu:",
+      "options": [
+        "Istekom roka za žalbu",
+        "Potvrđivanjem od strane odbora za žalbe",
+        "Okončanjem kompletnog postupka javnog konkursa raspisanog za odnosno radnog mjesta",
+        "Danom raspisivanja javnog konkursa za popunjavanje odnosnog radnog mjesta"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Poslodavac može zaključiti ugovor o radu sa pripravnikom na na određeno vrijeme u trajanju najduže do :",
+      "options": [
+        "Godinu dana",
+        "šest mjeseci",
+        "dvije godine",
+        "tri mjeseca"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Puno radno vrijeme zaposlenika, odnosno radnika, sedmično iznosi:",
+      "options": [
+        "38 sati",
+        "40 sati",
+        "42 sata",
+        "46 sati"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Koji se podaci ne smiju unositi u radnu knjižicu",
+      "options": [
+        "Podaci o stručnoj osposobljenosti",
+        "Negativni podaci o zaposleniku u vezi obavljanja radne dužnosti",
+        "Stručna sprema zaposlenika",
+        "Nakon stečene školske spreme"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Kako će poslodavac postupiti sa radnom knjižicom zaposlenika kome je prestao radni odnos a poslodavac prema njemu potražuje novčani iznos na ime naknade štete:",
+      "options": [
+        "Zadržat će radnu knjižicu zaposlenika dok mu ovaj ne naknadi materijalnu štetu",
+        "Zadržat će radnu knjižicu dok se ne pokrene sudski postupak za naknadu štete zaposlenika",
+        "Vratit će zaposleniku radnu knjižicu na dan prestanka ugovora o radu",
+        "Zadržat će radnu knjižicu dok zaposlenik ne potpiše izjavu da će štetu nadoknaditi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "U slučaju promjene poslodavca, što se dešava sa ugovorima o radu zaposlenika:",
+      "options": [
+        "Ugovor o radu prestaje",
+        "Ugovor o radu se prekida",
+        "Ugovor o radu se prenosi na novog poslodavca",
+        "Ugovor o radu prestaje istekom poslovne godine u kojoj je promijenjen poslodavac"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Zaposlenik, odnosno radnik, koji ima najmanje šest mjeseci neprekidnog rada ima pravo na godišnji odmor u trajanju od najmanje:",
+      "options": [
+        "10 dana",
+        "15 dana",
+        "18 dana",
+        "20 dana"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Otkazni rok počinje da teče od:",
+      "options": [
+        "Dana uručenja otkaza radniku",
+        "Dana uručenja otkaza poslodavcu",
+        "Dana uručenja otkaza radniku (zaposleniku) odnosno poslodavcu",
+        "Dana potpisivanja otkaza ugovora o radu"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Radnu knjižicu izdaje:",
+      "options": [
+        "Nadležni državni organ uprave",
+        "Nadležno entitetsko ministarstvo",
+        "Nadležna općinska služba za upravu",
+        "nadležno kantonalno ministarstvo"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Radnik odnosno zaposlenik, ostvaruje pravo na štrajk u skladu sa odredbama:",
+      "options": [
+        "Zakona o radu",
+        "Zakon o štrajku",
+        "Pravilnika o unutrašnjoj organizaciji i sistematizaciji",
+        "Zakon o upravi"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Rukovodeći državni službenik u Federaciji BiH",
+      "options": [
+        "Šef unutrašnje organizacione jedinice",
+        "Stručni savjetnik",
+        "Pomoćnik ministra",
+        "Stručni suradnik"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Državni službenik ima pravo:",
+      "options": [
+        "Da bude član upravnih i drugih odbora političkih stranaka",
+        "Da obavlja dodatnu aktivnost za koju se plaća naknada",
+        "Da osnuje ili da se učlani u sindikat ili profesionalno udruženje",
+        "Da bude izabrani predstavnik u predstavničkom zakonodavnom tijelu"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Sekretar koji je imenovan na položaj u bilo kojem zakonodavnom ili izvršnom organu na bilo kojem nivou vlasti u BiH:",
+      "options": [
+        "Podnosi ostavku na mjesto u Državnoj službi",
+        "Ima prava na odsustvo iz državne službe od trenutka kada je imenovan",
+        "Vraća se na isto ili slično radno mjesto po isteku funkcije na koju je imenovan",
+        "Ima pravo na stalni radni odnos do stjecanja uslova za penziju"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Upražnjena radna mjesta državnog službenika FBiH se prvo popunjava:",
+      "options": [
+        "Putem javnog konkursa",
+        "Putem javnog oglasa",
+        "Internim premještajem",
+        "Eksternim premještajem"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Interni oglas objavljuje se:",
+      "options": [
+        "U Službenim novinama Federacije BiH",
+        "U Službenom glasniku BiH",
+        "U instituciji u kojoj se upražnjeno mjesto pojavilo",
+        "U najmanje tri dnevna lista koja se distribuiraju na cijeloj teritoriji BiH"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Da bi bila postavljena na mjesto državnog službenika osoba mora da ispunjava uslov:",
+      "options": [
+        "Da ima diplomu IV stepena stručne spreme",
+        "Da ima diplomu VI stepena stručne spreme",
+        "Da ima diplomu VII stepena stručne spreme",
+        "Da ima magisterij ili doktorat"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Komisiju za izbor kandidata po raspisanom konkursu sačinjava:",
+      "options": [
+        "Najmanje tri člana, od kojih su dva državni službenici iz institucije na koju se javni konkurs odnosi",
+        "Najmanje pet članova, od kojih su najmanje tri člana državni službenici iz institucije na koju se javni konkurs odnosi, a ostala dva člana imenuju se liste eksperata koju utvrdi Agencija",
+        "Najmanje sedam članova, od kojih su najmanje pet iz institucije na koju se javni konkurs odnosi, a dva člana sa liste eksperata koju utvrdi Agencija za državnu službu",
+        "Pet članova koje utvrdi Agencija za državnu službu sa liste eksperata"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Period probnog rada državnog službenika traje ukupno:",
+      "options": [
+        "Dva mjeseca nakon preuzimanja dužnosti",
+        "Šest mjeseci nakon preuzimanja dužnosti",
+        "Devet mjeseci nakon preuzimanja dužnosti",
+        "Dvanaest mjeseci nakon preuzimanja dužnosti"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Unapređenje rukovodećeg državnog službenika na više radno mjesto vrši se:",
+      "options": [
+        "Isključivo putem javnog konkursa",
+        "Na osnovu pozitivne ocjene rada o čemu odlučuje organ nadležan za postavljenje",
+        "Na osnovu pozitivne ocjene rada o čemu odlučuje Vlada Federacije BiH",
+        "Na osnovu pozitivne ocjene rada o čemu odlučuje Agencija za državnu službu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Državna služba se zasniva na primjeni sljedećih principa:",
+      "options": [
+        "Zaštite prava građana i javnog interesa",
+        "Pružanje pomoći neukoj stranci",
+        "Saslušanja stranke",
+        "Profesionalne nepristranosti"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ugovor o radu može zaključiti:",
+      "options": [
+        "Lice koje nije navršilo 15 godina života",
+        "Lice između 15 i 18 godina života, ako pribavi uvjerenje ovlaštenog doktora medicine da posjeduje opću zdravstvenu sposobnost za rad",
+        "Lice koje nije navršilo 18 godina života za obavljanje poslova sa posebnim uslovima rada",
+        "Lice koje je navršilo 18 godina života, a nema odgovarajuću stručnu spremu"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Volonterski rad traje:",
+      "options": [
+        "Za lica sa završenom SSS - dva mjeseca",
+        "Za lica sa završenom VSS - šest mjeseci",
+        "Godinu dana bez obzira o kojoj se stručnoj spremi radi",
+        "Onoliko vremena koliko je prema zakonu za određeno stručno zvanje propisano trajanje pripravničkog staža"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "O skraćenju radnog vremena zaposlenika koji rade na radnim mjestima sa posebnim uslovima rada odlučuje:",
+      "options": [
+        "Vlada",
+        "Ministar nadležan za poslove rada",
+        "Poslodavac",
+        "Sindikalna organizacija"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Pravo na godišnji odmor u trajanju od najmanje 18 radnih dana ima zaposlenik koji ima:",
+      "options": [
+        "Najmanje šest mjeseci neprekidnog rada",
+        "Najmanje jednu godinu neprekidnog rada",
+        "Radnik mlađi od 18 godina bez obzira na neprekidnost rada",
+        "Radnik koji radi na poslovima sa posebnim uslovima rada"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Prilikom donošenja rješenja o pravima i dužnostima državnih službenika iz radnog odnosa shodno se primjenjuju odredbe:",
+      "options": [
+        "Zakona o radu",
+        "Zakona o parničnom postupku",
+        "Zakona o upravnom postupku",
+        "Zakona o penzionom i invalidskom osiguranju"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Plaćeno odsustvo je:",
+      "options": [
+        "Pravo zaposlenika da odsustvuje s posla najmanje sedam radnih dana u kalendarskoj godini uz naknadu plate",
+        "Pravo zaposlenika da odsustvuje s posla najmanje tri radna dana u toku kalendarske godine radi zadovoljavanja vjerskih i nacionalno-tradicijskih potreba uz naknadu plate",
+        "Pravo zaposlenika da odsustvuje s posla najmanje pet radnih dana u toku kalendarske godine bez naknade plate",
+        "Pravo zaposlenika da odsustvujete s posla od tri radna dana u toku kalendarske godine bez naknade plate"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Poslodavac je dužan da sve zaposlenike prijavi na:",
+      "options": [
+        "Zdravstveno osiguranje",
+        "Penzijsko-invalidsko osiguranje",
+        "Osiguranje u slučaju nezaposlenosti",
+        "Zdravstveno, penzijsko-invalidsko i osiguranje u slučaju nezaposlenosti, kao i kolektivno osiguranje za slučaj nesreće na poslu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Radnik mlađi od 18 godina ne može biti raspoređen da radi:",
+      "options": [
+        "Na naročito teškim fizičkim poslovima",
+        "Na radovima koji se obavljaju pod zemljom ili pod vodom",
+        "Na poslovima koji bi mogli predstavljati povećan rizik po njegov život",
+        "Na naročito teškim fizičkim poslovima, na radovima koji se obavljaju pod zemljom ili pod vodom, kao i na poslovima koji bi mogli predstavljati povećan rizik po njegov život, zdravlja ili psiho-fizički razvoj"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Za vrijeme trudnoće, porođaja i njege djeteta žena ima pravo na porodiljsko odsustvo u trajanju od:",
+      "options": [
+        "Šest mjeseci neprekidno za jedno dijete",
+        "Godinu dana neprekidno za blizance",
+        "18 mjeseci neprekidno za troje djece",
+        "Godinu dana neprekidno"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Koji organ rješava kolektivne radne sporove prema kolektivnom ugovoru za službenike organa uprave i sudske vlasti:",
+      "options": [
+        "Samostalni sindikat",
+        "Vlada Federacije BiH",
+        "Federalno ministarstvu pravde",
+        "Arbitražno vijeće"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ugovor o radu koji ne sadrži podatak u pogledu trajanja ugovora:",
+      "options": [
+        "Ne može se zaključiti",
+        "Smatra se ugovorom na neodređeno vrijeme",
+        "Može se zaključiti ali ne proizvodi javne posljedice",
+        "Smatra se ugovorom o radu na određeno vrijeme"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ukoliko poslodavac ne zaključi ugovor o radu na neodređeno vrijeme sa zaposlenikom u pismenoj formi u kojem roku je dužan zaposleniku uručiti pismenu izjavu koja sadrži podatke iz zakona, kolektivnog ugovora ili pravilnika o radu:",
+      "options": [
+        "U roku od jednog mjeseca od dana kada zaposlenik otpočne da radi kod poslodavca",
+        "U roku od dva mjeseca od dana kada zaposlenik otpočne da radi kod poslodavca",
+        "Do kraja kalendarske godine u kojoj je otpočeo da radi kod poslodavca",
+        "Narednog dana od kada zaposlenik otpočne da radi kod poslodavca"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Koji organ utvrđuje radna mjesta na kojima se staž osiguranja računa u uvećanom trajanju i stepen uvećanja staža osiguranja:",
+      "options": [
+        "Vlada Federacije BiH",
+        "Zavod za penziono-invalidsko osiguranje",
+        "Organ u kojem zaposlenik obavlja poslove",
+        "Zavod za zapošljavanje"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "U kojem roku od dana utvrđivanja podliježu reviziji radna mjesta na kojima se staž osiguranja računa sa uvećanim trajanjem:",
+      "options": [
+        "Pet godina",
+        "Godina",
+        "Dvije godine",
+        "Šest mjeseci"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Koji je najveći procent invalidske penzije od penzijskog osnova:",
+      "options": [
+        "75 %",
+        "80 %",
+        "70 %",
+        "85 %"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Da li mogu zastarjeti prava iz penzijsko-invalidskog osiguranja i ako cijenite da mogu navedite rok:",
+      "options": [
+        "Prava iz penzijsko-invalidskog osiguranja ne mogu zastarjeti",
+        "Mogu zastarjeti u roku od tri godine",
+        "Mogu zastarjeti u roku od pet godina",
+        "Mogu zastarjeti u roku od 10 godina"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ako majka djeteta umre ili napusti dijete ili iz drugih razloga ne može da se brine o djetetu, pravo na porodiljsko odsustvo ima:",
+      "options": [
+        "Zaposleni otac",
+        "Usvojilac djeteta",
+        "Roditelj oca ili majke",
+        "Zaposleni otac, usvojilac djeteta ili drugo lice kome je nadležni organ starateljstva povjerio dijete na njegu i staranje"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Zaposleniku koji je povrijeđen na poslu ili je obolio od profesionalne bolesti, za vrijeme dok je zdravstveno nesposoban za rad, poslodavac:",
+      "options": [
+        "Može otkazati ugovor o radu",
+        "Ne može otkazati ugovor o radu ako je zaključen na neodređeno vrijeme",
+        "Može otkazati ugovor o radu samo ako je zaključen na određeno vrijeme",
+        "Ne može otkazati ugovor o radu bez obzira na koje je vrijeme zaključen"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Zaposlenik ima pravo na uvećanje plate po osnovu:",
+      "options": [
+        "Otežanih uslova rada",
+        "Redovnog staža",
+        "Prekovremenog, noćnog i rada u dane državnih praznika",
+        "Otežanih uslova rada, redovnog staža, prekovremenog, noćnog i rada u dane državnih praznika"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Naknada plate u visini od 100 % prosječne plate koju je radnik ostvario u odgovarajućem prethodnom periodu ili od plate koju bi ostvario da je bio na radu, ima radnik za vrijeme:",
+      "options": [
+        "Korištenje godišnjeg odmora",
+        "Državnog praznika",
+        "Privremene spriječenosti za rad zbog povrede na radu ili profesionalne bolesti",
+        "Korištenje godišnjeg odmora, državnog praznika i privremene spriječenosti za rad zbog povrede na radu ili profesionalne bolesti"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Zaposlenik koji na radu ili u vezi sa radom pričini materijalnu štetu poslodavcu dužan je da istu nadoknadi ako:",
+      "options": [
+        "Šteta prouzrokovana namjerno",
+        "Šteta prouzrokovana nepažnjom",
+        "Šteta prouzrokovana nenamjerno",
+        "Šteta prouzrokovana namjerno ili iz krajnje nepažnje"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "U državne službenike ne spada:",
+      "options": [
+        "Pomoćnik ministra",
+        "Savjetnik",
+        "Stručni savjetnik",
+        "Šef unutrašnje organizacione jedinice"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "U prava državnog službenika ne spada:",
+      "options": [
+        "Pravo da osnuje ili da se učlani u sindikat ili profesionalno udruženje u skladu sa zakonom",
+        "Da učestvuje u radu Vlade FBiH",
+        "Pravo da bude nagrađen na osnovu zadataka i rezultata rada",
+        "Pravo da po isteku odsustva utvrđenog zakonom nastavi da radi na istom ili sličnom radnom mjestu"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Zapošljavanje i unapređenje profesionalne karijere državnog službenika temelji se na:",
+      "options": [
+        "Ocjeni rada od strane direktno nadređenog",
+        "Javnom konkursu i profesionalnoj sposobnosti",
+        "Preporuke Agencije za državnu službu",
+        "Javnom konkursu"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Državnog službenika postavlja, odnosno imenuje:",
+      "options": [
+        "Nadležna institucija",
+        "Agencija za državne službenike FBiH",
+        "Državne službenike postavlja nadležna institucija uz pribavljeno mišljenje Agencije za državnu službu FBiH, a rukovodeće državne službenike imenuje Agencija za državne službenike FBiH po pribavljenom mišljenju nadležne institucije",
+        "Državne službenike postavlja Agencija za državnu službu FBiH uz pribavljeno mišljenje nadležne institucije, a rukovodeće službenike imenuje nadležna institucija po pribavljenom mišljenju Agencije za državnu službu FBiH"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Koja od navedenih mjera nije disciplinska mjera predviđena Zakonom o državnoj službi u Federaciji BiH:",
+      "options": [
+        "Javna pisana opomena",
+        "Prestanak radnog odnosa u državnoj službi",
+        "Kaznena suspenzija sa poslova i plaće tokom perioda od dva dana do 30 dana",
+        "Novčana kazna do iznosa 1/3 plate u trajanju 90 dana"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Zaposleniku, odnosno radniku miruju prava iz radnog odnosa za vrijeme:",
+      "options": [
+        "Porodiljskog odsustva",
+        "Godišnjeg odmora",
+        "Služenja vojnog roka",
+        "Plaćenog odsustva"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Pripravnički staž traje:",
+      "options": [
+        "Šest mjeseci",
+        "Osam mjeseci",
+        "12 mjeseci",
+        "24 mjeseca"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Probni rad ne može trajati duže od:",
+      "options": [
+        "Tri mjeseca",
+        "Šest mjeseci",
+        "Devet mjeseci",
+        "12 mjeseci"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ugovor o radu na određeno vrijeme ne može se zaključiti:",
+      "options": [
+        "Na period duži od šest mjeseci",
+        "Na period duži od devet mjeseci",
+        "Na period duži od 12 mjeseci",
+        "Na period duži od 24 mjeseca"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Za vrijeme obavljanja pripravničkog staža pripravnik ima pravo na:",
+      "options": [
+        "80 % minimalne zarade prije polaganja stručnog ispita",
+        "Zdravstveno osiguranje isto kao nezaposlena lica",
+        "Invalidsko osiguranje u slučaju povrede na poslu",
+        "80 % minimalne zarade prije polaganja stručnog ispita, invalidsko osiguranje u slučaju povrede na poslu i zdravstveno osiguranje isto kao nezaposlena lica"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Obaveza državnog službenika je:",
+      "options": [
+        "Da koristi imovinu organa državne službe u privatne svrhe",
+        "Obavljanje ili neobavljanje nekog posla u državnoj službi u kojem postoji njegov lični interes",
+        "Da se imovina i radno vrijeme ne koriste u privatne svrhe",
+        "Postojanje materijalnog interesa u rješavanju predmeta iz nadležnosti državnog organa"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Državnom službeniku nije dozvoljeno:",
+      "options": [
+        "Davanje informacija ako to nije u skladu sa zakonom, drugim propisom, pravilima i zahtjevima organa državne službe",
+        "Poštivanje vrijednosti međunarodnog prava",
+        "Stalno opće i stručno obrazovanje, usavršavanje i kulturno ponašanje",
+        "Razvijanje kolegijalnih i korektnih odnosa prema drugim državnim službenicima"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Državni službenik ostvaruje pravo na otpremninu ako:",
+      "options": [
+        "Ako dobrovoljno istupi iz državne službe",
+        "Ako izgubi državljanstvo BiH",
+        "Ako se proglasi prekobrojnim",
+        "Ako mu je izrečena disciplinska mjera prestanka radnog odnosa u državnoj službi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Agencija za državnu službu vrši slijedeće poslove:",
+      "options": [
+        "Utvrđuje jedinstvene kriterije, pravila i postupke selekcije, imenovanja i postavljenja državnih službenika u organima državne službe u Federaciji, u skladu sa zakonom",
+        "Osniva Odbor državne službe za žalbe",
+        "Imenuje članove Odbora za žalbe",
+        "Donosi odluku o utvrđivanju platnih razreda i koeficijenata državnih službenika u federalnim organima"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Članove disciplinske komisije imenuje:",
+      "options": [
+        "Rukovodilac organa državne službe",
+        "Agencija za državnu službu",
+        "Vlada Federacije BiH",
+        "Rukovodeći državni službenici"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Državni službenici u Federacije BiH su:",
+      "options": [
+        "Rukovodilac samostalne uprave i samostalne ustanove",
+        "Pomoćnik ministra",
+        "Sekretar",
+        "Stručni saradnik"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Kada zaposlenik može otkazati ugovor o radu bez davanja predviđenog otkaznog roka:",
+      "options": [
+        "Ukoliko je primljen u radni odnos na bolje plaćene uslove",
+        "Ukoliko na drugom poslu ima bolje uslove za stručno osposobljavanje i usavršavanje",
+        "Ako je poslodavac odgovoran za prijestup ili povredu obaveza iz ugovora o radu, a koji su takve prirode da ne bi bilo osnovano očekivati od zaposlenika da nastavi radni odnos",
+        "Na novim poslovima je oslobođen obaveze prekovremenog rada i rada na terenu"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Kada poslodavac može otkazati ugovor o radu zaposleniku bez obaveze poštivanja otkaznog roka:",
+      "options": [
+        "Zbog loših poslovnih rezultata firme",
+        "U slučaju da je zaposlenik odgovoran za teži prijestup ili težu povredu radnih obaveza iz ugovora o radu, a koji su takve prirode da ne bi bilo osnovano očekivati od poslodavca da nastavi radni odnos",
+        "Zaposlenik nije u mogućnosti da izvršava svoje obaveze iz radnog odnosa",
+        "Zbog organizacionih promjena u osnovnoj djelatnosti firme"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "U slučaju lakših prestupa ili lakših povreda radnih obaveza ugovor o radu se ne može otkazati:",
+      "options": [
+        "Bez prethodnog pismenog upoznavanja zaposlenika",
+        "Bez oglašavanja otkazivanja ugovora o radu na oglasnoj tabli u sjedištu firme",
+        "Bez uručivanja zapoleniku radne knjižice",
+        "U dane državnog praznika i neradne dane"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Kakav je postupak ako zaposlenik po prestanku radnog odnosa ne podigne radnu knjižicu u roku od osam dana od dana prestanka radnog odnosa:",
+      "options": [
+        "Radna knjižica ostaje kod poslodavca",
+        "Poslodavac je šalje zaposleniku na kućnu adresu",
+        "Predaje radnu knjižicu uz potvrdu o prijemu nadležnoj službi prema sjedištu (prebivalištu poslodavca)",
+        "Ponovo obavještava zaposlenika i ostavlja mu novi rok za podizanje radne knjižice"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Na čiji zahtjev se pokreće postupak za ocjenu radne sposobnosti po osnovu invalidnosti:",
+      "options": [
+        "Na zahtjev osiguranika",
+        "Na zahtjev zavoda za zapošljavanje",
+        "Na zahtjev zavoda za penzijsko - invalidsko osiguranje",
+        "Na zahtjev zdravstvene ustanove"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ukoliko je ugovorom o radu probni rad, koliko je njegovo trajanje:",
+      "options": [
+        "Ne može trajati duže od tri mjeseca",
+        "Ne može trajati duže od šest mjeseci",
+        "Traje devet mjeseci",
+        "Traje godinu dana"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Koliko se skraćuje radno vrijeme zaposleniku na poslovima na kojima i uz primjenu mjera zaštite na radu nije moguće zaštititi zaposlenika od štetnih utjecaja:",
+      "options": [
+        "Razmjerno štetnom utjecaju uvjeta rada na zdravlje i radnu sposobnost zaposlenika",
+        "Svaki radni dan za jedan sat",
+        "Svaki radni dan po dva sata",
+        "Deset sati sedmično"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Poslodavac je dužan u slučaju da prekovremeni rad zaposlenika traje duže od tri sedmice neprekidno ili više od deset sedmica u toku kalendarske godine o tome obavijestiti:",
+      "options": [
+        "Kantonalni organ uprave nadležan za privredu",
+        "Sindikalnu organizaciju",
+        "Nadležni zavod za zapošljavanje",
+        "Kantonalni organ uprave nadležan za poslove inspekcije rada"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Koji se vremenski period smatra noćnim radom za maloljetne zaposlenike u industriji:",
+      "options": [
+        "Rad u vremenu između 19 sati uvečer i sedam sati ujutro idućeg dana",
+        "Rad u vremenu između 20 sati uvečer i šest sati ujutro idućeg dana",
+        "Rad u vremenu između 22 sata uvečer i šest sati ujutro idućeg dana",
+        "Rad između 21 sat uvečer i sedam sati ujutro idućeg dana"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ako zaposlenik koristi godišnji odmor u dijelovima, koliko bez prestanka traje prvi dio godišnjeg odmora:",
+      "options": [
+        "20 radnih dana",
+        "15 radnih dana",
+        "12 radnih dana",
+        "10 radnih dana"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Koliko je poslodavac dužan omogućiti zaposleniku radnih dana plaćenog odsustva u jednoj kalendarskoj godini radi zadovoljavanja njegovih vjerskih odnosno tradicijskih potreba:",
+      "options": [
+        "Četiri dana",
+        "Deset dana",
+        "Pet dana",
+        "Dva dana"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Za vrijeme trudnoće, porođaja i njege djeteta žena ima pravo na porođajno odsustvo u trajanju od:",
+      "options": [
+        "Jedne godine neprekidno",
+        "18 mjeseci neprekidno",
+        "Devet mjeseci neprekidno",
+        "Šest mjeseci neprekidno"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Koji organ utvrđuje polaznu osnovu za obračun plaće za sve državne službenike u organima državne službe:",
+      "options": [
+        "Organa uprave u kome je državni službenik zaposlen",
+        "Vlada kantona",
+        "Sindikat",
+        "Vlada Federacije BiH"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "U slučaju da se u nekom od organa državne službe ne mogu popuniti radna mjesta državnih službenika zbog nemogućnosti osiguravanja kadrova državnim službenicima koji privremeno obavljaju taj posao plaća se:",
+      "options": [
+        "Poveća u 100 % iznosu njegove plaće",
+        "Povećava do 50 % u zavisnosti od nastalog povećanja obima poslova",
+        "Povećava 30 % od plaće upražnjenog radnog mjesta",
+        "Povećava za 30 % od prosječne plaće u Federaciji BiH"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Godišnji odmor za državnog službenika po svim osnovama ne može trajati duže od:",
+      "options": [
+        "40 radnih dana",
+        "30 radnih dana",
+        "36 radnih dana",
+        "42 radna dana"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Licu koje obavlja privremene i povremene poslove osigurava se:",
+      "options": [
+        "Pravo na novčanu naknadu, topli obrok i prijevoz do posla i nazad",
+        "Novčanu naknadu i odmor u toku rada",
+        "Pravo na novčanu naknadu za obavljanje posla i osiguranje za slučaj povrede na radu",
+        "Novčana naknada za obavljanje poslova, pravo na odmor u toku rada i sva druga prava kao i za zaposlenike u radnom odnosu i druga prava u skladu sa propisima o penzijskom i invalidskom osiguranju"
+      ],
+      "correct": 3
+    }
+  ]

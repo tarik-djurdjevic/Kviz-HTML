@@ -1,0 +1,802 @@
+[
+    {
+      "question": "Kancelarijsko poslovanje u organima uprave i službama za upravu FBiH regulisano je:",
+      "options": [
+        "Zakonom",
+        "Uredbom",
+        "Uredbom i uputstvom",
+        "Uputstvom"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Propise iz oblasti kancelarijskog poslovanja koji su u primjeni u organima uprave i službama za upravu u Federaciji donio je:",
+      "options": [
+        "Parlament FBiH",
+        "Vlada Federacije BiH",
+        "Vlada Federacije i Federalno ministarstvo pravde",
+        "Federalno ministarstvo pravde"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Šta obuhvata kancelarijsko poslovanje?",
+      "options": [
+        "Primanje,otvara., pregleda. i raspoređiv. pošte,odnosno akata,zavođ. akata,združiv. akata,dostavlj. predm. i akata u rad,rad s aktima,razvođ. predm. i akata, rokovnik predm.,otprem. pošte i stavlj. predm. i akata u arhivu (arhivir.) i njihovo čuvanje",
+        "Primanje, otvaranje, pregledanje i raspoređivanje pošte, odnosno akata, zavođenje akata, združivanje akata, dostavljanje predmeta i akata u rad",
+        "Primanje, otvaranje, pregledanje i raspoređivanje pošte, odnosno akata, zavođenje akata, združivanje akata, dostavljanje predmeta i akata u rad, rad s aktima, razvođenje predmeta i akata, rokovnik predmeta",
+        "Primanje, otvaranje, pregledanje i raspoređivanje pošte"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Načela kancelarijskog poslovanja su:",
+      "options": [
+        "Načelo tačnosti, načelo ekspeditivnosti, načelo jednostavnosti, načelo jedinstvenosti ili jednoobraznosti, načelo preglednosti, načelo ekonomičnosti, načelo budnosti",
+        "Načelo tačnosti, načelo ekspeditivnosti, načelo jednostavnosti, načelo jedinstvenosti ili jednoobraznosti",
+        "Načelo tačnosti, načelo ekspeditivnosti, načelo je4dnostavnosti, načelo jedinstvenosti ili jednoobraznosti, načelo preglednosti, načelo ekonomičnosti",
+        "Načelo ekspeditivnosti, načelo jednostavnosti, načelo jedinstvenosti ili jednoobraznosti, načelo preglednosti, načelo ekonomičnosti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Šta je akt:",
+      "options": [
+        "Akt je svaki pisani sastav kojim se pokreće, dopunjuje, mijenja, prekida ili završava neka službena radnja organa uprave i službe za upravu",
+        "Akt je svaki pisani sastav čiju sadržinu određuje rukovodilac organa uprave",
+        "Akt je svaki pisani sastav kojim se pokreće neka upravna radnja",
+        "Akt je svaki pisani sastav kojim se završava službena radnja organa uprave i službe za upravu."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Šta je \"Prilog\":",
+      "options": [
+        "Prilog je fizički predmet koji se prilaže po nalogu rukovodioca organa uprave",
+        "Prilog je pisani sastav (dokument, tabela, grafikon, crtež i sl.) ili fizički predmet, koji se prilaže uz akt radi dopunjavanja, objašnjenja ili dokazivanja sadržine akata",
+        "Prilog je grafikon koji se dostavlja uz akt",
+        "Prilog je crtež koji se dostavlja uz akt radi dopunjavanja ili dokazivanja sadržine akta"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Šta je \"Predmet\"?",
+      "options": [
+        "Predmet je skup svih akata koji su dati u rad",
+        "Predmet je skup svih akata koji se odlažu u arhivu",
+        "Predmet je skup svih akata i priloga koji se odnose na isto pitanje ili zadatak i čini posebnu i samostalnu cjelinu",
+        "Predmet je svaki pisani akt"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Šta je \"Dosje\"?",
+      "options": [
+        "Dosje predstavlja skup više predmeta koji se odnose na istu materiju ili istu pravnu ili fizičku osobu i koji se kao jedna cjelina čuvaju na istom mjestu",
+        "Dosje predstavlja skup više predmeta koji se odnose na istu materiju",
+        "Dosje predstavlja skup više predmeta koji se odnose na istu fizičku osobu i koji se kao jedna cjelina čuvaju na istom mjestu",
+        "Dosje predstavlja skup više predmeta koji se čuvaju na jednom mjestu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Šta je \"Fascikl\"?",
+      "options": [
+        "Fascikl predstavlja kutiju koja se čuva u arhivi",
+        "Fascikl predstavlja omot koga čuva šef pisarnice",
+        "Fascikl predstavlja kutiju, sanduk u kome se odlažu akta",
+        "Fascikl predstavlja omot, kutiju, sanduk, korice i slično u kojim je složeno više predmeta ili više dosjea koji se poslije završenog postupka čuvaju u tim fasciklama"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Šta je \"Arhivska građa\"?",
+      "options": [
+        "Arhivska građa je sav filmovani materijal nastao u radu organa uprave",
+        "Arhivska građa je dokumentacijski materijal od značaja za kulturu i ostale društvene potrebe organa uprave",
+        "Arh. gr. je sav izvorni i reprod. (pis.,crt., štamp.,fotograf.,filmov., fonograf. ili na drugi način zabilj.)dokument. materi. od znač. za hist., kult. i ostale društ. potrebe,nastao u radu org. uprave i službe za upr. bez obzira kad je nastao",
+        "Arhivska građa je sav materijal nastao u radu jednog organa uprave"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Šta je \"Pisarnica\"?",
+      "options": [
+        "Pisarnica je organizaciona jedinica koja se nalazi u sastavu svakog organa uprave i službi za upravu",
+        "Pisarnica je organizaciona jedinica ili radno mjesto u organu uprave ili službi za upravu gdje se vrše poslovi kancelarijskog poslovanja",
+        "Pisarnica je radno mjesto unutar organizacione jedinice",
+        "Pisarnica je mjesto gdje se sastavljaju pisani podnesci"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Šta je \"Arhiva\"?",
+      "options": [
+        "Arhiva je sastavni dio pisarnice gdje se čuvaju završeni (arhivirani) predmeti i akti, evidencije o aktima i predmetima, kao i ostali dokumentacijski materijal  do njihove predaje nadležnom arhivu ili do njihovog uništenja",
+        "Arhiva je sastavni dio pisarnice gdje se čuvaju završeni (arhivirani) predmeti i akti",
+        "Arhiva je samostalna organizaciona jedinica unutar svakog organa uprave i službi za upravu gdje se čuvaju evidencije o predmetima i aktima do njihove predaje Arhivu Bosne i Hercegovine",
+        "Arhiva je samostalna organizaciona jedinica gdje se po nalogu rukovodioca organa uprave čuvaju evidencije o predmetima i aktima do nihove predaje Arhivu Bosne i Hercegovine"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Šta mora da sadrži \"službeni akt (dopis) svakog organa uprave ili službe za upravu:",
+      "options": [
+        "Službeni akt (dopis) mora da sadrži: zaglavlje, naziv i adresu primatelja, kratku sadržinu predmeta, sadržaj akta, otisak službenog pečata i potpis ovlaštene osobe.",
+        "Službeni akt (dopis) mora da sadrži: zaglavlje, naziv i adresu primatelja, kratku sadržinu predmeta i potpis ovlaštene osobe",
+        "Službeni akt (dopis) mora da sadrži: naziv i adresu primatelja, kratku sadržinu predmeta, sadržaj akta, otisak službenog pečata i potpis ovlaštene osobe",
+        "Službeni akt (dopis) mora da sadrži: zaglavlje, naziv i adresu primatelja, kratku sadržinu predmeta, sadržaj akta, otisak službenog pečata."
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Koje su osnovne knjige evidencija u \"kancelarijskom poslovanju\":",
+      "options": [
+        "Upisnik prvostepenih predmeta upravnog postupka, upisnik drugostepenih predmeta upravnog postupka i arhivska knjiga",
+        "Djelovodnik predmeta i akata, djelovodnik za povjerljivu i strogo povjerljivu poštu i arhivska knjiga",
+        "Djelovodnik za povjerljivu i strogo povjerljivu poštu",
+        "Upisnik prvostepenih predmeta upravnog postupka, upisnik drugostepenih predmeta upravnog postupka, djelovodnik predmeta i akata, djelovodnik za povjerljivu i strogo povjerljivu poštu i arhivska knjiga."
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Čime se uređuju pomoćne knjige evidencija u kancelarijskom poslovanju:",
+      "options": [
+        "Propisom koga donosi Vlada Federacije BiH",
+        "Propisom koga donosi Federalno ministarstvo pravde, odnosno ministar",
+        "Propisom koga donosi načelnik sektora",
+        "Propisom koga donosi šef pisarnice"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ko donosi listu kategorija registraturskog materijala:",
+      "options": [
+        "Rukovodilac Arhiva BiH",
+        "Parlament Federacije BiH",
+        "Ministar za ministarstvo kojim rukovodi",
+        "Rukovodilac organa uprave, odnosno službe za upravu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Klasifikacione oznake predmeta i akata obilježene su dvocifrenim brojevima:",
+      "options": [
+        "01 - 50",
+        "01 - 45",
+        "01 - 49",
+        "01 - 35"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Kriteriji po kojima se vrši razvrstavanje predmeta i akata na klasifikacione oznake:",
+      "options": [
+        "Datum prispjeća predmeta i akata",
+        "Sadržaj materije koja se u predmetu ili aktu obrađuje i svrstana je u odgovarajuću grupu",
+        "Hitnost",
+        "Povjerljivost prirode akta"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Gdje se po pravilu vrši primanje pošte:",
+      "options": [
+        "Na više mjesta",
+        "Na dva mjesta",
+        "Na tri mjesta",
+        "Na jednom određenom mjestu u sastavu pisarnice koja je organizirana prema uredbi o kancelarijskom poslovanju"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ko može primati službenu poštu:",
+      "options": [
+        "Ovlašteni službenik pisarnice",
+        "Ovlašteni službenik za arhiviranje",
+        "Bilo ko od zaposlenika pisarnice",
+        "Šef pisarnice"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "U toku radnog dana prima se pošta:",
+      "options": [
+        "U vremenu od 08 do 12 sati svakog radnog dana",
+        "U vremenu od 12 - 14 sati svakog radnog dana",
+        "U vremenu od 12 sati do kraja radnog dana",
+        "Tokom cijelog radnog vremena"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ko određuje način prijema pošte van radnog vremena i u dane kada se ne radi:",
+      "options": [
+        "Šef pisarnice",
+        "Vlada Federacije BiH",
+        "Ovlašteni službenik pisarnice",
+        "Rukovodilac organa uprave, odnosno službe za upravu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Po kojim se propisima vrši primanje pošte koja se u organu uprave, odnosno službi za upravu dostavlja preko poštanske službe:",
+      "options": [
+        "Po propisima koje donosi šef pisarnice",
+        "Po propisima koje donosui Vlada Federacije BiH",
+        "Po propisima koje donosi Parlament Federacije BiH",
+        "Po propisima kojima je uređen način rada PTT prometa"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ko potpisuje dostavnicu koja je priložena uz akt ili koverat:",
+      "options": [
+        "Šef pisarnice",
+        "Voditelj postupka",
+        "Rukovodilac organa uprave",
+        "Ovlašteni službenik pisarnice"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ko, po pravilu, vrši otvaranje i pregledanje cjelokupne službene pošte:",
+      "options": [
+        "Ovlašteni službenik pisarnice",
+        "Rukovodilac organa uprave, odnosno službe za upravu",
+        "Dežurni službenik",
+        "Službenik koji vodi protokol obične pošte"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ko, po pravilu, otvara pošiljke koje se odnose na raspisane natječaje, licitacije i sl.:",
+      "options": [
+        "Rukovodilac organa uprave, odnosno službe za upravu",
+        "Šef pisarnice",
+        "Dežurni službenik",
+        "Komisija formirana za te poslove"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ko, po pravilu, otvara hitnu poštu primljenu van redovnog radnog vremena i u dane kada se ne radi:",
+      "options": [
+        "Šef pisarnice",
+        "Dežurni službenik",
+        "Rukovodilac organa uprave i službi za upravu",
+        "Namještenik koji vodi protokol obične pošte"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ko donosi rješenje o određivanju organizacionih jedinica, odnosno radnih mjesta kojima se pošta dostavlja u rad:",
+      "options": [
+        "Šef pisarnice",
+        "Namještenik koji vodi protokol obične pošte",
+        "Rukovodilac organa uprave i službi za upravu",
+        "Rukovodilac svake organizacione jedinice"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Na koji se način vrši signiranje pošte:",
+      "options": [
+        "Na prvoj stranici akta, odnosno predmeta, u desnom gornjem uglu upisuje se broj organizacione jedinice, broj radnog mjesta kojem će se pošta dostaviti u rad ako ne postoji organizaciona jedinica, i datum otvaranja i pregledanja pošte",
+        "Upisivanjem broja organizacione jedinice u gornjem desnom uglu",
+        "Parafiranjem od strane ovlaštenog službenika",
+        "Upisivanjem datuma prispijeća akta"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Način i vrijeme zavođenja akata:",
+      "options": [
+        "Akti se zavode u odgovarajuće knjige evidencije najkasnije tri dana po njihovom prispjeću u organ, odnosno službu",
+        "Akti se zavode u odgovarajuće knjige evidencije jedan dan nakon njihovog prispijeća u organ ili službu",
+        "Zavođenje akata u odgovarajuće knjige evidencije vrši se istog dana i pod istim datumom pod kojim su akti primljeni",
+        "Zavođenje akata u odgovarajuće knjige evidencije vrši se po nalogu šefa pisarnice, bez obzira na datum kad su pristigli u organ"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Kada će se zavesti akti koji se iz opravdanih razloga nisu mogli zavesti istog dana kada su primljeni:",
+      "options": [
+        "Kada to naredi šef pisarnice",
+        "Najkasnije prvog narednog radnog dana, prije zavođenja nove pošte i to pod datumom kada su akti primljeni",
+        "Najkasnije za dva dana od dana prispjeća akata",
+        "Najkasnije za tri dana od dana prispjeća akata"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Kada se stavlja otisak prijemnog štambilja:",
+      "options": [
+        "Kada to naredi šef pisarnice",
+        "Nakon što se izvrši zavođenje akata u knjigu evidencije pristupa se stavljanju otiska prijemnog štambilja na akt",
+        "Po završenom razvrstavanju predmeta i akata na klasifikacione oznake",
+        "Prije razvrstavanja predmeta i akata na klasifikacione oznake"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Na kom se mjestu akta, po pravilu, stavlja otisak prijemnog štambilja:",
+      "options": [
+        "Na prvoj stranici akta",
+        "Na lijevom gornjem uglu prve stranice akta",
+        "U gornjem desnom uglu prve stranice akta, a ako nema dovoljno mjesta, onda se stavlja na drugo pogodno mjesto prve stranice, vodeći pri tome računa da tekst akta ostane potpuno čitak i razumljiv",
+        "Na sredini akta"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Da li se otisak prijemnog štambilja stavlja na prilog dostavljen uz akt:",
+      "options": [
+        "Da",
+        "Ne",
+        "Samo u izričitim situacijama",
+        "Samo po naredbi šefa pisarnice"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Kada se vrši dostavljanje predmeta i akata u rad:",
+      "options": [
+        "Istog dana, a najkasnije narednog dana po njihovom zavođenju i združivanju",
+        "Kada to odredi šef pisarnice",
+        "Kada to odredi ovlašteni službenik",
+        "Dva dana nakon zavođenja i združivanja"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Dostavljanje predmeta i akata u rad vrši se putem:",
+      "options": [
+        "Knjige za osobnu poštu",
+        "Kartona za dostavljanje službenih glasila i časopisa",
+        "Knjige primljenih računa",
+        "Interne dostavne knjige"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Da li se na primljene račune stavlja otisak prijemnog štambilja:",
+      "options": [
+        "Da",
+        "Ne",
+        "Samo po nalogu šefa pisarnice",
+        "Samo po nalogu šefa računovodstva"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Otpremanje pošte vrši se putem:",
+      "options": [
+        "Knjige za otpremu pošte putem kurira, knjige za otpremu pošte putem PTT-a",
+        "Isključivo putem knjige za otpremu pošte putem kurira",
+        "Isključivo putem knjige za otpremu pošte putem PTT-a",
+        "Putem kurirske službe"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Koji predmeti i akti se odlažu u arhivu:",
+      "options": [
+        "Predmeti i akti koje odredi šef pisarnice",
+        "Predmeti i akti koje odredi ovlašteni službenik",
+        "Predmeti koje odredi rukovodilac organa uprave i službi za upravu",
+        "Predmeti i akti u kojima je postupak u potpunosti okončan (riješeni predmeti i akti)"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ko rukuje predmetima odloženim u arhivu:",
+      "options": [
+        "Ovlašteni službenik pisarnice",
+        "Šef pisarnice",
+        "Službenik koji je stavio predmete u arhivu",
+        "Rukovodilac organa uprave"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Kako treba organizirati prijem stranaka:",
+      "options": [
+        "Radnim danima od 08 do 12 sati",
+        "Radnim danima od 12 do 14 sati",
+        "Dva puta u toku sedmice",
+        "Prijem stranaka treba organizirati tako da se stranke primaju svakodnevno u okviru redovnog radnog vremena, a izuzetno i izvan tog vremena, ako za to postoje opravdani razlozi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ko određuje državne službenike ili zaposlenike koji mogu primati stranke i davati potrebna obavještenja i upute:",
+      "options": [
+        "Rukovodilac organizacione jedinice",
+        "Rukovodilac pravne službe",
+        "Rukovodilac organa uprave, odnosno službe za upravu",
+        "Šef pisarnice"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Ko je donio zakon o Pečatu Federacije BiH:",
+      "options": [
+        "Vlada Federacije BiH",
+        "Parlament Federacije BiH",
+        "Parlamentarna skupština BiH",
+        "Ured Visokog predstavnika - OHR"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ko je odgovoran za izradu pečata kao i za vođenje evidencije o pečatu federalnih organa:",
+      "options": [
+        "Vlada Federacije BiH",
+        "Parlament Federacije BiH",
+        "Federalno ministarstvo unutrašnjih poslova",
+        "Federalno ministarstvo pravde"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ko vrši nadzor nad radom ovlaštene pečatoreznice u pogledu izrade Federalnih pečata:",
+      "options": [
+        "Vlada Federacije BiH",
+        "Parlament Federacije BiH",
+        "Federalno ministarstvo unutrašnjih poslova",
+        "Federalno ministarstvo pravde"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ko odobrava izradu Federalnog pečata:",
+      "options": [
+        "Vlada Federacije BiH",
+        "Parlament Federacije BiH",
+        "Federalno ministarstvo unutrašnjih poslova",
+        "Federalno ministarstvo pravde"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ko se stara o čuvanju pečata:",
+      "options": [
+        "Vlada Federacije BiH",
+        "Parlament Federacije BiH",
+        "Rukovoditelj organa uprave/službe za upravu",
+        "Federalno ministarstvo pravde"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Ko donosi rješenje o rukovanju, upotrebi i čuvanju pečata:",
+      "options": [
+        "Rukovodilac organa uprave/službe za upravu",
+        "Šef pisarnice",
+        "Ministar pravde",
+        "Ovlašteni službenik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Kada i gdje se oglašava nestanak pečata:",
+      "options": [
+        "U dnevnoj štampi",
+        "Na oglasnoj tabli organa uprave/službe za upravu",
+        "U Službenom glasilu",
+        "U drugim medijima"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Ko vrši uništavanje dotrajalih i neupotrebljivih pečata:",
+      "options": [
+        "Vlada Federacije BiH",
+        "Federalno ministarstvo unutrašnjih poslova",
+        "Federalno ministarstvo pravde",
+        "Komisija koju posebnim rješenjem formira rukovodilac organa uprave"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Šta je kancelarijsko poslovanje:",
+      "options": [
+        "Osnovna djelatnost u organima uprave i službi za upravu",
+        "Djelatnost koja se vrši povremeno",
+        "Dopunska djelatnost",
+        "Pomoćna djelatnost od koje zavisi uspješan rad organa uprave i službi za upravu u Federaciji BiH"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Postupak ovjeravanja potpisa, rukopisa i prijepisa uređen je :",
+      "options": [
+        "Zakonom",
+        "Uredbom",
+        "Zakonom i uputstvom",
+        "Uputstvom"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Šta se utvrđuje kod ovjeravanja prijepisa u odnosu na original :",
+      "options": [
+        "Autentičnost",
+        "Istinitost",
+        "Vjerodostojnost",
+        "Istovjetnost"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Šta se utvrđuje kod ovjeravanja rukopisa i potpisa :",
+      "options": [
+        "Istovjetnost",
+        "Vjerodostojnost",
+        "Autentičnost",
+        "Istinitost"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "U koliko se faza sastoji ovjeravanje rukopisa i potpisa :",
+      "options": [
+        "Jedna",
+        "Dvije",
+        "Tri",
+        "Četiri"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "U kojim slučajevima nije potrebno utvrditi identitet osobe prilikom ovjeravanja rukopisa, potpisa i prijepisa :",
+      "options": [
+        "Prijepisa",
+        "Rukopisa",
+        "Rukopisa i potpisa",
+        "Potpisa"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Koje podatke ne treba sadržavati potvrda o ovjeri prijepisa :",
+      "options": [
+        "Lične podatke osobe koja traži ovjeravanje prijepisa",
+        "Broj i datum ovjere prijepisa",
+        "Način na koji je pisana izvorna isprava (mašinom, rukopisom, računarom i dr.), broj listova izvorne isprave",
+        "Da li se radi o prijepisu izvorne isprave ili prijepisu ovjerenog prijepisa izvorne isprave"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Mjesto ovjeravanja potpisa, rukopisa i prijepisa je :",
+      "options": [
+        "Pisarnica",
+        "Arhiva",
+        "Portirnica",
+        "Službena prostorija nadležne općinske službe za upravu, odnosno nadležnog suda"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Evidencije o izvršenim ovjerama potpisa, rukopisa i prijepisa :",
+      "options": [
+        "Predmeti koji nisu rješeni",
+        "Rješeni predmeti",
+        "Arhivirani predmeti",
+        "Predmeti koji se prosljeđuju drugim organima na rješavanje"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ko vodi rokovnik predmeta u organima uprave/službi za upravu :",
+      "options": [
+        "Rukovoditelj organa uprave/službi za upravu",
+        "Šef pisarnice",
+        "Službenik koji radi na predmetu",
+        "Službenik pisarnice"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ko daje nalog za stavljanje predmeta u rokovnik predmeta:",
+      "options": [
+        "Službenik koji radi na predmetu",
+        "Rukovoditelj organa uprave/službe za upravu",
+        "Rukovoditelj organizacione jedinice",
+        "Šef pisarnice"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Evidencija u omotu za predmete i akte vodi se:",
+      "options": [
+        "Na prednjoj stranici omota",
+        "Na unutrašnjoj stranici omota",
+        "Na prednjoj i unutrašnjoj stranici omota",
+        "Na zadnjoj stranici omota"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "U omot naznačen zelenom bojom ulažu se predmeti i akti:",
+      "options": [
+        "Koji se zavode u upisnik prvostepenih predmeta i akata po kojima se upravni postupak pokreće po službenoj dužnosti",
+        "Koji se zavode u upisnik prvostepenih predmeta i akata po kojima se upravni postupak pokreće po zahtjevu stranke",
+        "Za predmete i akte drugostepenog upravnog postupka",
+        "Za predmete i ake koji se zavode u djelovodnik predmeta i akata"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Šta je \"Revers\":",
+      "options": [
+        "Privremena evidencija o rukovanju arhivskim predmetima",
+        "Stalna evidencija o rukovanju arhivskim predmetima",
+        "Potvrda o zaduženju predmeta",
+        "Potvrda o razduženju predmeta"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ko izdaje ovlašćenje pečatoreznicama za izradu federalnih pečata:",
+      "options": [
+        "Federalno ministarstvo finansija",
+        "Parlament Federacije BiH",
+        "Federalno ministarstvo pravde",
+        "Vlada Federacije BiH"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Propise o pečatu kantonalnih organa vlasti donosi:",
+      "options": [
+        "Zakonodavno tijelo kantona",
+        "Parlament Federacije BiH",
+        "Vlada kantona",
+        "Vlada Federacije BiH"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Pisarnica u pravilu treba da bude:",
+      "options": [
+        "U sklopu kabineta rukovoditelja organa uprave/službe za upravu",
+        "U prostoriji koju odredi šef pisarnice",
+        "U sklopu drugih radnih prostorija",
+        "Blizu ulaza u zgradu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Izdavanje dokumenata, uvjerenja, potvrda i drugih akata koji se nalaze u arhivi, na zahtjev zainteresiranih osoba vrši se prema:",
+      "options": [
+        "Zakonu o upravi",
+        "Zakonu o upravnom postupku",
+        "Zakonu o slobodi pristupa informacijama",
+        "Zakonu o upravnom sporu"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Predmeti i akti stavljeni u arhivu mogu se izdavati drugim organima uprave/službama za upravu po pismenom odobrenju:",
+      "options": [
+        "Ovlaštenog službenika pisarnice",
+        "Šefa pisarnice",
+        "Rukovoditelja organa uprave/službe za upravu",
+        "Rukovoditelja osnovne organizacione jedinice"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Na vratima radnih prostorija treba se nalaziti:",
+      "options": [
+        "Naziv organa uprave/službe za upravu, ime rukovoditelja organa uprave/službe za upravu, oznaka poslova koji su u nadležnosti organa uprave/službe za upravu i ime službenika koji radi u radnoj prostoriji",
+        "Raspored organa uprave/službe za upravu i njihovih organizacionih jedinica, naziv organizacione jedinice, ime službenika koji radi u radnoj prostoriji",
+        "Naziv organizacione jedinice, ime rukovodioca te organizacione jedinice, oznaka poslova te organizacione jedinice te ime službenika koji radi u radnoj prostoriji",
+        "Naziv organizacione jedinice, oznaka poslova koji su u nadležnosti te organizacione jedinice i ime službenika koji radi u radnoj prostoriji"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Šta čini arhivski fond?",
+      "options": [
+        "Predmeti nastali poslovanjem jednog organa uprave",
+        "Predmeti nastali poslovanjem dva organa uprave",
+        "Predmeti nastali poslovanjem privrednih subjekata",
+        "Svi arhivski predmeti koji su organski nastali poslovanjem nekog pravnog lica, organa vlasti, ustanove, preduzeće, organizacije, porodice i ličnosti"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Šta je Arhiva Sektora?",
+      "options": [
+        "Mjesto gdje se čuvaju završeni predmeti do isteka godine u odnosu na godinu kada je predmet rješen",
+        "Mjesto gdje se čuvaju predmeti do isteka dvije godine u odnosu na godinu kada je predmet rješen",
+        "Mjesto gdje se čuvaju predmeti do isteka tri godine u odnosu na godinu kada je predmet rješen",
+        "Mjesto gdje se čuvaju predmeti do isteka šest mjeseci u odnosu na godinu kada je predmet rješen"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Iz čega se sastoji arhivski depo?",
+      "options": [
+        "Iz dva sanduka u koje se odlažu akta, a nalazi se u pisarnici",
+        "Iz jedne ili više prostorija odvojenih od pisarnice u kojima se čuva arhivska i registraturna građa po isteku roka čuvanja u arhivi  Sektora",
+        "Od fascikli koje se čuvaju u koricama",
+        "Od jedne prostorije u pisarnici"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ko otvara povjerljivu, odnosno strogo povjerljivu poštu?",
+      "options": [
+        "Najstariji službenik protokola",
+        "Najmlađi službenik",
+        "Ovlašteni službenik protokola, odnosno lice koje odredi direktor",
+        "Pripravnik"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Na osnovu čega se vrši odabiranje arhivske građe i izlučivanje bezvrijedne arhivske registraturne građe?",
+      "options": [
+        "Na osnovu naloga šefa",
+        "Na osnovu slobodne procjene službenika",
+        "Na osnovu Liste kategorije registraturne građe sa rokovima čuvanja",
+        "Na osnovu procjene službenika za arhiviranje"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Ko vrši ocjenu registraturne građe iz Liste i utvrđuje svojstvo arhivske građe i čija je ocjena obavezna?",
+      "options": [
+        "Ovlašteni službenik",
+        "Nadležni arhiv",
+        "Federalni organ uprave",
+        "Kantonalni organ uprave"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Koliko dugo se mogu držati završeni predmeti od dana zavođenja, poslije kog roka se obavezno predaju u arhivski depo?",
+      "options": [
+        "Dvije godine",
+        "Tri godine",
+        "Četiri godine",
+        "Šest mjeseci"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Koliko se u okviru kancelarijskog i arhivskog poslovanja vodi evidencija?",
+      "options": [
+        "Pet",
+        "Šest",
+        "Sedam",
+        "Osam"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "U koliko se najmanje primjeraka piše službeni dopis?",
+      "options": [
+        "Četiri",
+        "Tri",
+        "Dva",
+        "Jedan"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Radi lakšeg i bržeg pronalaženja osnovnog broja nekog od predmeta u pisarnici se vodi Registar, a list registra sadrži slijedeći broj rubrika :",
+      "options": [
+        "Četiri",
+        "Pet",
+        "Šest",
+        "Sedam"
+      ],
+      "correct": 2
+    }
+  ]

@@ -1,0 +1,2942 @@
+[
+    {
+      "question": "Kada se Zakon o upravi u Federaciji Bosne i Hercegovine smatra donesenim?",
+      "options": [
+        "Da se donese Zakon o upravi u Federaciji Bosne i Hercegovine dovoljno je da ga usvoji samo Zastupnički dom Parlamenta BiH",
+        "Da se donese Zakon o upravi u Federaciji Bosne i Hercegovine dovoljno je da ga usvoji samo Dom naroda Parlamenta BiH",
+        "Da se donese Zakon o upravi u Federaciji Bosne i Hercegovine nije nužno da je usvojen u identičnom tekstu u oba doma Parlamenta Federacije BiH",
+        "Zakon o upravi u Federaciji BiH smatra se donesenim kada ga u identičnom tekstu usvoje oba doma Parlamenta Federacije BiH i kada ga proglasi Parlament Federacije BiH"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Zakon o upravi proglašava se:",
+      "options": [
+        "Zakon o upravi proglašava se Odlukom Parlamenta Federacije BiH",
+        "Zakon o upravi proglašava se Ukazom o proglašenju Zakona o upravi u Federaciji BiH",
+        "Zakon o upravi proglašava se Rješenjem koje donosi Parlament Federacije BiH",
+        "Zakon o upravi proglašava se Rješenjem koje donosi ministar Federalnog ministarstva pravde"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Poslove uprave iz okvira nadležnosti Federacije obavljaju:",
+      "options": [
+        "Poslove uprave iz okvira nadležnosti Federacije obavljaju organi uprave kantona",
+        "Poslove uprave iz okvira nadležnosti Federacije obavljaju organi uprave Federacije",
+        "Poslove uprave iz okvira nadležnosti Federacije obavljaju organi grada",
+        "Poslove uprave iz okvira nadležnosti Federacije obavljaju općinske službe"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Kako se nazivaju organi uprave grada?",
+      "options": [
+        "Organi uprave grada nazivaju se sekretarijati",
+        "Organi uprave grada nazivaju se uprave",
+        "Organi uprave grada nazivaju se gradske službe za upravu",
+        "Organi uprave grada nazivaju se ustanove"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Kako se nazivaju organi uprave općine?",
+      "options": [
+        "Organi uprave općine nazivaju se sekretarijati",
+        "Organi uprave općine nazivaju se uprave",
+        "Organi uprave općine nazivaju se općinske službe za upravu",
+        "Organi uprave općine nazivaju se ustanove"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Ko vrši poslove uprave i samouprave iz nadležnosti grada?",
+      "options": [
+        "Poslove uprave i samouprave iz nadležnosti grada vrši gradonačelnik putem Sekretarijata",
+        "Poslove uprave i samouprave iz nadležnosti grada vrši gradonačelnik putem uprava",
+        "Poslove uprave i samouprave iz nadležnosti grada vrši gradonačelnik putem gradskih službi za upravu",
+        "Poslove uprave i samouprave iz nadležnosti grada vrši gradonačelnik putem ustanova"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Ko vrši poslove uprave i samouprave iz nadležnosti općina?",
+      "options": [
+        "Poslove uprave i samouprave iz nadležnosti općina vrši općinski naćelnik putem općinskih službi za upravu",
+        "Poslove uprave i samouprave iz nadležnosti općina vrši općinski naćelnik putem Sekretarijata",
+        "Poslove uprave i samouprave iz nadležnosti općina vrši općinski načelnik putem uprava",
+        "Poslove uprave i samouprave iz nadležnosti općina vrši općinski načelnik putem ustanova"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Po čijim uputama federalni organi uprave obavljaju poslove iz svoje nadležnosti?",
+      "options": [
+        "Organi uprave obavljaju poslove iz svoje nadležnosti po uputama Parlamenta Federacije BiH",
+        "Organi uprave obavljaju poslove iz svoje nadležnosti po uputama Vlade Federacije BiH",
+        "Organi uprave obavljaju poslove iz svoje nadležnosti po uputama po nalogu rukovoditelja organa uprave",
+        "Organi uprave obavljaju poslove iz svoje nadležnosti samostalno, u skladu sa Ustavom, zakonom i drugim propisima"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ko osniva federalne organe uprave?",
+      "options": [
+        "Federalni organi uprave Zakonom osniva Parlament Federacije BiH na prijedlog Vlade Federacije BiH",
+        "Federalni organi uprave Zakonom osniva Parlament Federacije BiH na prijedlog predsjedavajučeg Zastupničkog doma",
+        "Federalni organi uprave Zakonom osniva Parlament Federacije BiH na prijedlog predsjedavajučeg Doma naroda",
+        "Federalni organi uprave Zakonom osniva Parlament Federacije BiH na prijedlog Ustavnog suda Federacije Bosne i Hercegovine"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Organi uprave u okviru svojih nadležnosti provode politiku koju je utvrdio:",
+      "options": [
+        "Organi uprave u okviru svojih nadležnosti provode politiku koju je utvrdio organ sudske vlasti",
+        "Organi uprave u okviru svojih nadležnosti provode politiku koju je utvrdio organ zakonodavne vlasti",
+        "Organi uprave u okviru svojih nadležnosti provode politiku koju je utvrdio organ izvršne vlasti",
+        "Organi uprave u okviru svojih nadležnosti provode politiku koju je utvrdila Vlada Federacije BiH"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Šta obuhvata kompletan upravni nadzor:",
+      "options": [
+        "Kompletan upravni nadzor obuhvata nadzor nad zakonitošću akata kojima se rješava u upravnim stvarima",
+        "Kompletan upravni nadzor obuhvata nadzor nad zakonitošću rada institucija koje imaju javna ovlaštenja",
+        "Kompletan upravni nadzor obuhvata nadzor nad zakonitošću akata kojima se rješava u upravnim stvarima; nadzor nad zakonitošću rada institucija koje imaju javna ovlaštenja; inspekcijski nadzor",
+        "Kompletan upravni nadzor obuhvata nadzor nad zakonitošću rada institucija koje imaju javna ovlaštenja i inspekcijski nadzor"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Preduzećima (društvima) ustanovama i drugim pravnim licima može se povjeriti vršenje određenih upravnih i stručnih poslova iz djelokruga organa uprave:",
+      "options": [
+        "Samo ako je to Zakonom određeno, odnosno povjereno",
+        "Po odluci Vlade Federacije BiH",
+        "Po odluci Federalnog ministarstva pravde",
+        "Podzakonskim aktima federalnih organa"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Da li se institucijama koje imaju javna ovlaštenja mogu povjeravati poslovi inspekcijskog nadzora:",
+      "options": [
+        "Ne - u pravilu",
+        "U zavisnosti od konkretnog slučaja",
+        "Da",
+        "Da - po ovlaštenju rukovoditelja organa uprave"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Koji poslovi inspekcijskog nadzora i pod kojim uslovima se ipak mogu povjeriti institucijama koje imaju javna ovlaštenja:",
+      "options": [
+        "Stručni poslovi",
+        "Tehnički poslovi",
+        "Upravni poslovi",
+        "Stručni poslovi koji su od značaja za vršenje inspekcijskog nadzora (ekspertize, tehnička ispitivanja i sl.), ako za vršenje tih poslova organi uprave nemaju tehničke i druge uslove"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ko vrši upravni nadzor nad radom institucija koje imaju javna ovlaštenja:",
+      "options": [
+        "Ma koja inspekcijska služba",
+        "Organi uprave iz čije nadležnosti su povjerena javna ovlaštenja",
+        "Organi uprave koje odredi glavni upravni inspektor",
+        "Organi uprave koje odredi Federalno ministarstvo pravde"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Da li postoji obaveza institucija koje imaju javna ovlaštenja da nadležnom organu uprave koji vrši nadzor nad njihovim radom podnosi izvještaj o vršenju javnih ovlaštenja i kada:",
+      "options": [
+        "Da - najmanje jedanput godišnje",
+        "Ne",
+        "Ukoliko hoće institucija koja ima javna ovlaštenja",
+        "Ukoliko je predviđeno aktom o unutrašnjoj organizaciji i sistematizaciji institucije koja ima javna ovlaštenja"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Da li postoji obaveza institucija koje imaju javna ovlaštenja da nadležnom organu uprave koji vrši nadzor nad njihovim radom dostavljaju određene podatke i dokumenta i kada:",
+      "options": [
+        "Ne",
+        "Ukoliko hoće institucija koja ima javna ovlaštenja",
+        "Da - na traženje tih organa uprave",
+        "Ukoliko je predviđeno aktom o unutrašnjoj organizaciji i sistematizaciji institucije koja ima javna ovlaštenja"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Odnos organa uprave prema organu zakonodavne vlasti zasniva se:",
+      "options": [
+        "Odnos organa uprave prema organu zakonodavne vlasti zasniva se na principu njihove odgovornosti organu zakonodavne vlasti za zakonito, potpuno i efikasno obavljanje poslova iz svoje nadležnosti",
+        "Organi uprave odgovaraju organu zakonodavne vlasti samo u oblasti preduzimanja kadrovskih i drugih mjera",
+        "Organi uprave odgovorni su organu zakonodavne vlasti samo u pogledu efikasnog izvršavanja poslova",
+        "Organi uprave odgovorni su organu zakonodavne vlasti samo u organizovanom smislu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Na kojem principu odgovornosti se zasniva odnos organa uprave prema organu zakonodavne vlasti?",
+      "options": [
+        "Odnos organa uprave prema organu zakonodavne vlasti zasniva se na principu povremene odgovornosti",
+        "Odnos organa uprave prema organu zakonodavne vlasti zasniva se na principu stalne odgovornosti",
+        "Odnos organa uprave prema organu zakonodavne vlasti zasniva se na principu odgovornosti samo za neka pitanja iz domena djelatnosti organa uprave",
+        "Odnos organa uprave prema organu zakonodavne vlasti zasniva se na principu odgovornosti samo za organizaciona pitanja organa uprave"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Da li je organ izvršne vlasti dužan utvrditi uputstva i smjernice organima uprave o načinu provođenja politike i izvršavanja zakona i drugih propisa organa zakonodavne vlasti i pod kojim uslovima:",
+      "options": [
+        "Da, kad god zatraži organ zakonodavne vlasti od organa izvršne vlasti u skladu sa zakonom",
+        "Ne, ukoliko rukovoditelj odnosnog organa uprave utvrdi da to nije potrebno",
+        "U zavisnosti od konkretne situacije",
+        "Samo izuzetno"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Da li organ izvršne vlasti može otvoriti raspravu o radu i odgovornosti organa uprave i utvrditi način ispitivanja stanja u oblasti iz njegove nadležnosti i pokrenuti postupak za smjenjivanje rukovodioca organa uprave:",
+      "options": [
+        "Da",
+        "Ne, ukoliko rukovoditelj odnosnog organa uprave utvrdi da to nije potrebno",
+        "U zavisnosti od konkretne situacije",
+        "Samo izuzetno"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Na ćemu se zasnivaju međusobni odnosi organa uprave?",
+      "options": [
+        "Međusobni odnosi organa uprave zasnivaju se na ovlaštenjima utvrdenim Ustavom, zakonom, odnosno Statutom, kao i na saradnji, međusobnom informiranju i dogovaranju",
+        "Medusobni odnosi organa uprave zasnivaju se na sporazumu koga zakljuce rukovodioci odnosnih organa",
+        "Medusobni odnosi organa uprave zasnivaju se na principu dobrovoljnosti",
+        "Medusobni odnosi organa uprave zasnivaju se samo izmedu organa istog nivoa vlasti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Sa kojim organima sarađuju organi uprave nadležni za poslove inspekcijskog nadzora?",
+      "options": [
+        "Organi uprave nadležni za poslove inspekcijskog nadzora nižeg nivoa saraduju samo sa organima nadležnim za poslove inspekcijskog nadzora višeg nivoa",
+        "Organi uprave nadležni za poslove inspekcijskog nadzora u vršenju tog nadzora, pored međusobne saradnje, saraduju i sa nadležnim sudovima, tužilaštvima i drugim odgovarajućim organima",
+        "Organi uprave nadležni za poslove inspekcijskog nadzora ne mogu sarađivati sa nadležnim sudovima",
+        "Organi uprave nadležni za poslove inspekcijskog nadzora ne mogu sarađivati sa nadležnim sudovima i tužilaštvima"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Odnos organa uprave prema ombudsmenima zasniva se:",
+      "options": [
+        "Na principu dobrovoljnosti ombudsmena i odnosnog organa uprave",
+        "Na principu preporuka odnosnog organa da se institucija ombudsmena umiješa u određeni proces",
+        "Na obavezama organa uprave utvrđenim Ustavom i zakonom, odnosno propisom gradskog i općinskog vijeća, kao i na međusobnoj saradnji, informisanju i dogovaranju",
+        "Na principima utvrđenim aktom o unutrašnjoj sistematizaciji radnih mjesta odnosnog organa uprave"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Organi uprave obavezni su omogućiti ombudsmenima na njihov zahtjev, da izvrše uvid u rad organa ili njihovog službenika, kada su u pitanju:",
+      "options": [
+        "Povrede ma koga prava građana",
+        "Povrede prava građana iz oblasti zdravstvene zaštite",
+        "Povrede kojima su negirani ljudsko dostojanstvo, prava ili slobode, uključujući provođenje etničkog progona ili održavanje njegovih posljedica",
+        "Povrede prava građana iz oblasti obrazovanja, nauke i sporta"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "U kojim rokovima su dužni organi uprave rješavati zahtjeve stranaka (građana):",
+      "options": [
+        "U rokovima koje odredi rukovodilac federalnog organa uprave",
+        "U rokovima koje odredi rukovodilac organa uprave u kome se rješava podneseni zahtjev stranke",
+        "U rokovima propisanim zakonom",
+        "U rokovima koje odredi voditelj postupka"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "U kojem roku je rukovodilac organa dužan dati pismeni odgovor stranci na njezin prigovor na nepravilan odnos službenog organa uprave prema njoj (stranci, građaninu):",
+      "options": [
+        "U roku kojeg odredi rukovodilac organa",
+        "U roku od 30 dana, računajući od dana kada je stranka podnijela prigovor na odnos službenika prema njoj",
+        "Rukovodilac organa uprave obavezan je dati pismeni odgovor stranci u roku od 10 dana od dana prijema predstavke, odnosno prijedloga stranke",
+        "U roku od osam dana, računajući od dana prijema predstavke stranke"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Koje dokaze organi uprave ne smiju zahtijevati od stranke (da ih stranka pribavlja) u rješavanju stvari u upravnom postupku:",
+      "options": [
+        "Ugovore zaključene sa trećim licima",
+        "Dokaz o završenoj školskoj spremi",
+        "Dokaz o bračnom statusu",
+        "Organi uprave u rješavanju stvari u upravnom postupku ne smiju od stranaka zahtijevati da pribavljaju uvjerenja i druge javne isprave o činjenicama o kojima organi uprave ili institucije koje imaju javna ovlaštenja vode službene evidencije"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Da li stranka koja se odaziva pozivu organa uprave, a nije obavila radnju zbog koje je pozvana,ima pravno zahtijevati naknadu troškova dolaska i pod kojim uslovima:",
+      "options": [
+        "Da, ukoliko je trošak dolaska veći od",
+        "Da, ukoliko je trošak dolaska veći od",
+        "Da, ako bez krivice stranke nije obavljena službena radnja zbog koje je stranka pozvana",
+        "Da, ukoliko to odluči neposredni rukovodilac organizacione jedinice"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Federalni organi uprave osnivaju se:",
+      "options": [
+        "Aktima izvršne vlasti",
+        "Uredbom",
+        "Podzakonskim aktima",
+        "Zakonom"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Federalni organi uprave jesu:",
+      "options": [
+        "Federalna ministarstva i federalne uprave",
+        "Federalni zavodi",
+        "Federalne direkcije",
+        "Federalne agencije"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Sjedište federalnih organa uprave i federalnih ustanova je:",
+      "options": [
+        "U Sarajevu",
+        "U Mostaru",
+        "U Zenici",
+        "U Sarajevu i Mostaru"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Služba za upravu za vršenje stručnih poslova i poslova lokalne samouprave iz okvira nadležnosti grada i općine, osnivaju se:",
+      "options": [
+        "Zakonom",
+        "Uredbom",
+        "Propisom gradskog ili općinskog vijeća na prijedlog gradonačelnika, odnosno općinskog načelnika",
+        "Naredbom"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Unutrašnja organizacija organa uprave utvrđuje se:",
+      "options": [
+        "Zakonom",
+        "Odlukom",
+        "Pravilnikom",
+        "Naredbom"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Pravilnik o unutrašnjoj organizaciji organa uprave donosi:",
+      "options": [
+        "Kolektivni organ",
+        "Zbor radnika",
+        "Sindikalna organizacija",
+        "Rukovodilac organa uprave"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Pravilnik o unutrašnjoj organizaciji organa uprave donosi rukovodilac organa uprave u saglasnosti sa:",
+      "options": [
+        "Zamjenikom rukovodioca organa uprave",
+        "Zastupničkim domom",
+        "Domom naroda",
+        "Organom izvršne vlasti ili drugim organom određenim zakonom, a u gradu i općini sa gradskim odnosno općinskim vijećem"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Poslovi organa uprave u pravilniku o unutrašnjoj organizaciji grupišu se prema:",
+      "options": [
+        "Srodnosti, obimu i stepenu složenosti, odgovornosti",
+        "Vrsti, srodnosti, obimu i stepenu složenosti i drugim uslovima za njihovo obavljanje",
+        "Obimu i stepenu složenosti, odgovornosti i drugim uslovima za njihovo obavljanje",
+        "Vrsti, srodnosti, obimu i stepenu složenosti, odgovornosti i drugim uslovima za njihovo obavljanje"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Lice koje rukovodi organom uprave zove se:",
+      "options": [
+        "Načelnik",
+        "Glavni federalni inspektor",
+        "Sekretar ministarstva",
+        "Rukovodilac"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Službama za upravu i lokalnu samoupravu iz okvira nadležnosti grada i općine rukovodi:",
+      "options": [
+        "Gradonačelnik, odnosno općinski načelnik",
+        "Ovlašteni radnik",
+        "Predsjedavajući Općinskog vijeća",
+        "Predsjednik Skupštine grada"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "U organima uprave kao službeni može se koristiti samo:",
+      "options": [
+        "Bosanski jezik",
+        "Hrvatski jezik",
+        "Srpski jezik",
+        "U organima uprave u ravnopravnoj upotrebi kao službeni jezici su: bosanski, hrvatski i srpski jezik"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Kako se imenuje federalni ministar:",
+      "options": [
+        "Federalnog ministra imenuje predsjednik Federacije uz saglasnost potpredsjednika Federacije, nakon konsultacija sa premijerom ili sa kandidatom za tu funkciju",
+        "Federalnog ministra imenuje predsjednik Federacije, s tim da imenovanje zahtjeva potvrdu većine glasova poslanika u Predstavničkom domu Parlamenta Federacije",
+        "Fed. ministra imenuje predsj.Federacije, uz sagl. potpredsj. Federacije, nakon konsultacije sa premij. ili sa kandid.za tu funkciju,s tim da imen. ministra zahtjeva  potvrdu većine glasova poslan.u Predst.domu Parlamenta Federacije",
+        "Federalnog ministra imenuje predsjednik Federacije uz saglasnost potpredsjednika Federacije"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Rukovodeći službenici u federalnim organima uprave i federalnim ustanovama su:",
+      "options": [
+        "Rukovodilac samostalne uprave i samostalne ustanove, sekretar organa državne službe, rukovodilac uprave i ustanove koje se nalaze u sastavu ministarstva",
+        "Pomoćnik rukovodioca organa državne službe, glavni federalni i glavni kantonalni inspektori",
+        "Sekretari organa državne službe, pomoćnik rukovodioca organa državne službe",
+        "Rukovodilac samostalne uprave i samostalne ustanove, sekretar organa državne službe, rukovodilac uprave i ustanove koje se nalaze u sastavu ministarstva, pomoćnik rukovodioca organa državne službe, glavni federalni i glavni kantonalni inspektori"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Rukovodeće službenike u federalnim organima uprave i federalnim ustanovama, bez natječaja postavlja i smjenjuje:",
+      "options": [
+        "Vlada Federacije, odnosno Vlada kantona na prijedlog ministra odnosno na prijedlog direktora samostalne uprave ili samostalne ustanove",
+        "Vlada Federacije i Vlada kantona",
+        "Predsjednik Federacije",
+        "Potpredsjednik Federacije"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Radom samostalne federalne uprave i federalne ustanove rukovodi direktor, koga imenuje:",
+      "options": [
+        "Vlada Federacije",
+        "Premijer",
+        "Zamjenik premijera",
+        "Vlada Federacije, na usaglašen prijedlog premijera i zamjenika premijera, ako federalnim zakonom nije drukčije određeno"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Radom federalne uprave i federalne ustanove u sastavu federalnog ministarstva rukovodi direktor, koga postavlja i smjenjuje:",
+      "options": [
+        "Vlada Federacije na prijedlog premijera",
+        "Vlada Federacije na prijedlog zamjenika premijera",
+        "Vlada Federacije na prijedlog federalnog ministra u čijem se sastavu nalazi uprava odnosno ustanova",
+        "Premijer"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Federalni ministar za svoj rad odgovara:",
+      "options": [
+        "Parlamentu Federacije",
+        "Zastupničkom domu Parlamentu Federacije",
+        "Dom naroda Parlamenta Federacije",
+        "Predsjedniku Federacije i premijeru"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Federalni ministar podnosi ostavku:",
+      "options": [
+        "Parlamentu Federacije",
+        "Zastupničkom domu Parlamentu Federacije",
+        "Dom naroda Parlamenta Federacije",
+        "Predsjedniku Federacije"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Propis kojim se razrađuju pojedine odredbe federalnih zakona ili propisa Vlade Federacije radi osiguranja odgovarajuće primjene tih zakona i propisa su:",
+      "options": [
+        "Naredbe",
+        "Preporuke",
+        "Uputstva",
+        "Pravilnici"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Opći akti organa uprave su:",
+      "options": [
+        "Pravilnici",
+        "Rješenja",
+        "Preporuke",
+        "Uputstva, instrukcije i naredbe"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ko donosi provedbene propise i opće akte federalnog organa uprave, odnosno federalne ustanove:",
+      "options": [
+        "Sekretar",
+        "Pomoćnik",
+        "Ma koji rukovodeći službenik",
+        "Rukovodilac federalnog organa uprave, odnosno federalne ustanove"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Da li pojedinačne akte federalnog organa uprave, odnosno federalne ustanove mogu donositi pojedini službenici:",
+      "options": [
+        "Ne",
+        "Samo ako je to utvrđeno aktom o sistematizaciji",
+        "U zavisnosti od ranga službenika",
+        "Samo ukoliko je takvo ovlaštenje za donošenje pojedinačnih akata utvrđeno posebnim rješenjem rukovodioca federalnog organa uprave, odnosno federalne ustanove"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Kako se zovu lica koja vrše poslove inspekcijskog nadzora iz nadležnosti federalnog organa uprave:",
+      "options": [
+        "Ovlašteni radnici",
+        "Rukovodeći radnici",
+        "Federalni inspektori",
+        "Radnici sa posebnim pravima"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Ko može biti federalni inspektor:",
+      "options": [
+        "Osoba sa završenom ma kojom visokom školskom spremom",
+        "Osoba na rukovodećem radnom mjestu",
+        "Osoba koja ima završenu odgovarajuću visoku školsku spremu",
+        "Osoba koja ima završenu odgovarajuću visoku školsku spremu, položen stručni ispit i radno iskustvo od najmanje tri godine godine nakon položenog stručnog ispita"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Na rješenje federalnog inspektora, ovlašteno lice kod koga je izvršen inspekcijski pregled ima pravo izjaviti žalbu u roku od:",
+      "options": [
+        "10 dana",
+        "8 dana",
+        "15 dana",
+        "12 dana"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Na rješenje federalnog inspektora, ovlašteno lice kod koga je izvršen inspekcijski pregled ima pravo izjaviti žalbu:",
+      "options": [
+        "Vladi Federacije BiH",
+        "Predsjedniku Federacije BiH",
+        "Parlamentu Federacije BiH",
+        "Federalnom ministru čiji je inspektor donio rješenje"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Po žalbi izjavljenoj federalnom ministru čiji je inspektor donio rješenje, mora se postupiti odnosno donijeti rješenje u roku od:",
+      "options": [
+        "15 dana dana prijema žalbe",
+        "20 dana od dana prijema žalbe",
+        "30 dana od dana prijema žalbe",
+        "25 dana od dana prijema žalbe"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Na rješenje doneseno po žalbi koja je od ovlaštenog lica izjavljena federalnom ministru čiji je inspektor donio rješenje može se pokrenuti upravni spor kod:",
+      "options": [
+        "Vrhovnog suda Federacije BiH",
+        "Kantonalnog suda",
+        "Općinskog suda",
+        "Ustavnog suda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Gdje se osiguravaju sredstva za rad federalnih organa uprave i federalnih ustanova:",
+      "options": [
+        "U budžetu kantona",
+        "U budžetu općine",
+        "U budžetu Vijeća ministara",
+        "U budžetu Federacije"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ukoliko federalni organi uprave i federalne ustanove ostvare prihod u okviru svoje djelatnosti, taj se prihod u pravilu:",
+      "options": [
+        "Unosi u budžet Federacije",
+        "Raspoređuje se za plaće službenicima u federalnom organu ili federalnoj ustanovi",
+        "Unosi se u sredstva za materijalne troškove",
+        "Raspoređuje se u sredstva za posebne namjene"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "U slučaju postojanja odgovornosti rukovodioca organa uprave, prema njemu se:",
+      "options": [
+        "Izriču disciplinske mjere",
+        "Izriču disciplinske kazne",
+        "Premješta se na druge poslove",
+        "Smjenjuje se sa funkcije"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Da li smjenjivanje sa funkcije rukovodioca organa uprave isključuje njegovo krivično gonjenje ili odgovornost u građanskom postupku:",
+      "options": [
+        "Ne isključuje",
+        "Isključuje",
+        "U zavisnosti od stava Vlade Federacije BiH",
+        "U zavisnosti od stava Predsjednika Federacije BiH"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ko smjenjuje federalnog ministra:",
+      "options": [
+        "Vlada Federacije BiH",
+        "Parlament Federacije BiH",
+        "Predsjednik Federacije na prijedlog premijera",
+        "Predstavnički dom Parlamenta Federacije BiH"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Da li federalni ministar može podnijeti ostavku i kome:",
+      "options": [
+        "Vladi Federacije BiH",
+        "Parlamentu Federacije BiH",
+        "Predsjedniku Federacije",
+        "Predstavničkom domu Parlamenta Federacije BiH"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Kome podnosi ostavku direktor i zamjenik direktora samostalne federalne uprave i federalne ustanove, kao i direktor federalne uprave i federalne ustanove u sastavu ministarstva:",
+      "options": [
+        "Vladi Federacije BiH",
+        "Parlamentu Federacije BiH",
+        "Predstavničkom domu Parlamenta Federacije BiH",
+        "Domu naroda Parlamenta Federacije BiH"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Organi uprave jednog nivoa vlasti sarađuju sa organom uprave drugog nivoa vlasti:",
+      "options": [
+        "Ukoliko se dogovore rukovodioci datih nivoa vlasti",
+        "Ukoliko to naredi Vlada Federacije BiH",
+        "Ukoliko to naredi predsjednik Federacije BiH",
+        "U svim pitanjima regulisanim zakonom (član 38. Zakona o upravi Federacije BiH) koja su od zajedničkog interesa"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ko propisuje vrstu složenosti poslova koji se vrše u okviru radnih mjesta u federalnom organu uprave za državne službenike:",
+      "options": [
+        "Vlada Federacije BiH",
+        "Predsjednik Federacije BiH",
+        "Predsjedavajući Predstavničkog doma Parlamenta Federacije BiH",
+        "Predsjedavajući Doma naroda Parlamenta Federacije BiH"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Sredstva za rad federalnih organa uprave i federalnih ustanova su:",
+      "options": [
+        "Sredstva za plaće",
+        "Sredstva za materijalne troškove",
+        "Sredstva za posebne namjene",
+        "Sredstva za plaće, sredstva za materijalne troškove, sredstva za posebne namjene i sredstva opreme"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Plaće službenika i namještenika stiču se ovisno od:",
+      "options": [
+        "Radnog staža",
+        "Koeficijenata",
+        "Uslkova rada",
+        "Vrste i obima poslova i zadataka utvrđenih u programu rada organa uprave, odnosno ustanove i uslova njihovog izvršavanja"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Kako se određuje plaća državnog službenika:",
+      "options": [
+        "U skladu sa osnovicom za plaću",
+        "U skladu sa radnim stažom",
+        "Plaća državnog službenika određuje se tako da se osnovica pomnoži sa koeficijentom platnog razreda i ukupan iznos povećava na temelju radnog staža za 0,5 % za svaku započetu godinu radnog staža, a najviše do 20%",
+        "Množenjem koeficijenata sa osnovicom za plaću"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Odnos Vlade Federacije BiH i federalnih organa uprave i federalnih ustanova prema predsjedniku i potpredsjednicima Federacije zasniva se na:",
+      "options": [
+        "Dobrovoljnom postupanju federalnih organa uprave i federalnih ustanova po njihovim zahtjevima",
+        "Samo kada to procijeni kao potrebno Vlada Federacije BiH",
+        "Samo kada to ocijene kao potrebno rukovodioci organa uprave",
+        "Vlada Federacije BiH, fed.org.uprave i fed. ustanove obavezni su postupiti po zahtj. i uslov.predsj. i potpredsj. Federacije u pitanjima koja su od znač. za ostvariv. poslova iz ustavne nadlež.predsj i potpredsj. Federacije"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Šta je lokalna samouprava:",
+      "options": [
+        "Lokalna samouprava je pravo građana",
+        "Lokalna samouprava je obaveza građana",
+        "Lokalna samouprava je osposobljenost građana",
+        "Lokalna samouprava je pravo, obaveza i osposobljenost lokalnih vlasti da, u granicama ustava i zakona, regulišu i upravljaju određenim javnim poslovima u skladu sa interesima lokalnog stanovništva, a na osnovu lične odgovornosti"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Osnovna jedinica lokalne samouprave je:",
+      "options": [
+        "Mjesna zajednica",
+        "Federacija BiH",
+        "Republika Srpska",
+        "Općina"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Akt kojim se detaljnije uređuje samoupravni djelokrug općine je:",
+      "options": [
+        "Poslovnik o radu",
+        "Odluka o osnivanju općinskih službi",
+        "Ustav općine",
+        "Statut općine"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "U općini se osigurava javni red i mir:",
+      "options": [
+        "Donošenjem odluke općinskog vijeća o javnom redu i miru",
+        "Donošenjem uputstva o javnom redu i miru",
+        "Donošenjem naredbe o javnom redu i miru",
+        "Donošenjem zaključka o javnom redu i miru"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "U općini se osiguravaju uslovi za poštovanje i zaštitu ljudskih prava i osnovnih sloboda u skladu sa:",
+      "options": [
+        "Statutom općine",
+        "Odlukom općinskog načelnika",
+        "Poslovnikom o radu",
+        "Ustavom Federacije BiH sa odgovarajućim međunarodnim propisima, naročito Evropskom poveljom o lokalnoj samoupravi"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Poslove uprave u organima uprave obavljaju:",
+      "options": [
+        "Namještenici",
+        "Radnici",
+        "Pripravnici",
+        "Službenici"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Pomoćno-tehničke poslove za potrebe organa uprave obavljaju:",
+      "options": [
+        "Namještenici",
+        "Radnici",
+        "Pripravnici",
+        "Službenici"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Mandat članovima općinskog vijeća traje:",
+      "options": [
+        "Dvije godine",
+        "Jednu godinu",
+        "Tri godine",
+        "Četiri godine"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Broj vijećnika Gradskog vijeća je:",
+      "options": [
+        "Ne manje od 15, niti više od 30",
+        "Ne manje od 10, niti više od 20",
+        "Ne manje od 20, niti više od 25",
+        "Ne manje od 30, niti više od 50"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ko je nadležan za imanovanje i smjenjivanje općinskih službenika:",
+      "options": [
+        "Predsjedavajući Općinskog vijeća",
+        "Općinski načelnik",
+        "Ovlašteni službenik",
+        "Rukovodilac službe za personalne poslove"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Zakonodavni organ općine je:",
+      "options": [
+        "Općinsko vijeće",
+        "Općinski načelnik",
+        "Općinske službe za upravu",
+        "Općinski načelnik u zajednici sa Općinskim vijećem"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ko bira općinskog načelnika:",
+      "options": [
+        "Građani neposredno na izborima",
+        "Općinsko vijeće",
+        "Predsjednik Općinskog vijeća",
+        "Kantonalna skupština"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ko je odgovoran za zakonit rad općinskih službi za upravu:",
+      "options": [
+        "Općinski načelnik",
+        "Rukovodioci pojedinih općinskih službi",
+        "Predsjedavajući Općinskog vijeća",
+        "Predsjedavajući Općinskog vijeća u zajednici sa općinskim načelnikom"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ko usvaja općinski budžet:",
+      "options": [
+        "Općinski načelnik",
+        "Općinsko vijeće",
+        "Općinske službe za upravu",
+        "Općinski načelnik u zajednici sa Općinskim vijećem"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Područje općine, njen naziv i sjedište uređuje se:",
+      "options": [
+        "Odlukom Općinskog vijeća",
+        "Međuentitetskim ugovorom",
+        "Odlukom općinskog načelnika",
+        "Posebnim zakonom"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Grad kao jedinica lokalne uprave i samouprave u skladu sa federalnim zakonom može se formirati:",
+      "options": [
+        "Za područje dvije ili više općina koje su urbano i teritorijalno povezane svakodnevnim potrebama građana",
+        "Po odluci općinskih načelnika zainteresiranih općina",
+        "Po odluci općinskih vijeća zainteresiranih općina",
+        "Po odluci općinskih vijeća u zajednici sa općinskim načelnicima zainteresiranih općina"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Gdje su smještena federalna ministarstva i u kojem broju:",
+      "options": [
+        "U Sarajevu 11, u Mostaru 5",
+        "U Sarajevu 10, u Mostaru 6",
+        "U Sarajevu 8, u Mostaru 8",
+        "U Sarajevu 12, u Mostaru 4"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ko su državni službenici:",
+      "options": [
+        "Lica sa višom stručnom spremom",
+        "Lica sa visokom stručnom spremom",
+        "Lica sa visokom stručnom spremom i položenim stručnim upravnim ispitom",
+        "Lica postavljena rješenjem na radno mjesto u organu državne službe u skladu sa zakonom"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Koji su jezici u općinskim i gradskim službama za upravu i lokalnu samoupravu u ravnopravnoj upotrebi kao službeni:",
+      "options": [
+        "Bosanski jezik",
+        "Hrvatski jezik",
+        "Srpski jezik",
+        "Bosanski, hrvatski i srpski jezik"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Da li se stranke pred organima uprave, općinskim i gradskim službama za upravu i lokalnu samoupravu mogu koristiti i drugim jezikom osim jezika u službenoj upotrebi (bosanski, hrvatski i srpski):",
+      "options": [
+        "Ne",
+        "Da po odobrenju rukovodioca organa",
+        "Da po odobrenju voditelja postupka",
+        "Da jer je mogućnost data zakonom"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Suština odnosa organa uprave prema strankama je:",
+      "options": [
+        "Da se stranka (građanin) primi na razgovor u organ uprave",
+        "Da se uredno primi podnesak stranke (građanina) u organu uprave",
+        "Da se zahtjev stranke (građanina) riješi u propisanim rokovima",
+        "Da stranka (građanin) ima pravo podnijeti predstavku na nepravilan odnos službenika prema njemu"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Da li je inspektor o svakom inspekcijskom pregledu obavezan sastaviti zapisnik i u njemu navesti činjenično stanje utvrđeno inspekcijskim pregledom:",
+      "options": [
+        "Ne",
+        "Po odluci inspektora",
+        "Da",
+        "U zavisnosti od utvrđenog stanja"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Da li je inspektor obavezan da vodi evidenciju o svim izvršenim inspekcijskim pregledima:",
+      "options": [
+        "Ne",
+        "Po odluci inspektora",
+        "Da",
+        "U zavisnosti od utvrđenog stanja"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Ko propisuje sadržaj i način vođenja evidencija za inspektore o izvršenim inspekcijskim pregledima:",
+      "options": [
+        "Federalni ministar pravde",
+        "Vlada Federacije BiH",
+        "Predstavnički dom Parlamenta Federacije BiH",
+        "Dom naroda Parlamenta Federacije BiH"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Da li inspektor može privremeno oduzeti dokumente i predmete koji u prekršajnom ili sudskom postupku mogu poslužiti kao dokaz:",
+      "options": [
+        "Ne",
+        "Može uz prethodnu saglasnost glavnog federalnog inspektora",
+        "Može uz prethodnu saglasnost rukovodioca organa uprave",
+        "Da"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Da li je inspektor dužan izdati potvrdu o privremeno oduzetim dokumentima i predmetima koji u prekršajnom ili sudskom postupku mogu poslužiti kao dokaz:",
+      "options": [
+        "Ne",
+        "Jeste uz prethodnu saglasnost glavnog federalnog inspektora",
+        "Da",
+        "Jeste uz prethodnu saglasnost rukovodioca organa uprave"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Službenici sa posebnim ovlaštenjima, prema zakonu, su:",
+      "options": [
+        "Pomoćnici ministra",
+        "Inspektori",
+        "Načelnici odjeljenja",
+        "Sekretari ministarstava"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Da li je zakonska obaveza da u organima državne službe Federacije, kantona, gradova i općina, Bošnjaci, Hrvati i Srbi kao konstitutivni narodi, zajedno sa ostalima i građani BiH budu proporcionalno zastupljeni:",
+      "options": [
+        "Ne",
+        "U zavisnosti od rukovodilaca odnosnih organa uprave",
+        "Po preporuci Vlade Federacije BiH",
+        "Da"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Da li su lica zaposlena kao savjetnici članova Vlade Federacije BiH državni službenici:",
+      "options": [
+        "Zavisi od pravilnika o unutrašnjoj organizaciji i sistematizaciji radnih mjesta",
+        "Ne",
+        "Zavisi od odluke Vlade Federacije BiH",
+        "Da"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Pravilnik o unutrašnjoj organizaciji organa uprave - karakter propisa i ko daje saglasnost?",
+      "options": [
+        "Opći akt",
+        "Pojedinačni akt",
+        "Organizacioni propis - saglasnost daje rukovodilac organa uprave",
+        "Provedbeni propis - saglasnost daje organ izvršne vlasti"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Vlada Federacije Bosne i Hercegovine je:",
+      "options": [
+        "Zakonodavni organ Federacije Bosne i Hercegovine",
+        "Upravno-politički organ Federacije Bosne i Hercegovine",
+        "Predstavničko tijelo Federacije Bosne i Hercegovine",
+        "Izvršni organ Federacije Bosne i Hercegovine"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Vladu Federacije Bosne i Hercegovine čine:",
+      "options": [
+        "Premijer, zamjenik premijera, ministri i zamjenici ministara",
+        "Premijer, zamjenik premijera i ministri",
+        "Premijer, dva zamjenika premijera i ministri",
+        "Premijer, ministri i sekretar Vlade Federacije"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "U ostvarivanju svojih ovlaštenja utvrđenih Ustavom Federacije, Vlada Federacije Bosne i Hercegovine donosi:",
+      "options": [
+        "Zakone, uredbe, odluke i zaključke",
+        "Uredbe, zaključke i naredbe",
+        "Uredbe sa zakonskom snagom, uredbe, odluke, rješenja i zaključke",
+        "Naredbe, rješenja i zaključke"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Vladu Federacije BiH imenuje:",
+      "options": [
+        "Predstavnički dom Parlamenta Federacije BiH",
+        "Oba doma Parlamenta Federacije BiH",
+        "Predsjednik Federacije uz saglasnost oba potpredsjednika Federacije",
+        "Vijeće ministara BiH"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Organi federalne uprave su:",
+      "options": [
+        "Federalna vlada, federalna ministarstva i federalne ustanove",
+        "Federalna ministarstva, federalne uprave i federalne ustanove",
+        "Federalna ministarstva i samostalne federalne uprave",
+        "Federalna ministarstva, federalni zavodi i federalni instituti"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Koje od navedenih ministarstava nije federalno ministarstvo:",
+      "options": [
+        "Federalno ministarstvo kulture i sporta",
+        "Federalno ministarstvo prostornog uređenja i okoliša",
+        "Federalno ministarstvo vanjske trgovine i ekonomskih odnosa",
+        "Federalno ministarstvo razvoja, poduzetništva i obrta"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Koji od navedenih poslova nisu u nadležnosti organa federalne uprave:",
+      "options": [
+        "Izvršavanje zakona i drugih propisa",
+        "Predlaganje i davanje preporuka iz oblasti zakonodavstva",
+        "Donošenje propisa za provedbu zakona i drugih propisa",
+        "Donošenje zakona"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "U sastavu kojeg federalnog ministarstva se nalazi Zavod za javnu upravu:",
+      "options": [
+        "Federalno ministarstvo finansija",
+        "Federalno ministarstvo unutrašnjih poslova",
+        "Federalno ministarstvo pravde",
+        "Federalno ministarstvo rada i socijalne politike"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Samostalne federalne uprave su:",
+      "options": [
+        "Federalna uprava civilne zaštite i Federalna uprava za geodetske i imovinsko-pravne poslove",
+        "Federalna uprava civilne zaštite i Federalna uprava za zaštitu od zračenja",
+        "Federalna uprava za geodetske i imovinsko-pravne poslove i Carinska uprava",
+        "Federalno ministarstvo rada i socijalne politike"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Da bi Vlada Federacije BiH mogla odlučivati, sjednici treba da prisustvuju:",
+      "options": [
+        "Premijer i svi ministri",
+        "Premijer i najmanje osam ministara",
+        "Više od dvije trećine članova Vlade",
+        "Više od polovine članova Vlade"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Sekretar Vlade Federacije odgovara za svoj rad:",
+      "options": [
+        "Premijeru, zamjenicima premijera i ministrima",
+        "Vladi Federacije BiH, premijeru i zamjenicima premijera",
+        "Predsjedniku Federacije, Vladi Federacije i premijeru",
+        "Vladi Federacije BiH, premijeru i ministrima"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Za obavljanje određenih stručnih i drugih poslova za svoje potrebe, Vlada Federacije obrazuje:",
+      "options": [
+        "Stručnu službu Vlade, Ured za zakonodavstvo i druge samostalne stručne službe, biroe i sl.",
+        "Stručne službe, komisije, urede, biroe i sl.",
+        "Ured za zakonodavstvo, Ured za administraciju i druge stručne službe",
+        "Stručnu službu Vlade, Ured za informisanje i Ured za zakonodavstvo"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Koje od navedenih federalnih ministarstava nema sjedište u Mostaru:",
+      "options": [
+        "Federalno ministarstvo obrazovanja i nauke",
+        "Federalno ministarstvo trgovine",
+        "Federalno ministarstvo rada i socijalne politike",
+        "Federalno ministarstvo kulture i sporta"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Unutrašnja organizacija federalnih organa uprave utvrđuje se:",
+      "options": [
+        "Zakonom o Vladi Federacije",
+        "Zakonom o federalnim ministarstvima i drugim organima federalne uprave",
+        "Pravilnikom o unutrašnjoj organizaciji organa uprave",
+        "Zakonom o upravi u Federaciji BiH"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Prihodi koje ostvare organi federalne uprave svojom djelatnošću su:",
+      "options": [
+        "Sredstva budžeta Federacije BiH",
+        "Sredstva organa koji je ostvario prihod",
+        "Sredstva Vlade Federacije",
+        "Sredstva za zajedničke potrebe organa uprave"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Unutrašnja organizacija i funkcionisanje Vlade Federacije BiH utvrđuje se:",
+      "options": [
+        "Zakonom o Vladi Federacije",
+        "Poslovnikom o radu Vlade Federacije",
+        "Odlukama i drugim internim odlukama Vlade Federacije",
+        "Pravilnikom o unutrašnjoj organizaciji Vlade Federacije"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Kojim propisom je utvrđen odnos organa uprave prema zakonodavnoj i organima izvršne vlasti:",
+      "options": [
+        "Ustavom Federacije BiH",
+        "Zakonom o Vladi Federacije",
+        "Zakonom o upravi u Federaciji BiH",
+        "Pravilnikom o unutrašnjoj organizaciji Vlade Federacije"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Koji poslovi organa uprave se ne mogu povjeriti preduzećima, ustanovama i drugim pravnim licima:",
+      "options": [
+        "Poslovi inspekcijskog nadzora",
+        "Vršenje javnih ovlaštenja",
+        "Odlučivanje o pojedinačnim stvarima u vezi s pravima i obavezama građana, preduzeća i drugih pravnih lica",
+        "Određeni upravni i stručni poslovi iz nadležnosti organa uprave"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Koju od navedenih mjera ne može naložiti inspektor:",
+      "options": [
+        "Zabraniti preduzimanje radnji koje smatra da su u suprotnosti sa zakonom",
+        "Narediti da se utvrđeni nedostaci i nepravilnosti otklone u određenom roku",
+        "Izreći i naplatiti novčanu kaznu u skladu sa zakonom",
+        "Izreći disciplinsku mjeru u slučaju povrede službene dužnosti"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ko pokreće i vodi postupak inspekcijskog nadzora:",
+      "options": [
+        "Rukovodilac organa uprave",
+        "Inspektor, na prijedlog rukovodioca organa uprave",
+        "Inspektor po službenoj dužnosti",
+        "Inspektor po odobrenju Vlade Federacije BiH"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Poslovne upravne inspekcije vrši:",
+      "options": [
+        "Ministarstvo zdravstva",
+        "Ministarstvo pravde",
+        "Ministarstvo finansija",
+        "Zavod za javnu upravu"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Koji od navedenih poslova nije u nadležnosti upravne inspekcije:",
+      "options": [
+        "Nadzor nad kancelarijskim poslovanjem organa uprave",
+        "Nadzor nad zakonitošću akata kojim se rješava u upravnom postupku",
+        "Nadzor nad izvršenjem zakona koji se odnose na državne službenike i namještenike",
+        "Izdavanje isprava o određenim činjenicama"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Međusobni odnosi organa uprave u Federaciji BiH zasnivaju se na:",
+      "options": [
+        "Obavezama utvrđenim odlukama Vlade Federacije BiH",
+        "Međusobnom dogovoru",
+        "Razmjeni iskustava u radu",
+        "Ovlastima utvrđenim Ustavom, zakonima, statutima, saradnji, međusobnom informiranju i dogovaranju"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Radom samostalne federalne uprave i federalne ustanove rukovodi:",
+      "options": [
+        "Ministar",
+        "Upravnik",
+        "Direktor",
+        "Direktor u saradnji sa ministrom"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Sredstva za rad federalnih organa uprave i federalnih ustanova su:",
+      "options": [
+        "Sredstva za materijalne troškove organa uprave",
+        "Sredstva za plaće, naknade, kapitalne izdatke i sredstva opreme",
+        "Sredstva za plaće, sredstva za materijalne troškove, sredstva za posebne namjene i sredstva opreme",
+        "Sredstva za plaće i sredstva za materijalne troškove"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Provedbene propise o materijalno-finansijskom poslovanju federalnih organa donosi:",
+      "options": [
+        "Rukovodilac organa, na prijedlog Federalnog ministarstva finansija",
+        "Federalno ministarstvo finansija",
+        "Vlada Federacije BiH",
+        "Federalno ministarstvo finansija uz saglasnost Vlade Federacije"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Šta je federalna ustanova:",
+      "options": [
+        "Organ uprave osnovan zakonom i ima svojstvo pravne osobe",
+        "Nevladina organizacija",
+        "Privredna organizacija",
+        "Udruženje građana"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Federalni organi i ustanove ukidaju se:",
+      "options": [
+        "Amandmanom na Ustav Federacije BiH",
+        "Odlukom Parlamenta Federacije BiH",
+        "Uredbom Vlade Federacije BiH",
+        "Federalnim zakonom"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "U federalnom ministarstvu mogu se postaviti sljedeći rukovodeći službenici:",
+      "options": [
+        "Zamjenik ministra, inspektori i savjetnici ministra",
+        "Sekretar ministra, pomoćnici ministra, glavni inspektor i savjetnici ministra",
+        "Sekretar ministra, inspektori, šefovi odjeljenja i savjetnici ministra",
+        "Pomoćnici ministra, šefovi sektora i odjeljenja i drugi rukovodeći radnici"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Koji od principa nije osnovni princip rada federalne uprave:",
+      "options": [
+        "Ustavnost i zakonitost u radu",
+        "Transparentnost i javnost rada",
+        "Samostalnost u radu",
+        "Dobrovoljnost"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Prilikom predlaganja materijala za sjednice Vlade Federacije BiH, organi uprave postupaju:",
+      "options": [
+        "Na način utvrđen Programom rada Vlade Federacije BiH",
+        "Prema uputstvima rukovodioca organa uprave",
+        "U okviru svojih nadležnosti propisanih zakonom i na način i postupku utvrđen Poslovnikom o radu Vlade Federacije BiH",
+        "U okviru instrukcija koje donosi sekretar Vlade Federacije BiH"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Federalni inspektor može biti osoba koja, pored odgovarajuće visoke školske spreme i položenog stručnog ispita ima i radno iskustvo od najmanje:",
+      "options": [
+        "Pet godina nakon položenog stručnog ispita",
+        "Tri godine nakon položenog stručnog ispita",
+        "Tri godine ukupnog staža",
+        "Deset godina"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ombudsmeni ne mogu zahtijevati od organa uprave Federacije:",
+      "options": [
+        "Da im na njihov zahtjev organ uprave omogući prisustvo pri rješavanju upravnih stvari",
+        "Da organ uprave izmijeni ili ukine usvojene akte ili naložene mjere",
+        "Da im osigura pristup dokumentima u pribavljanju informacija",
+        "Da im omogući nesmetano ispitivanje rada službenika i djelatnost organa uprave"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Zakon o upravi u Federaciji BiH primjenjuje se na organe uprave:",
+      "options": [
+        "Federacije BiH i kantona",
+        "Federacije BiH",
+        "Federacije, kantona, grada i općina",
+        "Države BiH, Federacije i kantona"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Da li su organi uprave dužni razmotriti predstavke stranaka na nepravilan odnos službenika organa uprave prema njima:",
+      "options": [
+        "Da, ako su opravdane",
+        "Ne",
+        "Da, bez odlaganja",
+        "Ne, osim ako to naredi rukovodilac"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Koja materija se ne utvrđuje Pravilnikom o unutrašnjoj organizaciji organa uprave:",
+      "options": [
+        "Organizacione jedinice i njihova nadležnost",
+        "Plate i naknade službenika i namještenika",
+        "Način rukovođenja",
+        "Ukupan broj službenika i namještenika"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Zakonom o federalnim ministarstvima i drugim organima federalne uprave ustanovljeno je:",
+      "options": [
+        "Tri samostalne federalne ustanove",
+        "Osam samostalnih federalnih ustanova",
+        "Pet samostalnih federalnih ustanova",
+        "Dvije samostalne federalne ustanove"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Zakonom o federalnim ministarstvima i drugim organima federalne uprave ustanovljeno je:",
+      "options": [
+        "16 federalnih ministarstava",
+        "18 federalnih ministarstava",
+        "10 federalnih ministarstava",
+        "12 federalnih ministarstava"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Koliko zamjenika ima premijer Vlade Federacije BiH:",
+      "options": [
+        "Jednog zamjenika",
+        "Nema zamjenika",
+        "Dva zamjenika",
+        "Dva zamjenika i sekretara Vlade"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Kome institucije sa javnim ovlaštenjima podnose izvještaj o vršenju povjerenih poslova:",
+      "options": [
+        "Vladi Federacije BiH",
+        "Rukovodiocu institucije sa javnim ovlaštenjima",
+        "Parlamentu Federacije BiH",
+        "Nadležnom organu uprave koji vrši upravni nadzor nad radom institucije s javnim ovlaštenjima"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "O imenovanjima i razrješenjima te drugim pojedinačnim pitanjima iz nadležnosti Vlade Federacije BiH, Vlada odlučuje",
+      "options": [
+        "Zaključkom",
+        "Odlukom",
+        "Rješenjem",
+        "Uredbom"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Rukovodilac federalne ustanove ili federalne uprave u sastavu federalnog ministarstva za svoj rad odgovara:",
+      "options": [
+        "Vladi Federacije i federalnom ministru koji rukovodi ministarstvom u čijem je sastavu uprava",
+        "Parlamentu Federacije BiH",
+        "Federalnom ministru koji rukovodi ministarstvom u čijem je sastavu",
+        "Vladi Federacije BiH"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Federalni organi uprave, u okviru svoje nadležnosti, donose sljedeće opće akte:",
+      "options": [
+        "Uredbe, preporuke i instrukcije",
+        "Uputstva, instrukcije i naredbe",
+        "Zakone i podzakonske akte",
+        "Odluke"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Mogu li federalni organi uprave donositi propise za provođenje federalnih zakona:",
+      "options": [
+        "Ne mogu",
+        "Mogu",
+        "Mogu, ako imaju zakonom utvrđeno ovlaštenje",
+        "Mogu, po nalogu izvršnog organa vlasti"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Može li rukovodilac organa uprave ovlastiti službenika da donese pojedinačni akt:",
+      "options": [
+        "Ne može",
+        "Može, u hitnim slučajevima",
+        "Ne može, osim po preporuci izvršnog organa",
+        "Može, o čemu se donosi posebno rješenje"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Organ uprave propisuje bliža pravila i uputstva za rad:",
+      "options": [
+        "Rješenjem",
+        "Instrukcijama",
+        "Naredbom",
+        "Odlukom"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ako upravni inspektor utvrdi da službenik zbog svoje stručne nesposobnosti proizvodi nepravilnosti u radu, može predložiti rukovodiocu da:",
+      "options": [
+        "Otpusti službenika",
+        "Kazni službenika",
+        "Službenika rasporedi na druge poslove",
+        "Zatraži službenika da se dodatno stručno osposobi"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "U vršenju inspekcijskog nadzora upravni inspektor sačinjava:",
+      "options": [
+        "Odluku",
+        "Zapisnik",
+        "Primjedbe",
+        "Instrukcije"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Parlament Federacije BiH je:",
+      "options": [
+        "Zakonodavni organ",
+        "Organ sudske vlasti",
+        "Organ uprave",
+        "Kolegijalni izvršni organ"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Na koji način se poslovi iz nadležnosti organa uprave mogu prenijeti preduzećima, ustanovama i drugim pravnim licima:",
+      "options": [
+        "Ustavnim amandmanima",
+        "Zakonom",
+        "Podzakonskim aktima organa uprave",
+        "Uredbom Vlade Federacije BiH"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ured za zakonodavstvo je:",
+      "options": [
+        "Služba Vlade Federacije BiH",
+        "Samostalna uprava u sastavu Ministarstva pravde",
+        "Stalna komisija Vlade Federacije BiH",
+        "Stalno tijelo Parlamenta Federacije BiH"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Šta od navedenih poslova nije obaveza organa uprave prema zakonodavnoj vlasti:",
+      "options": [
+        "Na zahtjev zakonodavnog organa preduzeti mjere kojima se osigurava efikasno izvršavanje poslova iz nadležnosti organa uprave",
+        "Tražiti prethodnu saglasnost za preduzimanje mjera iz nadležnosti organa uprave",
+        "Podnositi izvještaj o svom radu",
+        "Pripremati zakone i druge propise, analitičke i informativne materijale"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Koji od navedenih poslova nije u samoupravnom djelokrugu općine:",
+      "options": [
+        "Vođenje brige o turističkim resursima",
+        "Osiguranje javnog reda i mira",
+        "Utvrđivanje i provođenje kulturne politike",
+        "Osiguranje lokalne potrebe stanovništva"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Pored ministarstava, organi federalne uprave osnivaju se u obliku:",
+      "options": [
+        "Agencije i direkcije",
+        "Zavodi i instituti",
+        "Direkcije, zavodi i uprave",
+        "Sekretarijati i uprave"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Rukovodilac organa uprave po prijemu pritužbe stranke dužan je dati pismeni odgovor o preduzetim mjerama u roku od:",
+      "options": [
+        "15 dana",
+        "8 dana",
+        "10 dana",
+        "30 dana"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Federalni organi uprave osnivaju se zakonom koji donosi:",
+      "options": [
+        "Dom naroda",
+        "Predstavnički dom",
+        "Vlada Federacije BiH",
+        "Parlament Federacije BiH"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Zapisnik o inspekcijskom nadzoru inspektor sastavlja po pravilima:",
+      "options": [
+        "Upravnog spora",
+        "Kancelarijskog poslovanja",
+        "Upravnog postupka",
+        "Pravilima posebne odluke"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Inspektor o preduzimanju upravnih mjera u vršenju inspekcijskog nadzora donosi:",
+      "options": [
+        "Rješenje",
+        "Zaključak",
+        "Odluku",
+        "Zapisnik"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Inspektor iskaznicom dokazuje:",
+      "options": [
+        "Svoje službeno svojstvo",
+        "Ovlaštenja predviđena zakonom",
+        "Ovlaštenja predviđena zakonom, službeno svojstvo i identitet",
+        "Identitet"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Koja od navedenih institucija nije institucija Federacije BiH:",
+      "options": [
+        "Zavod za geologiju",
+        "Ured za veterinarstvo",
+        "Zavod za zaštitu spomenika",
+        "Carinska uprava"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ovlaštenje za nadzor primjene propisa o kancelarijskom poslovanju ima:",
+      "options": [
+        "Ministarstvo",
+        "Ured za zakonodavstvo",
+        "Upravni inspektor",
+        "Upravne organizacije"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Neposredno odlučivanje građana u lokalnoj samoupravi ostvaruje se:",
+      "options": [
+        "Na zborovima građana ili neposrednim izjašnjavanjem građana (referendum)",
+        "Preko načelnika općine",
+        "U skupštini općine",
+        "Putem općinske uprave"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Kojim aktom se bliže uređuje pitanje nadzora i zaštite lokalne samouprave:",
+      "options": [
+        "Federalnim zakonom",
+        "Statutom općine",
+        "Statutom grada i općine",
+        "Kantonalnim zakonom"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Da li općine imaju pravo da se udružuju u saveze i druge oblike udruživanja:",
+      "options": [
+        "Ne",
+        "Da, ako je kantonalnim zakonom to predviđeno",
+        "Da",
+        "Da, isključivo na području Federacije"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Da li su organi uprave jednog nivoa vlasti dužni sarađivati sa organima uprave drugog nivoa vlasti:",
+      "options": [
+        "Nisu",
+        "Da, u svim pitanjima od zajedničkog interesa",
+        "Da, na zahtjev organa uprave višeg nivoa vlasti",
+        "Samo u preduzimanju hitnih mjera"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ko postavlja i smjenjuje rukovodeće službenike u organima uprave:",
+      "options": [
+        "Izvršni organ",
+        "Rukovodilac organa uprave, u dogovoru sa svojim zamjenikom",
+        "Rukovodilac organa uprave, uz prethodnu saglasnost premijera",
+        "Rukovodilac organa uprave"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Poslove uprave i pomoćno-tehničke poslove u organima uprave obavljaju:",
+      "options": [
+        "Službenici i namještenici",
+        "Radnici i službenici",
+        "Zaposlenici i namještenici",
+        "Službenici i zaposlenici"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Da li inspektor ima pravo i obavezu da podnese krivičnu prijavu, ako u vršenju svoje dužnosti utvrdi da je učinjeno krivično djelo:",
+      "options": [
+        "Ima, uz saglasnost općinskog tužioca",
+        "Nema",
+        "Ima pravo, ali ne i obavezu",
+        "Ima pravo i obavezu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Sadržaj i način vođenja evidencije o izvršenim inspekcijskim pregledima propisuje:",
+      "options": [
+        "Vlada Federacije BiH",
+        "Glavni inspektor",
+        "Federalni ministar pravde",
+        "Parlament Federacije BiH"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Pravo na lokalnu samoupravu obuhvaća pravo građanina da:",
+      "options": [
+        "Biraju službenike i namještenike u organima lokalne vlasti",
+        "Preko neposredno izabranih organa učestvuju u vođenju javnih poslova",
+        "Učestvuju u izradi zakona i podzakonskih akata općina",
+        "Direktno učestvuju u izvršnim organima lokalnih vlasti"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Općina je:",
+      "options": [
+        "Fizičko lice",
+        "Javno lice",
+        "Udruženje građana",
+        "Pravno lice"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Područje općine, njen naziv i sjedište uređuju se:",
+      "options": [
+        "Posebnim zakonom",
+        "Uredbom kantonalne vlade",
+        "Odlukom Vlade Federacije",
+        "Dogovorom općina na području kantona"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Prema Zakonu o upravi u FBiH, organi uprave obavljaju poslove iz svoje nadležnosti:",
+      "options": [
+        "Samostalno, u skladu sa dogovorom postignutim sa drugim organima",
+        "Po prethodno pribavljenoj saglasnosti Parlamenta Federacije BiH",
+        "Samostalno, u skladu sa Ustavom, zakonom i drugim propisima",
+        "Samostalno, u skladu sa preporukama Vlade Federacije BiH"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Rad organa uprave je:",
+      "options": [
+        "Službena tajna",
+        "Javan, osim u slučajevima utvrđenim Ustavom",
+        "Javan",
+        "Javan, ukoliko za određene izuzetne situacije nije drukčije određeno"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Službeno pismo u organima uprave je:",
+      "options": [
+        "Latinica",
+        "Latinica i ćirilica",
+        "Ćirilica",
+        "Nije utvrđeno službeno pismo"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Izvršni organ Federacije Bosne i Hercegovine je:",
+      "options": [
+        "Premijer Federacije BiH",
+        "Vlada Federacije BiH",
+        "Parlament Federacije BiH",
+        "Predsjednik Federacije BiH"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Sjedište Vlade Federacije BiH je u:",
+      "options": [
+        "Sarajevu",
+        "Mostaru",
+        "Sarajevu, s tim da premijer i zamjenici imaju zajednički ured u Mostaru",
+        "Sarajevu, s tim da premijer ima ured i u Mostaru"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Ko upravlja imovinom u vlasništvu Federacije:",
+      "options": [
+        "Parlament Federacije BiH",
+        "Dom naroda Parlamenta Federacije BiH",
+        "Predsjednik i potpredsjednik Federacije BiH",
+        "Vlada Federacije, ako zakonom nije drugačije određeno"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Najvažnija pitanja iz nadležnosti Vlade Federacije BiH uređuju se:",
+      "options": [
+        "Uredbom",
+        "Zakonom",
+        "Naredbom",
+        "Odlukom"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Uredbe i odluke Vlade Federacije BiH objavljuju se:",
+      "options": [
+        "U službenim novinama bIh i Federacije",
+        "Ako to odredi Vlada Federacije BiH zaključkom",
+        "U \"Službenim novinama Federacije BiH\"",
+        "u \"Službenom glasniku BiH\""
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Rad stručnih službi Vlade Federacije usklađuje:",
+      "options": [
+        "Premijer Vlade",
+        "Sekretar Vlade",
+        "Ured za zakonodavstvo",
+        "Premijer Vlade i zamjenici premijera"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "U sastavu Federalnog ministarstva finansija su:",
+      "options": [
+        "Poreska uprava, Carinska uprava i Finansijska policija",
+        "Poreska uprava i Carinska uprava",
+        "Finansijska policija i Carinska uprava",
+        "Poreska uprava, Carinska uprava i Uprava prihoda"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Arhiv Federacije je:",
+      "options": [
+        "Samostalna federalna ustanova",
+        "Federalna uprava u sastavu Federalnog ministarstva kulture i sporta",
+        "Federalno ministarstvo",
+        "Samostalna federalna uprava"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Rukovođenje federalnim organima uprave utvrđeno je:",
+      "options": [
+        "Zakonom o federalnim ministarstvima i drugim organima federalne uprave",
+        "Zakonom o upravi Federacije BiH",
+        "Zakonom o Vladi Federacije BiH",
+        "Ustavom Federacije BiH"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "U poslove upravnog nadzora koji obavljaju organi uprave ne spada:",
+      "options": [
+        "Nadzor nad zakonitošću akata kojima se rješava u upravnim stvarima",
+        "Nadzor nad zakonitošću rada institucija sa javnim ovlaštenjima",
+        "Inspekcijski nadzor",
+        "Nadzor nad izradom zakona"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Za koje isprave organi uprave ne smiju tražiti da ih pribave stranke u upravnom postupku:",
+      "options": [
+        "Javne isprave o činjenicama koje imaju sudski organi",
+        "Sve javne isprave",
+        "Javne isprave o činjenicama za koje organi uprave vode službene evidencije",
+        "Javne isprave o činjenicama koje nisu u vezi sa upravnim postupkom"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Koji od navedenih poslova nije u nadležnosti rukovodioca organa uprave:",
+      "options": [
+        "Utvrđuje način finansiranja organa uprave",
+        "Predstavlja organ uprave",
+        "Odlučuje o pravima i obavezama službenika i namještenika",
+        "Organizuje i osigurava zakonito obavljanje poslova"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Koga rukovodilac organa uprave obavezno izvještava o stanju u oblasti za koje je osnovan organ uprave kojim rukovodi:",
+      "options": [
+        "Parlament Federacije BiH",
+        "Organ zakonodavne vlasti i organ izvršne vlasti",
+        "Premijera Vlade Federacije BiH",
+        "Predsjednika i potpredsjednika Federacije"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Koji od navedenih poslova ne može obavljati rukovodilac i rukovodeći službenik organa uprave:",
+      "options": [
+        "Poslove u drugom organu uprave, sa polovinom radnog vremena",
+        "Posao sudije porotnika",
+        "Nastavni rad u obrazovnim ustanovama",
+        "Javni rad u publicistici"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Da li je u postupku smjenjivanja rukovodioca organ nadležan za smjenjivanje obavezan udaljiti rikovodioca od obavljanja dužnosti:",
+      "options": [
+        "Obavezno je udaljavanje sa dužnosti",
+        "Obavezno je, osim ako Vlada Federacije drugačije ne odluči",
+        "Ne smije se udaljiti sa dužnosti do okončanja postupka",
+        "Može se udaljiti, dok traje postupak smjenjivanja"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Da li podnošenje ostavke isključuje postupak smjenjivanja rukovodioca:",
+      "options": [
+        "Da",
+        "Ne, osim ukoliko izvršni organ drukčije ne odluči",
+        "Ne",
+        "Samo u izuzetnim slučajevima"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "O statusnim pitanjima službenika i namještenika odlučuje:",
+      "options": [
+        "Rukovodilac organa uprave",
+        "Agencija za državnu službu Federacije",
+        "Službenici sa posebnim ovlaštenjima",
+        "Komisija koju formira rukovodilac organa uprave"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ko propisuje oblik i sadržaj iskaznice inspektora:",
+      "options": [
+        "Rukovodilac organa uprave",
+        "Federalni ministar pravde",
+        "Vlada Federacije BiH",
+        "Sud"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Da li je policija dužna da pruži pomoć inspektoru:",
+      "options": [
+        "Da, ako inspektor zatraži pomoć jer mu je onemogućeno obavljanje dužnosti",
+        "Da, policija uvijek prisustvuje inspekcijskom pregledu",
+        "Nije",
+        "Da, ako to odobri federalni ministar unutrašnjih poslova"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Postupak inspekcijskog nadzora pokreće:",
+      "options": [
+        "Rukovodilac organa uprave",
+        "Inspektor, po nalogu izvršnog organa vlasti",
+        "Inspektor, po nalogu policije",
+        "Inspektor, po službenoj dužnosti"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Mogu li federalni organi uprave izdavati kantonalnim organima uprave instrukcije za izvršavanje federalnih propisa:",
+      "options": [
+        "Ne mogu",
+        "Mogu u svim slučajevima",
+        "Mogu, ako su za to ovlašteni federalnim zakonom",
+        "Mogu, u slučajevima utvrđenim Ustavom"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Koji od navedenih propisa ne može donijeti rukovodilac organa uprave:",
+      "options": [
+        "Rješenje",
+        "Preporuka",
+        "Uredba",
+        "Pravilnik"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Organe uprave osniva:",
+      "options": [
+        "Vlada Federacije, odnsono vlade kantona, a gradske, odnosno općinske službe za upravu osniva gradonačelnik, odnosno općinski načelnik",
+        "Isključivo Parlament Federacije BiH, zakonom",
+        "Organ zakonodavne vlasti na prijedlog vlade, dok gradske, odnosno općinske službe za upravu osniva gradsko, odnosno općinsko vijeće na prijedlog gradonačelnika, odnosno općinskog načelnika.",
+        "Zakonodavni ili izvršni organ Federacije BiH, kantona, grada ili općine"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Rad organa uprave :",
+      "options": [
+        "je javan, ukoliko za određene izuzetne situacije zakonom nije drugačije određeno",
+        "načelno nije javan",
+        "uvijek je javan",
+        "o javnosti rada odlučuje rukovodilac organa uprave"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Nacionalna zastupljenost zaposlenih u organima uprave :",
+      "options": [
+        "odgovara nacionalnoj strukturi stanovništva Bosne i Hercegovine",
+        "odgovara nacionalnoj strukturi stanovništva Federacije Bosne i Hercegovine",
+        "odgovara nacionalnoj strukturi stanovništva Federacije, kantona, odnosno grada i općine",
+        "u organima uprave ne vodi se računa o nacionalnoj zastupljenosti"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Federacija, kanton, grad, odnosno općina, odgovaraju za štetu koju organ uprave nanese građaninu, pravnom licu ili drugoj osobi :",
+      "options": [
+        "uvijek",
+        "samo za štetu koju organ uprave nanese svojim nezakonitim radom",
+        "samo za štetu koju organ uprave nanese svojim nepravilnim radom",
+        "samo za štetu koju organ uprave nanese svojim nezakonitim ili nepravilnim radom"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Federacija, kanton, grad, odnosno općina, imaju pravo da od službenika zahtjevaju naknadu štete koju je isplatila na ime naknade štete, ako je šteta nastala namjerno ili krajnjom nepažnjom službenika :",
+      "options": [
+        "u roku od šest mjeseci od dana kada je naknadila štetu",
+        "u roku od jedne godine od dana kada je naknadila štetu",
+        "u roku od tri godine od dana kada je naknadila štetu",
+        "u roku od pet godina od dana kada je naknadila štetu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Organi uprave ne vrše jedan od sljedećih poslova :",
+      "options": [
+        "provođenje utvrđene politike i izvršavanje zakona i drugih propisa",
+        "proglašenje zakona koje je donio zakonodavni organ",
+        "obavljanje upravnog nadzora nad provedbom zakona i drugih propisa",
+        "donošenje propisa za provođenje zakona i drugih propisa"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "U obavljanju upravnog nadzora, organi uprave ne vrše jedan od sljedećih poslova :",
+      "options": [
+        "nadzor nad zakonitošću akata kojima se rješava u upravnim stvarima",
+        "nadzor nad zakonitošću rada institucija koje imaju javna ovlaštenja",
+        "nadzor nad zakonitošću akata kojima se rješava u sudskim stvarima",
+        "inspekcijski nadzor"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Rukovodioci organa uprave donose propise u cilju omogućavanja izvršavanja zakona i drugih propisa iz svoje nadležnosti :",
+      "options": [
+        "organi uprave ne mogu donositi propise",
+        "samo kada ih na to ovlasti Vlada Federacije, kantona, gradsko odnosno općinsko vijeće",
+        "samo kada ih na to ovlasti premijer Federacije, kantona, gradonačelnik, odnosno općinski načelnik",
+        "samo kada su za to ovlašteni zakonom ili drugim propisom"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Javna ovlaštenja (za vršenje određenih upravnih i stručnih poslova iz nadležnosti organa uprave) mogu se povjeravati :",
+      "options": [
+        "preduzećima (društvima), ustanovama i drugim pravnim licima",
+        "organima uprave i službama za upravu",
+        "samo javnim ustanovima",
+        "samo javnim preduzećima"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Institucijama koje imaju javna ovlaštenja ne mogu se povjeravati :",
+      "options": [
+        "poslovi upravnog rješavanja",
+        "poslovi inspekcijskog nadzora",
+        "ekspertize, tehnička ispitivanja itd.",
+        "odlučivanje o pravima i dužnostima građana, preduzeća i drugih pravnih lica"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Javna ovlaštenja (za vršenje određenih upravnih i stručnih poslova iz nadležnosti organa uprave) povjeravaju se isključivo :",
+      "options": [
+        "općim aktom nadležnog organa uprave iz određene upravne oblasti",
+        "pojedinačnim aktom nadležnog organa uprave iz određene upravne oblasti",
+        "zakonom, odnosno propisom gradskog i općinskog vijeća",
+        "odlukom Vlade Federacije, odnosno vlade kantona"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Upravni nadzor nad radom institucije koja ima javna ovlaštenja vrše :",
+      "options": [
+        "Parlament Federacije, kantona, gradsko, odnosno općinsko vijeće",
+        "Vlada Federacije, kantona, gradsko, odnosno općinsko vijeće",
+        "Upravna inspekcija",
+        "organ uprave iz upravnog područja i nivoa vlasti kojem pripadaju poslovi uprave koji se obavljaju na osnovu javnih ovlaštenja"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Po žalbama protiv donesenih upravnih akata institucija koje imaju javna ovlaštenja, rješava :",
+      "options": [
+        "Nadležni organ uprave, koji sprovodi upravni nadzor nad radom institucije koje ima javna ovlaštenja",
+        "Organ određen opštim aktom institucije koja ima javna ovlaštenja",
+        "Vlada Federacije, vlada kantona, gradsko, odnosno općinsko vijeće u čijoj je nadležnosti institucija koja ima javna ovlaštenja",
+        "Žalbeno vijeće pri Vladi Federacije, vladi kantona, gradskom, odnosno općinskom vijeću u čijoj je nadležnosti institucija koja ima javna ovlaštenja"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Organi uprave odgovorni su organu zakonodavne vlasti :",
+      "options": [
+        "za sve aspekte poslova iz nadležnosti organa uprave",
+        "za zakonito, potpuno i efikasno obavljanje poslova iz svoje nadležnosti",
+        "samo za zakonitost u obavljanju poslova iz svoje nadležnosti",
+        "organi uprave nisu odgovorni organu zakonodavne, nego organu izvršne vlasti"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Organi uprave podnose izvještaj o svom radu organu zakonodavne vlasti :",
+      "options": [
+        "svaka tri mjeseca",
+        "jednom godišnje",
+        "na zahtjev organa zakonodavne vlasti",
+        "organi uprave ne podnose izvještaj organu zakonodavne vlasti"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Organ izvršne vlasti ne može naložiti organu uprave :",
+      "options": [
+        "donošenje propisa za koje je ovlašten organ uprave",
+        "poduzimanje mjera na koje je ovlašten organ uprave",
+        "ispitivanje stanja u oblastima iz nadležnosti organa uprave",
+        "kako da rješi pojedinačnu upravnu stvar iz nadležnosti organa uprave"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Organi uprave ne mogu organu izvršne vlasti :",
+      "options": [
+        "prenositi upravne predmete iz svoje nadležnosti",
+        "dostavljati izvještaje o svom radu",
+        "predlagati razmatranje određenih pitanja iz svoje nadležnosti",
+        "dostavljati informacije, objašnjenja, podatke, spise i drugu dokumentaciju potrebnu za rad organa izvršne vlasti"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Odnos organa uprave prema ombdusmenima zasniva se na :",
+      "options": [
+        "subordinaciji",
+        "obvezama organa uprave utvrđenim Ustavom i zakonom, odnosno propisom gradskog ili općinskog vijeća, kao i na međusobnoj saradnji, informisanju i dogovaranju",
+        "odgovornosti organa uprave za zakonito, potpuno i efikasno obavljanje poslova iz svoje nadležnosti",
+        "praćenju stanja u oblasti za koju je osnovan organ uprave, a naročito provođenju politike i izvršavanju zakona i drugih propisa"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Ako organ uprave ne postupi po zahtjevu ombdusmena u okviru njihove nadležnosti, ombdusmeni mogu :",
+      "options": [
+        "smijeniti rukovodioca organa uprave",
+        "pokrenuti disciplinski postupak protiv rukovodioca organa uprave",
+        "od rukovodioca organa izvršne vlasti zatražiti osiguranje ispunjenja njihovih zahtjeva od organa uprave",
+        "donijeti pravno obvezujući akt za postupanje organa uprave"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Rukovodilac organa uprave obavezan je dati pismeni odgovor stranci o poduzetim mjerama u vezi sa njegovom predstavkom, odnosno prijedlogom u roku od :",
+      "options": [
+        "osam dana od dana prijema predstavke, odnosno prijedloga",
+        "10 dana od dana prijema predstavke, odnosno prijedloga",
+        "15 dana od dana prijema predstavke, odnosno prijedloga",
+        "20 dana od dana prijema predstavke, odnosno prijedloga"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Organi uprave prilikom rješavanja stvari u upravnom postupku :",
+      "options": [
+        "zahtjevaju od stranaka da pribavljaju uvjerenja i druge javne isprave o činjenicama o kojima organi uprave vode službenu evidenciju",
+        "rješavaju upravne stvari bez pribavljanja uvjerenja i drugih javnih isprava o činjenicama o kojima organi uprave vode službenu evidenciju",
+        "organi uprave uvjerenja i druge javne isprave o činjenicama o kojima organi uprave vode službenu evidenciju obavezno pribavljaju po službenoj dužnosti",
+        "organi uprave uvjerenja i druge javne isprave o činjenicama o kojima organi uprave vode službenu evidenciju mogu pribavljati po službenoj dužnosti ako ih stranke nisu pribavile"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Kada su u upravnom postupku stranka odazove pozivu, a bez njene krivice službena radnja radi koje je pozvana nije obavljena :",
+      "options": [
+        "nema pravo zahtijevati naknadu nastalih troškova",
+        "ima pravo zahtijevati naknadu nastalih troškova, a o naknadi se odlučuje zaključkom protiv kojeg stranka može uložiti žalbu",
+        "ima pravo zahtijevati naknadu nastalih troškova, a o naknadi se odlučuje zaključkom protiv kojeg stranka ne može izjavljivati pravne lijekove",
+        "ima pravo zahtijevati naknadu nastalih troškova, a o naknadi se odlučuje zaključkom protiv kojeg stranka može pokrenuti upravni spor kod nadležnog suda"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Federalni i kantonalni organi uprave osnivaju se :",
+      "options": [
+        "zakonom",
+        "posebnom odlukom Parlamenta Federacije za federalne organe uprave, odnosno zakonodavnog tijela kantona za kantonalne organe uprave",
+        "uredbom Vlade Federacije za federalne organe uprave, a vlade kantona za kantonalne organe uprave",
+        "odlukom Vlade Federacije za federalne organe uprave, a vlade kantona za kantonalne organe uprave"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Za obavljanje određenih stručnih poslova i drugih poslova iz okvira nedležnosti Federacije i kantona, koji pretežno zahtijevaju primjenu stručnih i naučnih metoda rada i sa njima vezanih upravnih poslova, osnivaju se :",
+      "options": [
+        "federalne, odnosno kantonalne upravne organizacije",
+        "federalne, odnosno kantonalne upravne ustanove",
+        "federalne, odnosno kantonalne službe za upravu",
+        "federalna, odnosno kantonalna ministarstva"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Za vršenje upravnih i stručnih poslova i poslova lokalne samouprave iz okvira nadležnosti grada i općine osnivaju se :",
+      "options": [
+        "organi uprave grada, odnosno općine",
+        "upravne ustanove",
+        "službe za upravu",
+        "općinski sekretarijati"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Gradske, odnosno općinske službe za upravu osnivaju se :",
+      "options": [
+        "odlukom gradonačelnika, odnosno općinskog načelnika",
+        "odlukom gradskog, odnosno općinskog vijeća",
+        "gradske, odnosno općinske službe za upravu osniva kanton, zakonom",
+        "propisom gradskog, odnosno općinskog vijeća, na prijedlog gradonačelnika, odnosno općinskog načelnika"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Pravilnik o unutrašnjoj organizaciji organa uprave donosi :",
+      "options": [
+        "rukovodilac organa uprave u saglasnosti sa organom izvršne vlasti, a u gradu i općini gradonačelnik, odnosno općinski načelnik, uz saglasnost gradskog, odnosno općinskog vijeća",
+        "rukovodilac organa uprave, a u gradu i općini gradonačelnik, odnosno općinski načelnik",
+        "organ izvršen vlasti ili drugi organ određen zakonom, a u gradu i općini gradsko, odnosno općinsko vijeće",
+        "rukovodilac federalnog, odnosno kantonalnog organa uprave nadležnog za upravu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Pravilnikom o unutrašnjoj organizaciji organa uprave ne uređuje se :",
+      "options": [
+        "način rukovođenja",
+        "radni odnosi u organima uprave",
+        "ovlaštenja i odgovornosti službenika u obavljanju poslova",
+        "broj pripravnika koji se primaju u radni odnos i uvjeti za njihov prijem"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Općinskim službama za upravu po zakonu rukovodi :",
+      "options": [
+        "rukovodilac službe",
+        "općinski sekretar",
+        "općinski načelnik",
+        "pomoćnik općinskog načelnika"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Gradskim službama za upravu po zakonu rukovodi :",
+      "options": [
+        "rukovodilac službe",
+        "gradski sekretar",
+        "pomoćnik gradonačelnika",
+        "gradonačelnik"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Rukovodeće državne službenike u organima uprave imenuje :",
+      "options": [
+        "rukovodilac organa uprave, ako zakonom nije drugačije određeno",
+        "organ izvršne vlasti, ako zakonom nije drugačije određeno",
+        "Agencija za državnu službu",
+        "organ određen posebnim zakonom"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Prihodi koje u svom radu ostvari organ uprave, po pravilu :",
+      "options": [
+        "daju se na raspolaganje istom organu uprave",
+        "unose se u budžet Federacije, kantona, grada, odnosno općine",
+        "unose se isključivo u budžet Federacije",
+        "unose se u budžet u skladu sa odlukom organa izvršne vlasti"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Kad to potrebe službe zahtjevaju, rukovodilac organa uprave može izuzetno ovlastiti i drugog službenika organa uprave (koji nije inspektor) da izvrši samo određene poslove inspekcijskog nadzora, odnsono da inspektoru pomogne u obavljanju tog nadzora :",
+      "options": [
+        "usmenom naredbom",
+        "rješenjem",
+        "naredbom",
+        "lice koje nije inspektor ne može se ovlastiti da obavlja ijednu radnju inspekcijskog nadzora"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Postupak inspekcijskog nadzora pokreće :",
+      "options": [
+        "stranka",
+        "zainteresovano lice",
+        "inspektor po službenoj dužnosti",
+        "rukovodilac organa uprave"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Kada u obavljanju inspekcijskog pregleda utvrdi da je povrijeđen zakon ili drugi propis čije izvršenje nadzire, inspektor ne može :",
+      "options": [
+        "narediti da se utvrđeni nedostaci i nepravilnosti otklone u određenom roku",
+        "zabraniti preduzimanje radnji koje smatra da su u suprotnosti sa zakonom ili drugim propisom nad čijim sprovođenjem vrši nadzor",
+        "izreći i naplatiti novčanu kaznu na licu mjesta, ako je za to zakonom ovlašten",
+        "pokrenuti disciplinski postupak protiv odgovornog lica u preduzeću ili pravnom licu"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "O preduzimanju upravnih mjera u skladu sa zakonom inspektor donosi :",
+      "options": [
+        "rješenje",
+        "zapisnik",
+        "odluku",
+        "naredbu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Na rješenje o preduzimanju upravnih mjera koje je po zakonu donio inspektro, može se izjaviti žalba nadležnom organu u roku od :",
+      "options": [
+        "sedam dana",
+        "osam dana",
+        "15 dana",
+        "20 dana"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Sjedište federalnih organa uprave je :",
+      "options": [
+        "u Sarajevu",
+        "u Sarajevu, Travniku i Mostaru",
+        "u Sarajevu i Mostaru",
+        "uvijek se određuje posebnim zakonom kojim se osniva federalni organ uprave"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Propis ili opći akt koji je donio rukovodilac federalnog organa uprave i federalne ustanove, za koji se utvrdi da nije u skladu sa Ustavom Federacije i federalnim zakonom, odnosno propisom Vlade Federacije, stavit će van snage odlukom :",
+      "options": [
+        "Parlament Federacije",
+        "Ustavni sud Federacije",
+        "predsjednik Federacije",
+        "Vlada Federacije"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Federalni organi uprave osnivaju se i njihove nadležnosti utvrđuju :",
+      "options": [
+        "federalnim zakonom",
+        "odlukom Vlade Federacije",
+        "uredbom Vlade Federacije",
+        "posebno odlukom Parlamenta Federacije"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Federalni organi uprave su :",
+      "options": [
+        "federalna ministarstva",
+        "federalna ministarstva i federalne uprave",
+        "federalna ministarstva i federalne upravne ustanove",
+        "federalna ministarstva i fedralne upravne organizacije"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Za obavljanje upravnih i stručnih poslova iz nadležnosti Fedracije u oblastima u kojima federalni organi uprave u cjelčini ili u većem obimu neposredno provode politiku ili izvršavaju federalne zakone i druge federalne propise, osniva se :",
+      "options": [
+        "federalna uprava",
+        "federalni zavod",
+        "federalno ministarstvo",
+        "federalna direkcija"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Federalne ustanove su :",
+      "options": [
+        "federalni zavodi, federalne direkcije i federalne agencije",
+        "federalna ministarstva i federalne uprave",
+        "federalne javne ustanove i upravne ustanove",
+        "federalna javna preduzeća i federalne javne korporacije"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Federalne ustanove mogu se osnovati :",
+      "options": [
+        "isključivo kao federalne ustanove u sastavu federalnog ministarstva",
+        "isključivo kao samostalne federalne ustanove",
+        "kao samostalne federalne ustanove i kao federalne ustanove u sastavu federalnog ministarstva",
+        "kao samostalne federalne ustanove, kao federalne ustanove u sastavu federalnog ministarstva i kao federalne ustanove u sastavu Vlade Federacije"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Za obavljanje određenih stručnih i drugih poslova koji pretežno zahtjevaju primjenu stručnih i naučnih metoda rada i sa njima povezanih upravnih poslova čija priroda i način izvršavanja zahtijevaju posebno organiziranje i samostalnost u radu, osniva se :",
+      "options": [
+        "federalno ministarstvo",
+        "federalna uprava",
+        "federalni zavod",
+        "federalna direkcija"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Za obavljanje određenih stručnih poslova  pretežno privrednog karaktera i sa njima povezanih upravnih poslova  čija priroda i način izvršavanja zahtijevaju posebno organiziranje i samostalnost u radu, može se osnovati :",
+      "options": [
+        "federalno ministarstvo",
+        "federalna uprava",
+        "federalni zavod",
+        "federalna direkcija"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Pravilnik o unutrašnjoj organizaciji federalnog organa uprave, odnosno federalne ustanove donosi :",
+      "options": [
+        "rukovodilac federalnog organa uprave, odnosno federalne ustanove uz saglasnost Vlade Federacije",
+        "rukovodilac federalnog organa uprave, odnosno federalne ustanove",
+        "Vlada Federacije",
+        "federalni ministar pravde"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "U rukovodeće državne službenike u federalnim organima uprave i federalnim ustanovama ne spada :",
+      "options": [
+        "sekretar ministarstva",
+        "pomoćnik direktora",
+        "šef odsjeka",
+        "savjetnik direktora"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Rukovodeći državni službenici u federalnim organima uprave i federalnim ustanovama za svoj rad odgovaraju :",
+      "options": [
+        "predsjedniku Federacije",
+        "Vladi Federacije",
+        "federalnom ministru, odnosno direktoru federalne uprave ili federalne ustanove",
+        "zamjeniku ministra, odnosno direktora"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Provedbeni propisi i opći akti federalnih organa uprave i federalnih ustanova su:",
+      "options": [
+        "Pravilnici, uputstva i instrukcije",
+        "Pravilnici, uputstva i naredbe",
+        "Uputstva, instrukcije i naredbe",
+        "Pravilnici, uputstva, instrukcije i naredbe"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Ne spadaju u sredstva za rad federalnih organa uprave i federalnih ustanova:",
+      "options": [
+        "Sredstva za javne nabavke",
+        "Sredstva za materijalne troškove",
+        "Sredstva za posebne namjene",
+        "Sredstva opreme"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Sredstva za materijalne troškove ne služe za:",
+      "options": [
+        "Finansiranje neprivrednih investicija",
+        "Nabavku potrošnog materijala, sitnog inventara i ogreva",
+        "Isplatu troškova za poštansko-telefonsko-telegrafske usluge",
+        "Nabavku stručnih publikacija, literature i štampanje službenih materijala"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Naknada za pokriće izdataka za ishranu službenika i namještenika u toku rada, naknade za prevoz službenika i namještenika na posao i sa posla i naknade za korištenje godišnjih odmora spadaju u:e",
+      "options": [
+        "Sredstva za plaće",
+        "Sredstva za materijalne troškove",
+        "Sredstva za posebne namjene",
+        "Sredstva opreme"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Vlada Federacije Bosne i Hercegovine je:",
+      "options": [
+        "Zakonodavni organ Federacije BiH",
+        "Kolegijalni šef države - Federacije BiH",
+        "Izvršni organ Federacije BiH",
+        "Federalni organ uprave"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Premijer - predsjednik Vlade Federacije i njegovi zamjenici, ministri i Vlada Federacije u cjelini za svoj rad odgovorni su:",
+      "options": [
+        "Isključivo Parlamentu Federacije",
+        "Isključivo predsjedniku i potpredsjednicima Federacije",
+        "Predstavničkom domu Parlamenta Federacije, koji je potvrdio njihova imenovanja",
+        "Parlamentu Federacije, predsjedniku i potpredsjednicima Federacije, a ministri su odgovorni i premijeru - predsjedniku Vlade Federacije, u skladu sa Ustavom Federacije"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Sjedište Vlade Federacije je:",
+      "options": [
+        "U Sarajevu, s tim što premijer - predsjednik Vlade Federacije i zamjenici premijera - predsjednik Vlade Federacije imaju jedan zajednički područni ured u Mostaru",
+        "U Sarajevu, s tim što premijer Vlade i zamjenik premijera imaju jedan zajednički područni ured u Mostaru",
+        "U Mostaru",
+        "U Sarajevu"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Vladu Federacije čine:",
+      "options": [
+        "Premijer, zamjenik premijera, jedanaest ministara koji rukovode ministarstvima i četiri ministra bez portfelja, pri čemu je zamjenik premijera ministarodbrane ili vanjskih poslova",
+        "Premijer, koji ima dva zamj. iz razl. konst. naroda koji se biraju iz reda ministara; 8 minist. je iz reda bošnj., 5 iz reda hrv. i 3 iz reda srp. naroda, dok jednog min. iz reda ostalih može imenov. prem. iz kvote najbrojn. konst. naroda",
+        "Premijer, zamjenik premijera, 12 ministara koji rukovode ministarstvima i dva ministra bez portfelja, pri čemu je zamjenik premijera ujedno ministar resornog ministarstva",
+        "Premijer, koji ima dva zamj. iz razl. konst. naroda koji se biraju iz reda ministara; najmanje 15% čl. Vlade Fed. mora biti iz jednog konstit. naroda, a najmanje 35% čl.Vlade Fed. mora biti iz dva konstit. naroda, te najmanje jedan čl. iz reda ostalih"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Odluke Vlade Federacije koje se tiču vitalnih nacionalnih interesa donose se:",
+      "options": [
+        "Isključivo konsenzusom",
+        "Konsenzusom, ako se na zaštitu vitalnog nacionalnog interesa pozove jedna trećina ministara",
+        "Konsenzusom, ako se na zaštitu vitalnog nacionalnog interesa pozove jedna polovina ministara",
+        "Zakonom nije propisan poseban postupak donošenja odluka u ovakvim slučajevima"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Poslovnik o radu Vlade Federacije donosi:",
+      "options": [
+        "Sama Vlada Federacije",
+        "Vlada Federacije uz odobrenje predsjednika Federacije",
+        "Predsjednik Federacije uz saglasnost oba potpredsjednika",
+        "Parlament Federacije"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "U vršenju svojih nadležnosti Vlada Federacije donosi:",
+      "options": [
+        "Uredbe, zaključke i rješenja",
+        "Uredbe sa zakonskom snagom (u skladu sa Ustavom Federacije), uredbe, odluke, rješenja i zaključke",
+        "Odluke, zaključke i rješenja",
+        "Uputstva, odluke, zaključke i rješenja"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Bliže uređivanje odnosa za sprovođenje zakona, Vlade Federacije vrši:",
+      "options": [
+        "Odlukom",
+        "Zaključkom",
+        "Uredbom",
+        "Rješenjem"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Potvrđivanje akata drugih organa Vlade Federacije vrši:",
+      "options": [
+        "Rješenjem",
+        "Zaključkom",
+        "Uredbom",
+        "Odlukom"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Određivanje zadataka federalnim organima državne uprave, Vlada Federacije vrši:",
+      "options": [
+        "Zaključkom",
+        "Odlukom",
+        "Uredbom",
+        "Rješenjem"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "U Federaciji Bosne i Hercegovine postoji:",
+      "options": [
+        "Jedanaest federalnih ministarstava",
+        "Dvanaest federalnih ministarstava",
+        "Petnaest federalnih ministarstava",
+        "Šesnaest federalnih ministarstava"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Za obezbjeđenje, čuvanje i zanavljanje proizvoda posebne namjene nadležno je:",
+      "options": [
+        "Federalno ministarstvo odbrane - Federalno ministarstvo obrane",
+        "Federalno ministarstvo energije, industrije i rudarstva",
+        "Federalno ministarstvo privrede",
+        "Federalna direkcija za proizvodnju i promet proizvoda posebne namjene"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Za poslove sigurnosti saobraćaja na putevima nadležno je:",
+      "options": [
+        "Federalno ministarstvo prometa i komunikacije",
+        "Federalno ministarstvo unutrašnjih poslova - Federalno ministarstvo unutarnjih poslova",
+        "Federalno ministarstvo odbrane - Federalno ministarstvo obrane",
+        "Federalna direkcija za puteve"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Federalna uprava administracije nalazi se u sastavu:",
+      "options": [
+        "Federalnog ministarstva pravde",
+        "Federalnog ministarstva finansija - Federalnog ministarstva financija",
+        "Federalnog ministarstva unutrašnjih poslova - Federalnog ministarstva unutarnjih poslova",
+        "Federalnog zavoda za statistiku"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Zavod za javnu upravu nalazi se u sastavu:",
+      "options": [
+        "Federalnog ministarstva unutrašnjih poslova - Federalnog ministarstva unutarnjih poslova",
+        "Federalnog ministarstva pravosuđa i uprave",
+        "Federalnog ministarstva finansija - Federalnog ministarstva financija",
+        "Federalnog ministarstva pravde"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Upravne poslove koji ne spadaju u djelokrug nekog od organa uprave Federacije vrši:",
+      "options": [
+        "Federalno ministarstvo pravde",
+        "Vlada Federacije",
+        "Zavod za javnu upravu",
+        "Ured za zakonodavstvo"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Ured za zakonodavstvo je tijelo:",
+      "options": [
+        "Federalnog ministarstva pravde",
+        "Vlade Federacije",
+        "Parlamenta Federacije",
+        "Ureda predsjednika Federacije"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Finansijska policija je:",
+      "options": [
+        "U sastavu Federalnog ministarstva unutrašnjih poslova - Federalnog ministarstva unutarnjih poslova",
+        "U sastavu Federalne uprave policije",
+        "U sastavu Federalnog ministarstva finansija - Federalnog ministarstva financija",
+        "Samostalna služba pri Vladi Federacije"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Praćenje privređivanja i ekonomskog položaja privrednih subjekata je u nadležnosti:",
+      "options": [
+        "Federalnog ministarstva poljoprivrede, vodoprivrede i šumarstva",
+        "Federalnog ministarstva trgovine",
+        "Federalnog ministarstva razvoja, poduzetništva i obrta",
+        "Federalnog ministarstva energije, rudarstva i industrije"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "U sastavu Federalnog ministarstva energije, rudarstva i industrije je i:",
+      "options": [
+        "Zavod za mjeriteljstvo",
+        "Uprava za rudarstvo",
+        "Direkcija za industriju",
+        "Federalna komisija za električnu energiju"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Zavod za geologiju je u sastavu:",
+      "options": [
+        "Federalnog ministarstva prostornog uređenja i okoliša",
+        "Federalnog ministarstva energije, rudarstva i industrije",
+        "Federalne uprave za geodetske i imovinsko-pravne poslove",
+        "Samostalan"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Geološki poslovi su u nadležnosti:",
+      "options": [
+        "Federalnog ministarstva poljoprivrede, vodoprivrede i šumarstva",
+        "Federalnog ministarstva prometa i komunikacija",
+        "Federalnog ministarstva energije, rudarstva i industrije",
+        "Federalnog ministarstva prostornog uređenja i okoliša"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Federalna direkcija za civilnu avijaciju je u sastavu:",
+      "options": [
+        "Federalnog ministarstva odbrane - Federalnog ministarstva obrane",
+        "Federalnog ministarstva unutrašnjih poslova - Federalnog ministarstva unutarnjih poslova",
+        "Federalnog ministarstva prometa i komunikacija",
+        "Samostalna"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Zaštita civilnih žrtava rata je u nadležnosti:",
+      "options": [
+        "Federalnog ministarstva raseljenih osoba i izbjeglica",
+        "Federalnog ministarstva za pitanja branitelja i invalida domovinskog rata - Federalnog ministarstva za pitanja boraca i invalida odbrambeno-oslobodilačkog rata",
+        "Federalnog ministarstva zdravstva",
+        "Federalnog ministarstva rada i socijalne politike"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Izgradnja, rekonstrukcija, sanacija i popravka kuća i drugih stambenih objekata za potrebe smještaja izbjeglica i raseljenih lica je u nadležnosti:",
+      "options": [
+        "Federalnog ministarstva raseljenih osoba i izbjeglica",
+        "Federalnog ministarstva prostornog uređenja i okoliša",
+        "Federalnog ministarstva rada i socijalne politike",
+        "Federalnog ministarstva za pitanja branitelja i invalida domovinskog rata - Federalnog ministarstva za pitanja boraca i invalida odbrambeno-oslobodilačkog rata"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Zaštita mirnodopskih vojnih invalida je u nadležnosti:",
+      "options": [
+        "Federalnog ministarstva rada i socijalne politike",
+        "Federalnog ministarstva za pitanja branitelja i invalida domovinskog rata - Federalnog ministarstva za pitanja boraca i invalida odbrambeno-oslobodilačkog rata",
+        "Federalnog ministarstva zdravstva",
+        "Federalnog ministarstva odbrane - Federalnog ministarstva obrane"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Izgradnja, uređenje i održavanje spomen obilježja, grobalja boraca i stratišta nevinih žrtava je u nadležnosti:",
+      "options": [
+        "Federalnog ministarstva prostornog uređenja i okoliša",
+        "Federalnog ministarstva kulture i sporta",
+        "Federalnog ministarstva za pitanja branitelja i invalida domovinskog rata - Federalnog ministarstva za pitanja boraca i invalida odbrambeno-oslobodilačkog rata",
+        "Federalnog ministarstva odbrane - Federalnog ministarstva obrane"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Federalna uprava za zaštitu od zračenja i radijacijsku sigurnost je u sastavu:",
+      "options": [
+        "Federalnog ministarstva odbrane - Federalnog ministarstva obrane",
+        "Federalnog ministarstva obrazovanja i nauke",
+        "Federalnog ministarstva prometa i komunikacija",
+        "Federalnog ministarstva zdravstva"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Praćenje inovacija, razvoja i unapređenja tehnologija je u nadležnosti:",
+      "options": [
+        "Federalnog ministarstva obrazovanja i nauke",
+        "Federalnog ministarstva kulture i sporta",
+        "Federalnog ministarstva energije, rudarstva i industrije",
+        "Federalnog ministarstva razvoja, poduzetništva i obrta"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Zavod za zaštitu spomenika je u sastavu:",
+      "options": [
+        "Federalnog ministarstva obrazovanja i nauke",
+        "Federalnog ministarstva kulture i sporta",
+        "Federalnog ministarstva prostornog uređenja i okoliša",
+        "Zavod za zaštitu spomenika nije ustanova Federacije nego institucija države BiH"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Naučnoistraživačka djelatnost i zaštita i korištenje kulturno-historijskog nasljeđa je u nadležnosti:",
+      "options": [
+        "Federalnog ministarstva prostornog uređenja i okoliša",
+        "Federalnog ministarstva obrazovanja i nauke",
+        "Federalnog ministarstva kulture i sporta",
+        "Federalnog ministarstva razvoja, poduzetništva i obrta"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Turizam i ugostiteljstvo je u nadležnosti:",
+      "options": [
+        "Federalnog ministarstva energije, rudarstva i industrije",
+        "Federalnog ministarstva poljoprivrede, vodoprivrede i šumarstva",
+        "Federalnog ministarstva finansija - Federalnog ministarstva financija",
+        "Federalnog ministarstva trgovine"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Cijene roba i usluga su u nadležnosti:",
+      "options": [
+        "Federalnog ministarstva trgovine",
+        "Federalnog ministarstva finansija - Federalnog ministarstva financija",
+        "Centralne banke Bosne i Hercegovine",
+        "Federalnog zavoda za cijene"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Geološka istraživanja su u nadležnosti:",
+      "options": [
+        "Federalnog ministarstva poljoprivrede, vodoprivrede i šumarstva",
+        "Federalnog ministarstva prostornog uređenja i okoliša",
+        "Federalnog ministarstva energije, rudarstva i industrije",
+        "Federalnog ministarstva prometa i komunikacija"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Usmjeravanje dugoročnog razvoja upotrebe prirodnih resursa je u nadležnosti:",
+      "options": [
+        "Federalnog ministarstva poljoprivrede, vodoprivrede i šumarstva",
+        "Federalnog ministarstva prometa i komunikacija",
+        "Federalnog ministarstva prostornog uređenja i okoliša",
+        "Federalnog ministarstva energije, rudarstva i industrije"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Zdravstvena zaštita životinja je u nadležnosti:",
+      "options": [
+        "Federalne uprave za veterinarstvo",
+        "Ureda za veterinarstvo BiH",
+        "Federalnog ministarstva zdravstva",
+        "Federalnog ministarstva poljoprivrede, vodoprivrede i šumarstva"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Organiziranje, pripremanje i funkcionisanje službe osmatranja i obavještavanja je u nadležnosti:",
+      "options": [
+        "Federalne uprave civilne zaštite",
+        "Federalnog ministarstva odbrane - Federalnog ministarstva obrane",
+        "Federalnog ministarstva unutrašnjih poslova - Federalnog ministarstva unutarnjih poslova",
+        "Federalnog ministarstva prometa i komunikacija"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Poslovi prikupljanja podataka o minama i neeksplodiranim ubojitim sredstvima na teritoriji Federacije su u nadležnosti:",
+      "options": [
+        "Federalnog ministarstva odbrane - Federalnog ministarstva obrane",
+        "Federalne uprave civilne zaštite",
+        "Federalnog ministarstva unutrašnjih poslova - Federalnog ministarstva unutarnjih poslova",
+        "Centra za uklanjanje mina u BiH"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Komasacija zemljišta i premjeravanje zemljišta za posebne potrebe je u nadležnosti:",
+      "options": [
+        "Federalnog ministarstva prostornog uređenja i okoliša",
+        "Federalnog ministarstva pravde",
+        "Federalne uprave za geodetske i imovinsko-pravne poslove",
+        "Federalnog ministarstva finansija - Federalnog ministarstva financija"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Istraživanje atmosfere i vodenih resursa je u nadležnosti:",
+      "options": [
+        "Federalnog ministarstva poljoprivrede, vodoprivrede i šumarstva",
+        "Federalnog ministarstva obrazovanja i nauke",
+        "Federalnog ministarstva prostornog uređenja i okoliša",
+        "Federalnog meteorološkog zavoda"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Kreiranje strategije i programa razvoja i izradu mjera razvojne i ekonomske politike je u nadležnosti:",
+      "options": [
+        "Federalnog zavoda za programiranje razvoja",
+        "Federalnog ministarstva razvoja, poduzetništva i obrta",
+        "Federalnog ministarstva finansija - Federalnog ministarstva financija",
+        "Federalnog ministarstva trgovine"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Balansiranje roba za potrebe rezervi Federacije je u nadležnosti:",
+      "options": [
+        "Federalnog ministarstva odbrane - Federalnog ministarstva obrane",
+        "Federalne direkcije robnih rezervi",
+        "Federalnog ministarstva trgovine",
+        "Federalnog ministarstva energije, rudarstva i industrije"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "U Mostaru ima sjedište:",
+      "options": [
+        "Tri ministarstva",
+        "Četiri ministarstva",
+        "Pet ministarstava",
+        "Šest ministarstava"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Druga ministarstva, odnosno druga tijela federalne uprave, osim zakonom propisana, mogu imati sjedište u Mostaru na osnovu posebne odluke:",
+      "options": [
+        "Parlamenta Federacije",
+        "Predsjednika Federacije",
+        "Vlade Federacije",
+        "Premijera - predsjednika Vlade Federacije"
+      ],
+      "correct": 2
+    }
+  ]
